@@ -4,9 +4,9 @@
 1411392897026,OK
 75509015937024,ATTENTION
 75509024325632,Exit the game?
-75509024325633,{title}\n Play this song?
-75509024325634,Replay this song from the beginning?\n  *You will lose any unsaved data.
-75509024325635,Cancel and return to the selection screen.\n  *You will lose any unsaved data. Proceed?
+75509024325633,{title}\nPlay this song?\n(Difficulty:{difficulty})
+75509024325634,Replay this song from the beginning?\n*You will lose any unsaved data.
+75509024325635,Cancel and return to the selection screen.\n*You will lose any unsaved data. Proceed?
 75509024325636,未翻訳
 75509024325637,未翻訳
 56481645935624192,Play in English?

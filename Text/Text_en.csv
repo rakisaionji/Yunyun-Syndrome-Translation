@@ -62,22 +62,22 @@
 385428742242205696,RANK
 385439829188575232,Arr. : {name}
 385849607983366144,E#R&%O#R
-385849608025309184,Yunyun\nHNNNGH! NEED MOAR DENPA STAT!
-385849608025309185,"Yunyun\nWhoa, ya broke it! Go check out LOAD DREAM!"
+385849608025309184,>Yunyun\nHNNNGH! NEED MOAR DENPA STAT!
+385849608025309185,">Yunyun\nWhoa, ya broke it! Go check out LOAD DREAM!"
 385884829454073856,E#R&%O#R
 385903467410128896,EVENT LIST
 385903467410128897,GALLERY
 385903467410128898,CREDITS
-385903467410128899,Yunyun\nA special page? Poggers!
+385903467410128899,>Yunyun\nA special page? Poggers!
 385903467426906112,AUTOSAVE
 385903467426906113,MEMORY {num}
 385903467426906114,▼DATE\n /{MM}/{dd}{yyyy}\n {time}
 385930878222761984,EPISODE: {text}
 387668255198838784,Beatmap : {name}
 391392601318785024,Yunyun Wiki\n pediQ
-400535952903274496,Yunyun\nGotta get more hype! Gotta get more denpa!
-400535952945217536,Yunyun\nI have to deliver these feels to Qtie!
-400535952945217537,Yunyun\nYunyuuun!
+400535952903274496,>Yunyun\nGotta get more hype! Gotta get more denpa!
+400535952945217536,>Yunyun\nI have to deliver these feels to Qtie!
+400535952945217537,>Yunyun\nYunyuuun!
 402137850064306176,BACK
 402152904314748928,System
 402152904352497664,Rhythm Game
@@ -182,7 +182,7 @@
 423178542169358336,1024 x 576
 423178542207107072,854 x 480
 424005319653490688,DISCORD
-424005319695433728,Not enough denpa!\n You gotta get 100% to transmit!
+424005319695433728,Not enough denpa!\nYou gotta get 100% to transmit!
 424005319695433729,Wanna load your save?
 424005319695433730,Wanna overwrite your save?
 424005319695433731,1: The First Signal
@@ -312,7 +312,7 @@
 433074816867794944,Normal Keyboard
 433074816901349376,The keyboard that Daddy used!
 433074816901349377,Awesome Keeb
-433074816901349378,It can autoplay Denpa Transmissions! (Won't affect your score or achievements!)
+433074816901349378,It can autoplay Denpa Transmissions! \n(Won't affect your score or achievements!)
 433303487230672896,(Another day of bedrotting...\nIf only I had more dokidokis in my kokoro...)
 433427943441727488,#???
 433702239711952896,Confirm
@@ -397,3 +397,4 @@
 440953566032723968,Keyboard SFX
 440953566074667008,Effect SFX
 440953566074667009,Voice
+443938154648600576,Yunyun Syndrome!? Rhythm Psychosis Demo Version {version}
