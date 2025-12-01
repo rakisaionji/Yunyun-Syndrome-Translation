@@ -7,6 +7,7 @@
 75509024325633,{title}\nPlay this song?\n(Difficulty:{difficulty})
 75509024325634,Replay this song from the beginning?\n*You will lose any unsaved data.
 75509024325635,Cancel and return to the selection screen.\n*You will lose any unsaved data. Proceed?
-75509024325636,未翻訳
-75509024325637,未翻訳
+75509024325636,Does {adjust:F2} look good to you?
+75509024325637,Need more adjusting?
 56481645935624192,Play in English?
+77196559566143488,Replay this song from the beginning?
