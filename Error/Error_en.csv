@@ -1,3 +1,5 @@
-19049821143040,エラーが発生しました。\nタイトルに戻ります。
-19049909223424,予期せぬエラーが発生しました。{error}
-19049913417728,楽曲データの読み込みに失敗しました。再起動します{error}
+19049821143040,An error has occurred. Returning to the title screen.
+19049909223424,An unexpected error has occurred. {error}
+19049913417728,Failed to load the music data. Restarting. {error}
+16976489640787968,No save data found.
+123633217853095936,Failed to load the ranking data.
