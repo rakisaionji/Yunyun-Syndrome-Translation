@@ -48,14 +48,14 @@
 375435576835473410,Obserwujący
 375435576835473411,Obserwowani
 384731644312059904,boot sequence:::START
-384731644341420032,[RECEBENDO SINAL DA ENTIDADE YUNYUN]
+384731644341420032,[RECEIVING SIGNAL YUNYUN ENTITY]
 384731644341420033,....................
-384731644341420034,ERRO: SOBREPOSIÇÃO DE IDENTIDADE DETECTADA
-384731644341420035,fundindo usuário com entidade
-384731644341420037,SINCRONIZAÇÃO CONCLUÍDA
-384731644341420038,BEM-VINDO AO Yunyun Denpa Syndrome
-384732430026833920,Q SYSTEM versão 0.88 \n©Alliance Arts Inc. / Desenvolvido por WHO YOU
-384744829031186432,WYJŚCIE
+384731644341420034,ERROR:IDENTITY OVERLAY DETECTED
+384731644341420035,merging user with entity
+384731644341420037,SYNC COMPLETE
+384731644341420038,WELCOME TO Syndrom Yunyun: Rytmiczna Psychoza
+384732430026833920,Q SYSTEM version 0.88\n©Alliance Arts Inc. / Developed by WHO YOU
+384744829031186432,WYJDŹ
 384746919015120896,WCZYTAJ SEN
 384746919073841152,DODATKI
 385428742204456960,HIGH SCORE
@@ -90,7 +90,7 @@
 402250473019703299,"> Yunyun\nJęzyk ustawiony na polski, yun!"
 402250473019703300,System
 402250473019703301,Ekran
-402250473019703302,Tryb ekranowy
+402250473019703302,Tryb okienkowy
 402250473019703303,Pełnoekranowy
 402250473019703304,Bez obramowania
 402250473019703305,Rozdziel-\nczość
@@ -219,8 +219,8 @@
 427623371884363778,■Piosenki Denpa
 427623371884363779,"Graj w Piosenki Denpa, łap rytm, odbieraj Sygnały i poczuj doki-doki!"
 427623371884363780,Tutorial/Screenshot2
-427623371884363781,■WZROST POZIOMU SYNGAŁÓW DENPA
-427623371884363782,Piosenki Denpa ładują Poziom Sygnałów Denpa! Poprzez odblokowywanie osiągnięć podniesiesz go jeszcze wyżej! Celuj w 100%!
+427623371884363781,■WZROST POZIOMU SYGNAŁÓW DENPA
+427623371884363782,"Granie Piosenek Denpa, zdobywanie osiągnięć, otrzymywanie Teorii Spiskowych, odblokowywanie zakończeń — wszystko to podnosi Poziom Sygnałów Denpa, yun!\nCelujmy w 100%!"
 427623371884363783,Tutorial/Screenshot1
 427623371884363784,■WZROST ZDROWIA
 427623371884363785,"Granie Piosenek Denpa podbija Poziom Doki-Doki! O innych parametrach... opowiem Ci później, yun!"
@@ -305,7 +305,7 @@
 432475509538062344,"(Śmieci. Mamusia krzyczy, jak nabrudzę w salonie, a rano nie umiem wykaraskać się z łóżka, więc ciągle ich przybywa...)"
 432475509538062345,(Stary laptop. Próbuję pisać powieść. Z historią jest już chyba całkiem nieźle!)
 432475509538062346,"(Figurki z automatów. Lubię grać na łapaczach UFO, \nwięc trochę się ich nazbierało.)"
-432475509538062347,"(Za oknem boczna uliczka centrum miasta. Nie wiem, \nczy to światło słońca, czy latarni...)"
+432475509538062347,"(Za oknem boczna uliczka centrum miasta. Nie wiem, czy to światło słońca, czy latarni...)"
 432475509538062348,(Lubię owoce morza!)
 432475509538062349,"(Magiczne pudełko, które daje ciepłe jedzenie nawet jak \nMamusi nie ma. Yunyun kanonicznie też lubi mikrofalówki.)"
 432475509538062350,"(Ślady obecności Mamusi. Czasem jak wstanę, \nrzeczy są poprzestawiane.)"
@@ -347,7 +347,7 @@
 435459201957003277,Mamusiuuu!\nWrócisz do mnie?
 435459201957003278,"Przepraszam, że tak nagle. Chciałam tylko napisać.\nU mnie w porządku. Tak jak mówiłaś, siedzę cicho i nie sprawiam nikomu kłopotów. Żyję sobie. Chcę się przyłożyć do nauki. Wiem, że bycie Hikikomori to dla Ciebie kłopot, więc chcę się zmienić."
 435459201957003279,"Mamusiu, staram się radzić sobie sama."
-435459201957003280,"Powodzenia w pracy! A, nie chcę wywierać presji. Po prostu chcę, żebyś była zdrowa..."
+435459201957003280,"Powodzenia w pracy! Ah, nie chcę wywierać presji. Po prostu chcę, żebyś była zdrowa..."
 435459201957003281,"Mamusiu, nie martw się o mnie.\nTrzymam się."
 435459201957003282,Kocham cię.
 435469093350572032,C\nH\nC\nĘ\n\nC\nI\nĘ\n\nZ\nO\nB\nA\nC\nZ\nY\nĆ\n! Jest mi smutno i jestem głodna!
@@ -391,7 +391,7 @@
 436557321121988608,"Celem gry „Syndrom Yunyun: Rytmiczna Psychoza”\njest wbicie 100% Poziomu Sygnałów Denpa!\nWszystko po to, by móc wykonać „Transmisję \nSygnałów Denpa” między Yunyun i Q-chan!"
 436636402375098368,■TRYB: MAMUSIA IDZIE!
 436636402400264192,"Wciśnij Tab, a ekran zmieni się w baaardzo grzeczny! Nawet jak Mamusia zerknie, nie skapnie się, że grasz. Bezpieczna sprawa!"
-437990325392408576,"Uruchomić AUTO-OPĘTANIE YUNYUN?\n(Wskaźnik Yunyun utraci -50%. Przez 25 minut losowo puszczane będą Piosenki Denpa, w trakcie którym będziesz w stanie napatoczyć się na losowe Teorie Spiskowe do 4 gwiazdek.)"
+437990325392408576,"Uruchomić AUTO-OPĘTANIE YUNYUN?\n(Wskaźnik Yunyun utraci -50%. Przez 15 minut losowo puszczane będą Piosenki Denpa, w trakcie którym będziesz w stanie napatoczyć się na losowe Teorie Spiskowe do 4 gwiazdek.)"
 437990325430157312,Czas do zakończenia
 437990325430157313,Wygenerowane Teorie Spiskowe
 437990325430157314,Wyłączyć AUTO-OPĘTANIE YUNYUN?
@@ -511,7 +511,7 @@
 488711951834316802,"> Yunyun\nSpokojnie. Wszystko będzie dobrze.\nNigdy cię samej nie zostawię, yun!"
 488711951834316803,"> Yunyun\nNiech rzeczywistość, która zasmuca Q-chan,\nwpadnie w kołowrotek."
 488711951834316804,> Yunyun\nPrześlę Ci Sygnały Denpa.
-490310779050033152,Anuluj post
+490310779050033152,Anulowanie postów
 490310779100364800,■Anuluj publikację fałszywych postów!
 490310779100364801,Możesz anulować publikację fałszywych postów i generowanie Teorii Spiskowych!
 490310779100364802,Ehehe. Zobaczę Mamusię…!
@@ -554,7 +554,7 @@
 496417239572054016,Ta funkcja nie jest już dostępna.
 496417908630650880,∞  ERROR
 496681509798969344,Reset
-496681509815746560,"Czy zresetować „Wspomnienia Yunyun” i „Poziom Denpa”?\n(Twój wynik, osiągnięcia, zdobyte piosenki, \ni odblokowane ilustracje\nzostaną zachowane)"
+496681509815746560,"Zresetować „Wspomnienia Yunyun""?\n※ Wyniki, zdobyte piosenki i My Pictures nie zostaną zresetowane.\n※ Poziom Sygnałów Denpa niepowiązany z wynikami zostanie zresetowany."
 496681509815746561,"> Yunyun\nReset... Czy to znaczy, że...\npoziom Sygnałów tego świata wróci do pierwotnego stanu?"
 496681509815746562,> Yunyun\nCzy moje wspomnienia też się zresetują...?
 496681509815746563,"> Yunyun\nNawet jak nic nie będę pamiętać, to będę mogła \nzacząć od zera i poczuć bicie serca Q-chan..."
@@ -584,7 +584,7 @@
 499259063118495756,DIARY.ZIP
 499259063126884352,START?
 499259063126884353,Syndrom Yunyun: Rytmiczna Psychoza
-499259063126884354,DONIDEMONARE
+499259063126884354,"Niech się dzieje, co chce"
 499259063126884355,Pierwszy Sygnał???
 499259063126884356,Pierwszy Sygnał???
 499259063131078656,"C:#?*nfdg?:#""L$&?@&?"
@@ -605,25 +605,25 @@
 499259063131078671,777
 499259063131078672,556
 499259063131078673,"1,000"
-499259063131078674,"Głośno o Teorii Spiskowej, według której, Q-chan to Prorokini Sygnałów Yunyun, a jej Schizoposty kryją Prawdę. Podobno Sygnały Yun są szyfrowane specjalną steganografią, a po zrobieniu wykresu częstotliwości słowa Yun i stworzeniu spektrogramu na bazie FFT można odkryć cykliczne wzorce niewidoczne w zwykłym tekście.\n<color=#1D9BF0>Pokaż więcej</color>"
+499259063131078674,Teoria: Q-chan to prorokini Yunyun. Schizoposty mają ukrywać prawdę. Temat zyskuje rozgłos. Sygnały Yun szyfrowane steganografią. Analiza FFT ujawnia wzorce. Cykle niewidoczne w zwykłym tekście. \n<color=#1D9BF0>Pokaż więcej</color>
 499259063131078675,Podsumowanie Odbiorców Sygnałów Q
 499259063131078676,"1,000"
 499259063131078677,"3,614"
 499259063131078678,"4,256"
-499259063131078679,"Głośno o Teorii Spiskowej, według której, Q-chan to Wyzwolicielka Świata chcąca wywołać rewolucję za pomocą Yunyun SP.\n\nWedług jednego spiskowca:\n„Jest ona niszczycielką głębokiego państwa i rewolucjonistką. Yunyun to Bogini Rewolucji!”\n<color=#1D9BF0>Pokaż więcej</color>"
+499259063131078679,Głośno o teorii o Q-chan jako wybawicielce. Ma wywołać rewolucję przez Yunyun. Teoria szybko się rozprzestrzenia. Zyskuje wielu zwolenników. Mówi się o walce z Deep State. Q-chan jako symbol rewolucji. \n<color=#1D9BF0>Pokaż więcej</color>
 499259063131078680,Podsumowanie Odbiorców Sygnałów Q
 499259063131078681,327
 499259063131078682,909
 499259063131078683,"7,015"
-499259063131078684,"Głośno o Teorii Spiskowej, według której, głębokie państwo uznało „Odbiorców Sygnałów Q” za zagrożenie i planuje działania przeciwko Q-chan.\n\n„Odbiorcy Sygnałów Q” to grupa, która rozszyfrowuje Schizoposty Q i interpretuje je jako Teorie Spiskowe. Ich wpływ w internecie rośnie z każdym dniem.\n<color=#1D9BF0>Pokaż więcej</color>"
+499259063131078684,Teoria: Deep State widzi Q jako zagrożenie. Rozważa działania wobec Q-chan. Dotyczy też odbiorców sygnałów Q. To grupa analizująca jej wpisy. Interpretują je jako teorie. Ich wpływ w sieci rośnie. \n<color=#1D9BF0>Pokaż więcej</color>
 499259063131078685,Podsumowanie Odbiorców Sygnałów Q
 499259063131078931,Świat pogrąża się w skrajnym chaosie.
-499259063131078932,"Wewnątrz społeczności znanej jako Odbiorcy Sygnałów Q zaostrzają się walki frakcyjne. Uważa się, że powodem są różnice w interpretacji relacji między Q-chan a Yunyun.\n\nObecnie społeczność podzielona jest na trzy siły: „Team Yun-Q”, „Team Q-Yun” i „Team Switch”. Każda z frakcji głosi swoje racje na socialach i forach, codziennie tocząc zaciekłe gównoburze.\n\nPewien Odbiorca Sygnałów Q zauważa: „To wszystko jest wynikiem tego, że charyzma Q-chan za bardzo wzrosła”."
-499259063131078934,"Wybuch walk frakcyjnych w społeczności Odbiorców Sygnałów.\nStarcie trzech sił: Team Yun-Q, Team Q-Yun i Team Switch."
-499259063131078935,Anonymous
-499259063131078936,Anonymous
-499259063131078937,Anonymous
-499259063131078938,Anonymous
+499259063131078932,"W społeczności odbiorców Q rośnie konflikt. Trwają ostre spory między frakcjami. Powodem są różne interpretacje. Dotyczą relacji Q-chan i Yunyun. Grupa podzieliła się na trzy obozy. Yun-Q, Q-Yun oraz frakcja mieszana. Każda strona broni swoich poglądów. Spory toczą się w sieci codziennie. Debaty są coraz bardziej intensywne. Pojawiają się nowe napięcia. Mówi się o rosnącej charyzmie Q."
+499259063131078934,"Wybuch walk frakcyjnych w społeczności Odbiorców. Starcie 3 sił: Team Yun-Q, Team Q-Yun i TeamSwitch."
+499259063131078935,Anonim
+499259063131078936,Anonim
+499259063131078937,Anonim
+499259063131078938,Anonim
 499301735589904384,"O nie!\nUpuściłaś mnie, yun!"
 499349231708045312,Klawiatura Prosa
 499349231708045313,Klawiatura tylko dla prosów!
@@ -637,7 +637,7 @@
 499763409333682176,"Dobranoc, Yunyun"
 499763409333682177,Q.E.D.
 499763409333682178,Q Clearly Paranoid
-499763409333682179,DONIDEMONARE
+499763409333682179,"Niech się dzieje, co chce"
 499763409333682180,Pierścionek Zaręczynowy
 499763409333682181,YUN DIE
 499763409333682182,Nie waż się mnie zostawić...
@@ -691,7 +691,7 @@
 503028339482722304,Mamusia już nie przyjdzie.
 503028339482722305,"Wygląda na to, że w tej chwili nie możesz tego użyć."
 503028339482722306,"Nie możesz tego użyć, yun."
-504049219386114048,WSZYSTKIE
+504049219386114048,ALL
 504424741601443840,"Ten utwór nie został jeszcze odblokowany, yun."
 504850194686443520,Część 1 historii. Prolog.\n(Liczba możliwych do wygenerowania Teorii Spiskowych jest ograniczona.)
 504850194707415040,Część 2 historii! Główna część!\nCeluj w 100% Sygnałów Denpa!\n(Generuj mnóstwo 5-gwiazdkowych Teorii Spiskowych!)

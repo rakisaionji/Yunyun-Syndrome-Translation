@@ -220,7 +220,7 @@
 427623371884363779,"Denpa Şarkısına tıkla,\nritimle sinyal al\nve heyecanı hisset!"
 427623371884363780,Tutorial/Screenshot2
 427623371884363781,■Denpa Seviyesi Artışı
-427623371884363782,Denpa Şarkıları ile Denpa Seviyesi yükselir! Başarımları açarsan fırlar! Hedefin %100 olsun!
+427623371884363782,"Denpa Şarkısı oynamak, Başarım almak, Komplo Teorisi bulmak, Son'a ulaşmak… hepsi Denpa Seviyeni yükseltir!\nHadi %100'ü hedefleyelim!"
 427623371884363783,Tutorial/Screenshot1
 427623371884363784,■Sağlık Artışı
 427623371884363785,Denpa Şarkısı oynarsan Heyecan Seviyesi artar! Diğer parametreleri... sonra anlatırım!
@@ -391,7 +391,7 @@
 436557321121988608,"%100'e ulaşmak,\nYunyun sendromunun amacı!\n\nHer şey Q'ya 'YUNYUN DENPA YAYINI' yapmak için!"
 436636402375098368,■ANNECİĞİM GELDİ MODU!
 436636402400264192,"Tab tuşuna basınca çoook masum bir ekrana geçersin! Anneciğin görse bile oyun oynadığın anlaşılmaz, güvendesin!"
-437990325392408576,"YUNYUN OTO-FÜZYON başlatılsın mı?\n(Yunyun Seviyesi -%50. 15 dakika boyunca rastgele ""Denpa Şarkısı"" çalınır ve\n rastgele 4 yıldıza kadar komplo teorisi üretilir.)"
+437990325392408576,"""YUNYUN OTO-FÜZYON başlatılsın mı?\n(Yunyun Seviyesi -%50. 15 dakika boyunca rastgele """"Denpa Şarkısı"""" çalınır ve rastgele 4 yıldıza kadar komplo teorisi üretilir.)"""
 437990325430157312,Bitişe kalan süre
 437990325430157313,Ortaya çıkan Komplo Teorileri
 437990325430157314,Yunyun Füzyon Modu kapatılsın mı?
@@ -554,7 +554,7 @@
 496417239572054016,Artık kullanılamayan bir özellik.
 496417908630650880,∞ ERROR
 496681509798969344,KURTARMA
-496681509815746560,"Yunyun'un Anıları' ve 'Denpa Seviyesi'\nsıfırlansın mı?\n(SKOR, başarımlar, alınan şarkılar, Resimler\nsıfırlanmaz)"
+496681509815746560,"""Yunyun'un Anıları"" sıfırlansın mı?\n※ Skor, alınan şarkılar ve My Pictures sıfırlanmaz.\n※ Skora bağlı olmayan Denpa Seviyesi sıfırlanır."
 496681509815746561,"> Yunyun\n""YENİLENMESİ""... Bu dünyanın Denpa seviyesini başlangıç seviyesine geri döndürmek mi demek?"
 496681509815746562,> Yunyun\nBu... Yunyun'un anıları da mı...?
 496681509815746563,"> Yunyun\nHiçbir şey bilmeyen ben olarak,\nQ ile heyecanlanabileceksem..."
@@ -584,7 +584,7 @@
 499259063118495756,DIARY.ZIP
 499259063126884352,BAŞLAT?
 499259063126884353,Yunyun Denpa Sendromu
-499259063126884354,DONIDEMONARE
+499259063126884354,Artık ne olursa olsun
 499259063126884355,İlk Sinyal mi??
 499259063126884356,İlk Sinyal mi??
 499259063131078656,HATA#&%?! HATA#&%?!
@@ -605,21 +605,21 @@
 499259063131078671,777
 499259063131078672,556
 499259063131078673,"1,000"
-499259063131078674,"Q'nun Yunyun Denpa'nın kahini olduğu ve manifestolarında hakikatin yazılı olduğu komplo teorisi gündemde.\nÖzel bir steganografi ile şifrelendiği, Yun'un frekansı dalga formuna dönüştürülüp FFT analizi ile spektrum çıkarıldığında, normal metinlerde bulunmayan periyodik bir motifin ortaya çıktığı söyleniyor.\n<color=#1D9BF0>Daha fazla göster</color>"
+499259063131078674,Q'nun Yunyun Denpa'nın kahini olduğu söyleniyor. Manifestolarda hakikatin yazdığı iddia ediliyor. Bu komplo teorisi gündemde. Metnin steganografi ile şifrelendiği söyleniyor. Yun frekansı dalgaya çevrilip analiz ediliyor. FFT ile spektrumda periyodik motif bulunuyor. \n<color=#1D9BF0>Daha fazla göster</color>
 499259063131078675,Q Sinyal Alıcısı Arşivi
 499259063131078676,"1,000"
 499259063131078677,"3,614"
 499259063131078678,"4,256"
-499259063131078679,"Q'nun dünyanın kurtarıcısı olduğu ve Yunyun manifestosu ile devrim yapmaya çalıştığı komplo teorisi gündemde.\n\nBu komplo teorisyenine göre:\n""O, derin devletin yok edicisi ve bir devrimci.\nYunyun insanları özgürleştirecek devrim tanrıçasıdır.""\n<color=#1D9BF0>Daha fazla göster</color>"
+499259063131078679,"Q'nun dünyanın kurtarıcısı olduğu söyleniyor. Yunyun manifestosu ile devrim planladığı iddia ediliyor. Bu komplo teorisi gündemde. Bir teorisyene göre şöyle deniyor: ""O, derin devletin yok edicisi ve devrimci. Yunyun insanları özgürleştiren bir tanrıçadır."" \n<color=#1D9BF0>Daha fazla göster</color>"
 499259063131078680,Q Sinyal Alıcısı Arşivi
 499259063131078681,327
 499259063131078682,909
 499259063131078683,"7,015"
-499259063131078684,"Derin devletin ""Q Sinyal Alıcıları""nı tehlikeli görüp Q'ya karşı önlem almayı düşünmeye başladığı komplo teorisi gündemde.\n\n""Q Sinyal Alıcıları"", Q manifestosunu çözümleyip komplo teorisi olarak yorumlayan bir gruptur ve internetteki etkileri her geçen gün artmaktadır.\n<color=#1D9BF0>Daha fazla göster</color>"
+499259063131078684,"Derin devletin Q'ya önlem düşündüğü söyleniyor. Q Sinyal Alıcıları tehlikeli görülüyor. Bu komplo teorisi gündemde. ""Q Sinyal Alıcıları"" bir topluluktur. Q manifestosunu çözüp yorumluyorlar. Bunu komplo teorisi olarak ele alıyorlar. Etkileri her gün artıyor. \n<color=#1D9BF0>Daha fazla göster</color>"
 499259063131078685,Q Sinyal Alıcısı Arşivi
 499259063131078931,Kaosun Zirvesindeki Dünya
-499259063131078932,"Q Sinyal Alıcısı adlı topluluk içinde grup çatışmaları şiddetleniyor. Olayların, Q ve Yunyun'un ilişkisine dair yorum farklılıklarından patlak verdiği söyleniyor.\nŞu anda topluluk ""Yun-Q'cular"", ""Q-Yun'cular"" ve ""Değişkenler"" olarak üç güce bölündü. Her grup sosyal medya ve forumlarda kendi iddialarını savunuyor ve her gün şiddetli klavye savaşları yaşanıyor.\nBir Q Sinyal Alıcısı, ""Her şey Q'nun karizmasının çok fazla artmasının sonucu."" diyerek duruma dikkat çekiyor."
-499259063131078934,"Sinyal Alıcısı Topluluğunda Grup Savaşı Patlak Verdi\nYun-Q'cular, Q-Yun'cular ve Değişkenler Karşı Karşıya"
+499259063131078932,"Q Sinyal Alıcısı topluluğunda iç çatışma artıyor. Sebep, Q ile Yunyun ilişkisine dair yorum farkı. Topluluk üç gruba ayrılmış durumda: ""Yun-Q'cular"", ""Q-Yun'cular"" ve ""Reversler"". Her grup sosyal medya ve forumlarda aktif. Kendi görüşlerini savunuyorlar. Her gün sert klavye savaşları yaşanıyor. Bir Q Sinyal Alıcısı şöyle diyor: ""Her şey Q'nun karizmasının aşırı artması."" Bu durumun ana nedeni olarak gösteriliyor."
+499259063131078934,"Sinyal alıcıları arasında grup savaşı çıktı Yun-Q, Q-Yun ve Revers grupları karşı karşıya"
 499259063131078935,Anonim
 499259063131078936,Anonim
 499259063131078937,Anonim
@@ -637,7 +637,7 @@
 499763409333682176,İyi geceler Yunyun
 499763409333682177,Q.E.D.
 499763409333682178,Q Açıkça Paranoyak
-499763409333682179,DONIDEMONARE
+499763409333682179,Artık ne olursa olsun
 499763409333682180,Nişan Yüzüğü
 499763409333682181,YUN GEBER
 499763409333682182,Beni boşlama sakın...

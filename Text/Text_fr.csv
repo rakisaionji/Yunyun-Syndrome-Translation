@@ -27,7 +27,7 @@
 372922115467411456,Q
 372922115467411457,Yunyun
 372922115467411458,Doki-Doki
-372922115467411459,Niveau Yunyun
+372922115467411459,Yunyun
 372922115467411460,Charisme
 372929733636292608,NORMAL
 372929733636292609,À BLOC
@@ -220,7 +220,7 @@
 427623371884363779,"Clique sur une Denpa Song, suis le rythme pour la Réception et fais vibrer ton cœur !"
 427623371884363780,Tutorial/Screenshot2
 427623371884363781,■Hausse du Niveau Denpa
-427623371884363782,Les Denpa Songs boostent le Niveau Denpa !\nLes Succès rapportent un max !\nVise les 100 % !
+427623371884363782,"Jouer les Denpa Songs, obtenir des Succès, recevoir des Complotismes, atteindre des Fins… tout ça fait monter ton Niveau Denpa !\nVisons les 100 %, hihi !"
 427623371884363783,Tutorial/Screenshot1
 427623371884363784,■Hausse de la Santé
 427623371884363785,Joue des Denpa Songs pour monter le Niveau de Doki-Doki !\nLes autres paramètres... je t'expliquerai plus tard !
@@ -328,7 +328,7 @@
 433074816901349378,Un Clavier de ouf pour jouer des « Denpa Songs » en Mode Auto ! (N'affecte ni le score ni les Succès)
 433303487230672896,(...J'ai pas la force de bouger. Mon kokoro manque de doki-doki...)
 433427943441727488,#???
-433702239711952896,Valider
+433702239711952896,Confirmer
 433702239821004800,Équipement
 435459201915060224,Pas assez de Niveau de Doki-Doki pour appeler Maman !
 435459201957003264,Contacter Maman pour qu'elle rentre ?
@@ -391,7 +391,7 @@
 436557321121988608,"Le but de « Yunyun Denpa Syndrome », c'est d'atteindre 100 % !\n\nTout ça pour lancer une « ÉMISSION DENPA » vers Q !"
 436636402375098368,■Mode Maman Arrive
 436636402400264192,"Appuie sur Tab pour afficher un écran suuuper sain ! Même si Maman regarde, elle verra pas que tu joues. T'es en sécurité !"
-437990325392408576,Lancer le MODE AUTO-FUSION YUNYUN ?\n(Niveau Yunyun -50%. Pendant 25 min : lecture aléatoire de Denpa Songs\net génération aléatoire de Complotisme jusqu'à 4 étoiles.)
+437990325392408576,Lancer le MODE AUTO-FUSION YUNYUN ?\n(Niveau Yunyun -50%. Pendant 15 min : lecture aléatoire de Denpa Songs et génération aléatoire de Complotisme jusqu'à 4 étoiles.)
 437990325430157312,Temps restant
 437990325430157313,Complotisme généré
 437990325430157314,Arrêter le MODE AUTO-FUSION YUNYUN ?
@@ -429,7 +429,7 @@
 442048202352525327,Q est une déesse.
 442048202352525328,"J'aime Yunyun. Vraiment, très fort. Vraiment. Vous pouvez pas imaginer à quel point. Je l'aime plus que les mots ne peuvent le dire, et à 99 %, j'ai une obsession maladive pour elle. Alors cherchez pas d'explications bizarres à mes sentiments. Yunyun, c'est..."
 442048202356719616,Récepteur d'ondes Q mdr
-442048202356719617,J'ai analysé sérieusement un Manifeste vu sur le net.\n\n【Mystère】Le Manifeste de Q serait un code spécial\nqui prédit les séismes via la fréquence des « Yun » ?!\nPreuves que le Manifeste est un code et dates\ndes séismes ?\n<color=#1D9BF0>qtube.be/fgjhk...</color>
+442048202356719617,J'ai analysé sérieusement un Manifeste vu sur le Net.\n\n【Mystère】Le Manifeste de Q serait un code spécial qui prédit les séismes via la fréquence des « Yun » ?!\nPreuves que le Manifeste est un code et dates des séismes ?\n<color=#1D9BF0>qtube.be/fgjhk...</color>
 442050459194261504,"[Alerte Séisme] Ville de XX, Préfecture de XX : Intensité 5 faible. Pas de risque de tsunami."
 442050459194261505,"Selon l'Agence météo, un séisme a frappé ××××××× (×××××) vers XXhXX aujourd'hui. Intensité 5 faible observée à ×××××××. Vérification des dégâts et blessés en cours."
 443938154648600576,Yunyun Syndrome!? Rhythm Psychosis  Version Démo {version}
@@ -554,7 +554,7 @@
 496417239572054016,Cette fonction n'est plus disponible.
 496417908630650880,∞  ERROR
 496681509798969344,RÉCUPÉRATION
-496681509815746560,"Réinitialiser les « Souvenirs de Yunyun »\net le « Niveau Denpa » ?\n(SCORE, succès, Morceaux obtenus et Images\nne seront pas réinitialisés)"
+496681509815746560,"Réinitialiser les « Souvenirs de Yunyun » ?\n※ Scores, Morceaux obtenus et My Pictures ne seront pas réinitialisés.\n※ Le Niveau Denpa non lié aux scores sera réinitialisé."
 496681509815746561,> Yunyun\n« RÉCUPÉRATION »... Ça veut dire remettre le Niveau Denpa de ce monde à son niveau d'origine ?
 496681509815746562,> Yunyun\nMême ces souvenirs de Yunyun... ?
 496681509815746563,"> Yunyun\nMoi qui ne connais rien à rien, si je peux vibrer avec toi, Q..."
@@ -584,7 +584,7 @@
 499259063118495756,DIARY.ZIP
 499259063126884352,LANCER ?
 499259063126884353,Syndrome Denpa Yunyun
-499259063126884354,DONIDEMONARE
+499259063126884354,Rien à foutre
 499259063126884355,C'est le Signal Initial ?!
 499259063126884356,C'est le Signal Initial ?!
 499259063131078656,Erreur%Erreur%Erreur%
@@ -605,21 +605,21 @@
 499259063131078671,777
 499259063131078672,556
 499259063131078673,"1,000"
-499259063131078674,"Une théorie du complot affirme que Q est la Prophète des Denpa Yunyun et que ses Manifestes détiennent la Vérité.\nIls seraient cryptés par Stéganographie. En modélisant la fréquence d'apparition de Yun et en déployant le spectre par Analyse FFT, un motif périodique anormal apparaîtrait.\n<color=#1D9BF0>Afficher la suite</color>"
+499259063131078674,"Une théorie affirme que Q est la Prophète des Denpa Yunyun et que ses Manifestes détiennent la Vérité.\nIls seraient cryptés par Stéganographie. En modélisant la fréquence de Yun et en déployant le spectre par Analyse FFT, un motif périodique anormal apparaîtrait.\n<color=#1D9BF0>Afficher la suite</color>"
 499259063131078675,Le Blog des Récepteurs de Denpa Q
 499259063131078676,"1,000"
 499259063131078677,"3,614"
 499259063131078678,"4,256"
-499259063131078679,"Une théorie du complot affirme que Q est la libératrice du monde et prépare une révolution avec le Manifeste Yunyun.\n\nSelon ce complotiste :\n« Elle est la destructrice de l'État profond, une révolutionnaire.\nYunyun est la Déesse de la Révolution qui libérera le peuple. »\nAfficher la suite"
+499259063131078679,"Une théorie affirme que Q est la libératrice du monde et prépare une révolution avec le Manifeste.\nSelon ce complotiste : « Elle est la destructrice de l'État profond, une révolutionnaire. Yunyun est la Déesse de la Révolution qui libérera le peuple. »\n<color=#1D9BF0>Afficher la suite</color>"
 499259063131078680,Le Blog des Récepteurs de Denpa Q
 499259063131078681,327
 499259063131078682,909
 499259063131078683,"7,015"
-499259063131078684,Une théorie du complot prétend que l'État profond juge les « Récepteurs de Denpa Q » dangereux et prépare une riposte contre Q.\n\nLes « Récepteurs de Denpa Q » décryptent les Manifestes de Q et les interprètent comme des complots. Leur influence sur le Net grandit de jour en jour.\nAfficher la suite
+499259063131078684,Une théorie prétend que l'État profond juge les « Récepteurs de Denpa Q » dangereux et prépare une riposte contre Q. Les « Récepteurs de Denpa Q » décryptent les Manifestes de Q et les interprètent comme des complots. Leur influence sur le Net grandit de jour en jour.\n<color=#1D9BF0>Afficher la suite</color>
 499259063131078685,Le Blog des Récepteurs de Denpa Q
 499259063131078931,Un monde plongé dans le chaos absolu
-499259063131078932,"Une guerre de factions fait rage chez les Récepteurs de Denpa Q, née d'une divergence d'interprétation sur la relation entre Q et Yunyun.\n\nLa communauté est divisée en trois : Team Yun-Q, Team Q-Yun et Team Switch. Chaque camp défend ses positions sur les Réseaux et forums, se livrant chaque jour à une Flame war acharnée.\n\nUn Récepteur de Denpa Q l'affirme : « Tout ça, c'est parce que le charisme de Q est devenu bien trop puissant »."
-499259063131078934,"Guerre de factions chez les Récepteurs de Denpa\nTeam Yun-Q, Team Q-Yun et Team Switch s'affrontent"
+499259063131078932,"Guerre de factions chez les Récepteurs de Denpa Q sur la relation entre Q et Yunyun. La communauté est divisée en trois : Team Yun-Q, Team Q-Yun et Team Switch. Une Flame war acharnée fait rage sur les forums.\nUn Récepteur l'affirme : « Tout ça, c'est parce que le charisme de Q est devenu bien trop puissant. »"
+499259063131078934,"Guerre de factions chez les Récepteurs : Team Yun-Q, Team Q-Yun et Team Switch s'affrontent."
 499259063131078935,Anonymous
 499259063131078936,Anonymous
 499259063131078937,Anonymous
@@ -637,7 +637,7 @@
 499763409333682176,Bonne nuit Yunyun
 499763409333682177,C.Q.F.D.
 499763409333682178,Q est clairement parano
-499763409333682179,DONIDEMONARE
+499763409333682179,Rien à foutre
 499763409333682180,Bague de fiançailles
 499763409333682181,YUN MEURT
 499763409333682182,Me laisse pas en plan...
@@ -674,7 +674,7 @@
 499763409333682213,"Erreur, Jeu, Reset."
 499763409333682214,L'Otaku Hikikomori l'ordonne !
 499763409333682215,Partez en Vrille !
-499763409333682216,Les super fans de Yunyun sont tatoués !
+499763409333682216,Les Otakus fans de Yunyun battent la mesure !
 499763409333682217,Chapeau Alu
 500487460083630080,<<Influence de la théorie du complot>>
 500491044795875328,Yunyun I Love yun♥

@@ -105,7 +105,7 @@
 402250473019703314,60FPS
 402250473019703315,120FPS
 402250473019703316,Illimitato
-402250473019703317,Velocità testi
+402250473019703317,Velocità testo
 402250473019703318,Lenta
 402250473019703319,Normale
 402250473019703320,Veloce
@@ -220,7 +220,7 @@
 427623371884363779,"Clicca su una Canzone Denpa,\nsegui il ritmo, sincronizzati con le onde\ne senti il batticuore!"
 427623371884363780,Tutorial/Screenshot2
 427623371884363781,■Aumento Livello Denpa
-427623371884363782,Le Canzoni Denpa alzano il Livello Denpa!\nCompleta gli Obiettivi per un bel boost!\nPunta al 100%!
+427623371884363782,"Giocare le Canzoni Denpa, ottenere Obiettivi, ricevere Teorie del complotto, raggiungere Finali… tutto fa salire il tuo Livello Denpa!\nPuntiamo al 100%!"
 427623371884363783,Tutorial/Screenshot1
 427623371884363784,■AUMENTO SALUTE
 427623371884363785,Gioca le Canzoni Denpa per alzare il Livello Batticuore!\nGli altri parametri... te li spiego dopo!
@@ -271,8 +271,8 @@
 430899870196465678,Rim de Lacent!
 430899870196465679,Esplorazione Yunyun!
 430899870196465680,MODALITÀ MAMMINA!
-430899870196465681,Schivata Mammina!
-430899870196465682,Schivata Mammina fallita!
+430899870196465681,Mammina schivata!
+430899870196465682,Schivata fallita!
 430899870196465683,Ricarica energia!
 430899870196465684,Post di Yunyun!
 430899870196465685,Nuova teoria del complotto!
@@ -294,7 +294,7 @@
 431218986526605312,Vuoi fare il tutorial del rhythm game?
 432448074771759104,MAMMINA
 432475509521285120,(Lo zainetto scelto con Papino. Ero così felice quando ha detto \nche era carino...)
-432475509538062336,(Una figure doujin presa a un evento. Spero che un giorno ne esca anche una ufficiale.)
+432475509538062336,"(Una figure doujin presa a un evento. Spero ne esca anche una ufficiale, un giorno.)"
 432475509538062337,"(Prenderò l'iniziativa. Prenderò l'iniziativa. Prenderò l'iniziativa. Scusa Mammina, te lo prometto.)"
 432475509538062338,(Il televisore gigante che era in camera di Papino. Vero ceh fa molto rétro?)
 432475509538062339,"(Una foto della settimana bianca con Mammina, dopo che Papino se n'è andato.)"
@@ -325,10 +325,10 @@
 433074816867794944,Tastiera normale
 433074816901349376,Sembra la tastiera che usava Papino!
 433074816901349377,Tastiera Fantastica
-433074816901349378,Una Tastiera della madonna per giocare le 'Canzoni Denpa' in MODALITÀ AUTO! (Non influisce su Obiettivi e punteggio)
+433074816901349378,Una tastiera assurda per giocare le 'Canzoni Denpa' in MODALITÀ AUTO! (Non influisce su Obiettivi e punteggio)
 433303487230672896,(Non ho la forza di muovermi. Forse mi manca un po' di batticuore...)
 433427943441727488,#???
-433702239711952896,Salva
+433702239711952896,Conferma
 433702239821004800,Attrezzatura
 435459201915060224,Livello Batticuore insufficiente per contattare Mammina!
 435459201957003264,Vuoi chiedere a Mammina di tornare a casa?
@@ -370,7 +370,7 @@
 436313355214553093,■CALIBRAZIONE INPUT
 436313355214553094,"Calibrazione degli input!\n\nSe l'errore è spesso +5.0, imposta la calibrazione su -5.0 per avvicinarti allo 0!"
 436313355214553095,■MOD. SPECCHIO
-436313355214553096,Le Note che cadono saranno invertite!
+436313355214553096,Le note che cadono saranno invertite!
 436313355214553097,■LINEE NOTE SIMULTANEE
 436313355214553098,Controlla quali Note premere insieme!
 436313355214553099,■EFFETTO CARTA MISTERIOSA!
@@ -380,18 +380,18 @@
 436322615264706561,■EFFETTO CARTA MISTERIOSA!
 436322615264706562,L'effetto della Carta Misteriosa sparirà!\nNon sai di cosa parlo?\nProva ad avanzare un po' in questo sogno!
 436322615264706563,■LUMINOSITÀ SFONDO
-436322615264706564,Puoi renderlo più scuro o più chiaro!\nRegolalo per vedere meglio le Note!
+436322615264706564,Puoi renderlo più scuro o più chiaro!\nRegolalo per vedere meglio le note!
 436322615264706565,■Config. tasti
-436322615264706566,Puoi renderlo più scuro o più chiaro!\nRegolalo per vedere meglio le Note!
+436322615264706566,Puoi renderlo più scuro o più chiaro!\nRegolalo per vedere meglio le note!
 436322615264706567,■OBIETTIVI
-436322615264706568,Ottienili per alzare il Livello Denpa!\nValgono per tutti i sogni.\nGioca nuove canzoni per fare prima!
+436322615264706568,Ottienili per alzare il Livello Denpa!\nValgono per tutti i sogni.\nGioca canzoni nuove per fare prima!
 436489289930539008,■MAMMINA
 436489289964093440,"Q contatta Mammina.\nIl Livello Batticuore scende del 50%,\nma il Frigo si riempie di nuovo!"
 436557321067462656,■Livello Denpa
 436557321121988608,L'obiettivo di 'Sindrome Denpa di Yunyun' è raggiungere il 100%!\n\nTutto questo per inviare la 'ONDE DENPA YUNYUN' a Q!
 436636402375098368,■MODALITÀ MAMMINA!
 436636402400264192,"Premi Tab per passare a una schermata suuuuuper ok! Anche se Mammina ti vede, non scoprirà che stavi giocando. Sei al sicuro!"
-437990325392408576,Avviare la AUTO-FUSIONE YUNYUN?\n(Livello Yunyun -50%. Per 25 min: riproduzione casuale di Canzoni Denpa\ne generazione casuale di Teorie del complotto fino a 4 stelle.)
+437990325392408576,Avviare la AUTO-FUSIONE YUNYUN?\n(Livello Yunyun -50%. Per 15 min: riproduzione casuale di Canzoni Denpa e generazione casuale di Teorie del complotto fino a 4 stelle.)
 437990325430157312,Tempo rimanente
 437990325430157313,Teorie del complotto generate
 437990325430157314,Annullare la Modalità Fusione Yunyun?
@@ -417,7 +417,7 @@
 442048202352525315,Yunyun è roba vecchia
 442048202352525316,Che è 'sto hype? lol
 442048202352525317,Inquietante
-442048202352525318,Q è una pazza vera?
+442048202352525318,Ma fa sul serio Q?
 442048202352525319,Che schifo
 442048202352525320,Fact-checking
 442048202352525321,Yunyun lol
@@ -431,13 +431,13 @@
 442048202356719616,Ricevitori di onde Q lol
 442048202356719617,"Ho analizzato seriamente un Manifesto trovato sui social.\n\n【Manifesto Misterioso】Il Manifesto di Q è un codice speciale\nche prevede i terremoti con la frequenza dei ""Yun""?!\nLe prove che il Manifesto di Q è un codice e le date\ndei terremoti?\n<color=#1D9BF0>qtube.be/fgjhk...</color>"
 442050459194261504,"[Allerta terremoto] Intensità 5 debole a XX, città di XX. Nessun rischio tsunami."
-442050459194261505,"Secondo l'Agenzia Meteorologica, oggi intorno alle XX:XX si è verificato un terremoto con epicentro a ×××××××, ×××××, registrando un'intensità di 5. Sono in corso verifiche su eventuali danni a persone o edifici."
+442050459194261505,"Secondo l'Agenzia Meteorologica, oggi intorno alle XX:XX si è verificato un terremoto con epicentro a Machida, Tokyo, registrando un'intensità di 5. Sono in corso verifiche su eventuali danni a persone o edifici."
 443938154648600576,Yunyun Syndrome!? Rhythm Psychosis  Versione Demo {version}
 446052779343118336,30FPS
 446082796936658944,Lum. corsie
 446082796974407680,Lum. sf. rotante
 446086295816667136,■Lum. corsie
-446086295850221568,Puoi renderlo più scuro o più chiaro!\nRegolalo per vedere meglio le Note!
+446086295850221568,Puoi renderlo più scuro o più chiaro!\nRegolalo per vedere meglio le note!
 446086295850221569,■Lum. sf. rotante
 446086295850221570,Puoi renderlo più scuro o più chiaro!\nUtile se lo sfarfallio ti dà fastidio!
 450611467881971712,Auto
@@ -511,14 +511,14 @@
 488711951834316802,"> Yunyun\nVa tutto bene. Andrà tutto bene, te lo prometto.\nYunyun non lascerà mai sola Q."
 488711951834316803,> Yunyun\n--La realtà che fa soffrire Q dovrebbe solo finire in un Giramento.
 488711951834316804,> Yunyun\nTi manderò il Denpa.
-490310779050033152,Annulla Post
-490310779100364800,■Annulla Post
+490310779050033152,Annulla invio manifesto!
+490310779100364800,■Annulla invio manifesto!
 490310779100364801,Annullata la pubblicazione del misterioso documento e la nascita di teorie del complotto!
 490310779100364802,...Eheheh. Vedrò Mammina...!
 490310779100364803,"...Ho paura, ma... solo Mammina è la mia Mammina..."
 490310779100364804,...Mi mancano il suo 'Sono a casa' e i suoi abbracci...
-491313981358768128,■Annulla Post
-491313981400711168,Annullata la pubblicazione del misterioso documento e la nascita di teorie del complotto!\nNon sai di cosa parlo?\nProva ad avanzare un po' in questo sogno!
+491313981358768128,■Annulla invio manifesto!
+491313981400711168,Annullata la pubblicazione del misterioso documento e la nascita di teorie del complotto!\nNon sai di cosa parlo?\nProva ad andare un po' avanti in questo sogno!
 491313981417488384,Ora entro nell'invincibile modalità ZONe!!
 491313981417488385,Energia! Iniezione... CHU♡
 491313981417488386,Energia! GLU GLU♡ Sono pazza di te!
@@ -554,7 +554,7 @@
 496417239572054016,Questa funzione non è più disponibile.
 496417908630650880,∞  ERROR
 496681509798969344,RIPRISTINO
-496681509815746560,"Vuoi resettare i 'Ricordi di Yunyun'\ne il 'Livello Denpa'?\n(punteggio, obiettivi, canzoni ottenute\ne immagini non verranno resettati)"
+496681509815746560,"Resettare i ""Ricordi di Yunyun""?\n※ Punteggio, canzoni ottenute e My Pictures non verranno resettati.\n※ Il Livello Denpa non legato al punteggio verrà resettato."
 496681509815746561,> Yunyun\nRIPRISTINO...\nSignifica riportare il livello di Denpa di questo mondo al suo livello originale?
 496681509815746562,> Yunyun\nAnche... questi sono ricordi di Yunyun...?
 496681509815746563,"> Yunyun\nSe potessi avere il batticuore con Q, come una me che non sa nulla..."
@@ -584,7 +584,7 @@
 499259063118495756,DIARY.ZIP
 499259063126884352,AVVIARE?!
 499259063126884353,Sindrome Denpa di Yunyun
-499259063126884354,DONIDEMONARE
+499259063126884354,Al diavolo tutto quanto
 499259063126884355,Il primo segnale??
 499259063126884356,Il primo segnale??
 499259063131078656,縺阪?縺薙?縺ｮ縺薙?縺?
@@ -605,25 +605,25 @@
 499259063131078671,777
 499259063131078672,556
 499259063131078673,"1,000"
-499259063131078674,"Gira una teoria del complotto: Q è la Profetessa delle Onde Yunyun e nei suoi Manifesti è scritta La Verità.\nSarebbero criptati con una speciale steganografia: trasformando in onde la frequenza di comparsa di Yun e sviluppando lo spettro con un'analisi FFT, emerge un pattern periodico assente nei testi normali.\n<color=#1D9BF0>Mostra altro</color>"
+499259063131078674,Circola una teoria: Q sarebbe la “Profetessa delle Onde Yunyun” e nei suoi testi sarebbe nascosta la Verità. Si dice che siano criptati con steganografia: analizzando la frequenza di “Yun” con una FFT emergerebbe un pattern anomalo.\n<color=#1D9BF0>Mostra altro</color>
 499259063131078675,Blog dei Ricevitori di onde Q
 499259063131078676,"1,000"
 499259063131078677,"3,614"
 499259063131078678,"4,256"
-499259063131078679,"Gira una teoria del complotto: Q è la liberatrice del mondo e vuole scatenare una rivoluzione coi Manif. Yunyun.\n\nSecondo i complottisti:\n""Lei è la distruttrice dei Poteri Forti, una rivoluzionaria.\nYunyun è la dea della rivoluzione che libererà l'umanità.""\n<color=#1D9BF0>Mostra altro</color>"
+499259063131078679,Gira una teoria: Q vuole liberare il mondo. Vuole una rivoluzione coi Manif. Yunyun.\nSecondo i complottisti: „Lei è distruttrice dei Poteri Forti. Una rivoluzionaria. Yunyun è la dea che libera l’umanità.“\n<color=#1D9BF0>Mostra altro</color>
 499259063131078680,Blog dei Ricevitori di onde Q
 499259063131078681,327
 499259063131078682,909
 499259063131078683,"7,015"
-499259063131078684,"Gira una teoria del complotto: i Poteri Forti considerano i ""Ricevitori di onde Q"" una minaccia e stanno valutando come agire contro Q.\n\nI ""Ricevitori di onde Q"" sono un gruppo che decifra i Manifesti di Q interpretandoli come teorie del complotto; la loro influenza su internet cresce ogni giorno di più.\n<color=#1D9BF0>Mostra altro</color>"
+499259063131078684,Gira una teoria: i Poteri Forti temono i „Ricevitori di onde Q“.\nValutano come agire contro Q. Decifrano i Manifesti di Q come teorie del complotto. La loro influenza online cresce.\n<color=#1D9BF0>Mostra altro</color>
 499259063131078685,Blog dei Ricevitori di onde Q
 499259063131078931,Un mondo nel caos più totale
-499259063131078932,"All'interno della community dei Ricevitori di onde di Q, le lotte tra fazioni si stanno intensificando. L'origine sembra essere una divergenza di interpretazioni sulla relazione tra Q e Yunyun.\nAttualmente, la community è divisa in tre forze: 'Team Yun-Q', 'Fazione Q-Yun' e 'Team Flex'. Ogni fazione espone le proprie tesi su Social network e bacheche, scatenando feroci Flame war quotidiane.\nUn Ricevitore di onde di Q ha fatto notare: 'Tutto questo è il risultato dell'eccessivo carisma di Q'."
-499259063131078934,"Scoppia una guerra tra fazioni nella community dei Ricevitori di onde\nTeam Yun-Q, Fazione Q-Yun e Team Flex: tre forze in conflitto"
-499259063131078935,Anonymous
-499259063131078936,Anonymous
-499259063131078937,Anonymous
-499259063131078938,Anonymous
+499259063131078932,"Le fazioni dei Ricevitori di onde Q sono in conflitto. La disputa riguarda il legame tra Q e Yunyun.\nLa community è divisa in tre gruppi: “Team Yun-Q”, “Fazione Q-Yun” e “Team Flex”. Sui social scoppiano continui scontri e flame. Le bacheche online sono diventate un campo di battaglia. Un seguace dice che tutto nasce dal forte carisma di Q. La divisione cresce e l’unità del gruppo è sempre più fragile."
+499259063131078934,"Guerra tra fazioni tra i Ricevitori di onde Q.\nYun-Q, Q-Yun e Flex: tre gruppi in lotta aperta."
+499259063131078935,Anonimo
+499259063131078936,Anonimo
+499259063131078937,Anonimo
+499259063131078938,Anonimo
 499301735589904384,Uaa!\nMi è caduto!
 499349231708045312,Tastiera Pro-Gamer
 499349231708045313,Una Tastiera che solo i veri Pro-Gamer possono usare!
@@ -637,7 +637,7 @@
 499763409333682176,Buonanotte Yunyun
 499763409333682177,Q.E.D.
 499763409333682178,Q Clearly Paranoid
-499763409333682179,DONIDEMONARE
+499763409333682179,Al diavolo tutto quanto
 499763409333682180,Anello di fidanzamento
 499763409333682181,YUN DIE
 499763409333682182,Non azzardarti a ignorarmi...

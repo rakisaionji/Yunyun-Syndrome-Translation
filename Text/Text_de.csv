@@ -219,8 +219,8 @@
 427623371884363778,■Denpa-Songs
 427623371884363779,"Klick auf einen Denpa-Song, folge dem Rhythmus, spüre das Denpa und lass dein Herz höher schlägen!"
 427623371884363780,Tutorial/Screenshot2
-427623371884363781,■Denpa-Level erhöhen
-427623371884363782,Mit Denpa-Songs steigt das Denpa-Level! Hol dir Erfolge für einen gewaltigen Boost! Das Ziel ist 100 %!
+427623371884363781,■Denpa-Level steigern
+427623371884363782,"Denpa-Songs spielen, Erfolge bekommen, Verschwörungstheorien erhalten, Enden erreichen — alles hebt dein Denpa-Level, hihi!\nZiel: 100 %!"
 427623371884363783,Tutorial/Screenshot1
 427623371884363784,■LP erhöhen
 427623371884363785,"Spiel Denpa-Songs, um dein Dokidoki-Level zu steigern! Die anderen Werte ... erkläre ich später!"
@@ -391,7 +391,7 @@
 436557321121988608,"Das Ziel von „Yunyun Syndrome!? Rhythm Psychosis"" ist 100% zu erreichen!\n\nAm Ende geht es nur darum, Q das Yunyun-Denpa zu übermitteln!"
 436636402375098368,■Mama-Alarmmodus
 436636402400264192,"Drück Tab für einen suuuper anständigen Bildschirm! Selbst wenn Mama guckt, merkt sie nicht, dass du zockst. Ganz sicher!"
-437990325392408576,Yunyun-Besessenheit (Auto) starten? (Yunyun Level -50 %. 25 Minuten lang werden zufällig Denpa-Songs abgespielt und Verschwörungstheorien bis zu 4 Sternen generiert.)
+437990325392408576,Yunyun-Besessenheit (Auto) starten? (Yunyun Level -50 %. 15 Minuten lang werden zufällig Denpa-Songs abgespielt und Verschwörungstheorien bis zu 4 Sternen generiert.)
 437990325430157312,Zeit bis Ende
 437990325430157313,Generierte Verschwörungstheorien
 437990325430157314,Yunyun-Besessenheitsmodus beenden?
@@ -431,7 +431,7 @@
 442048202356719616,Q-Denpa-Empfänger lol
 442048202356719617,Habe einen Verschwörungs-Post auf Social Media ernsthaft analysiert.\n\n[Rätselhafter Verschwörungs-Post] Ist Qs Verschwörungs-Post ein spezieller Code?\nSagt die Häufigkeit von Yun Erdbeben voraus?!\nWas sind die Beweise für den Code in Qs Verschwörungs-Post und die Erdbeben-Daten?\n<color=#1D9BF0>qtube.be/fgjhk ...</color>
 442050459194261504,"【Eilmeldung - Erdbeben】\nStärke 5 - in Stadt XX, Präfektur XX - keine Tsunami-Gefahr"
-442050459194261505,Laut der japanischen Wetterbehörde ereignete sich heute gegen\nXX:XX Uhr ein Erdbeben mit Zentrum in ××××××× (Präfektur ×××××).\nEine Intensität von Stufe 5 wurde gemessen.\nInformationen über Verletzte oder Gebäudeschäden werden\nderzeit überprüft.
+442050459194261505,Laut der japanischen Wetterbehörde ereignete sich heute gegen XX:XX Uhr ein Erdbeben mit Zentrum in Machida (Präfektur Tokio). Eine Intensität von Stufe 5 wurde gemessen. Informationen über Verletzte oder Gebäudeschäden werden derzeit überprüft.
 443938154648600576,Yunyun Syndrome!? Rhythm Psychosis  Demo-Version {version}
 446052779343118336,30FPS
 446082796936658944,Spur-HG-Helligkeit
@@ -554,7 +554,7 @@
 496417239572054016,Diese Funktion ist nicht mehr verfügbar.
 496417908630650880,∞  ERROR
 496681509798969344,RECOVERY
-496681509815746560,"Möchtest du ""Yunyun-Erinnerungen"" und\n""Denpa-Level"" zurücksetzen?\n(Punkte, Erfolge, Songs, Bilder\nbleiben erhalten)"
+496681509815746560,"„Yunyun-Erinnerungen"" zurücksetzen?\n※ Punktestände, erhaltene Songs und My Pictures bleiben erhalten.\n※ Das Denpa-Level, das nicht an Punkte gebunden ist, wird zurückgesetzt."
 496681509815746561,> Yunyun\n« RÉCUPÉRATION »... Ça veut dire remettre le Niveau Denpa de ce monde à son niveau d'origine ?
 496681509815746562,> Yunyun\nAuch diese Erinnerungen von Yunyun ...?
 496681509815746563,"> Yunyun\nMoi qui ne connais rien à rien, si je peux vibrer avec toi, Q..."
@@ -584,7 +584,7 @@
 499259063118495756,DIARY.ZIP
 499259063126884352,START?
 499259063126884353,Yunyun-Denpa-Syndrom
-499259063126884354,DONIDEMONARE
+499259063126884354,Mir doch egal
 499259063126884355,Das erste Denpa???
 499259063126884356,Das erste Denpa???
 499259063131078656,縺阪?縺薙?縺ｮ縺薙?縺?
@@ -605,21 +605,21 @@
 499259063131078671,777
 499259063131078672,556
 499259063131078673,"1,000"
-499259063131078674,"Die Theorie, dass Q die Prophetin der Yunyun-Denpa ist und in ihren Shitposts die Wahrheit steht, geht viral.\nDiese seien mit Steganografie verschlüsselt. Wandelt man die Yun-Frequenz in Wellen um und nutzt die FFT-Analyse, zeigen sich periodische Muster, die sonst nicht vorkommen.\n<color=#1D9BF0>Mehr anzeigen</color>"
+499259063131078674,Theorie: Q ist Prophetin der Yunyun-Denpa. Ihre Texte sollen Wahrheit enthalten. Sie seien speziell verschlüsselt. Die Methode nutzt Steganografie. Analysen zeigen ungewöhnliche Muster. FFT weist periodische Signale nach. \n<color=#1D9BF0>Mehr anzeigen</color>
 499259063131078675,Q-Denpa-Empfänger-Blog
 499259063131078676,"1,000"
 499259063131078677,"3,614"
 499259063131078678,"4,256"
-499259063131078679,"Die Theorie, dass Q die Welt befreit und mit YUNYUN eine Revolution auslösen will, geht viral.\nLaut diesem Theoretiker: „Sie ist die Zerstörerin des Deep State und eine Revolutionärin.\nYunyun ist die Göttin der Revolution, die die Menschen befreit.“\n<color=#1D9BF0>Mehr anzeigen</color>"
+499259063131078679,Theorie: Q will die Welt befreien. Sie plane eine Revolution mit Yunyun. Die Idee verbreitet sich schnell. Anhänger sprechen von großer Veränderung. Q gilt als Gegnerin des Deep State. Sie wird als Revolutionärin gesehen. \n<color=#1D9BF0>Mehr anzeigen</color>
 499259063131078680,Q-Denpa-Empfänger-Blog
 499259063131078681,327
 499259063131078682,909
 499259063131078683,"7,015"
-499259063131078684,"""Die Theorie, dass der Deep State die „Q-Denpa-Empfänger“ als Gefahr sieht und gegen Q vorgehen will, geht viral.\n„Q-Denpa-Empfänger“ entschlüsseln Qs Schizoposts und deuten sie als Verschwörungstheorien. Ihr Einfluss im Netz wächst täglich.\n<color=#1D9BF0>Mehr anzeigen</color>"""
+499259063131078684,Theorie: Deep State sieht Q als Bedrohung. Er plane Maßnahmen gegen Q-chan. Auch Q-Empfänger geraten in den Fokus. Sie analysieren Qs Texte online. Deuten sie als Verschwörung. Ihr Einfluss wächst im Netz stark. \n<color=#1D9BF0>Mehr anzeigen</color>
 499259063131078685,Q-Denpa-Empfänger-Blog
 499259063131078931,Eine Welt im absoluten Chaos
 499259063131078932,"Innerhalb der Q-Denpa-Empfänger eskalieren Fraktionskämpfe. Grund sind unterschiedliche Deutungen der Beziehung zwischen Q und Yunyun.\nDie Community ist gespalten in Yun-Q, Q-Yun und Switch. Die Gruppen streiten täglich auf Social Media und Foren.\nEin Nutzer meint, Qs Charisma sei der Auslöser des Konflikts."
-499259063131078934,"Fraktionskämpfe in der Denpa-Empfänger-Community Yun-Q, Q-Yun und Switch stehen im Konflikt"
+499259063131078934,"Fraktionskämpfe unter Denpa-Empfängern Yun-Q, Q-Yun und Switch stehen im Konflikt"
 499259063131078935,Anonym
 499259063131078936,Anonym
 499259063131078937,Anonym
@@ -637,7 +637,7 @@
 499763409333682176,"Gute Nacht, Yunyun"
 499763409333682177,Q.E.D.
 499763409333682178,Q ist eindeutig paranoid
-499763409333682179,DONIDEMONARE
+499763409333682179,Mir doch egal
 499763409333682180,Verlobungsring
 499763409333682181,YUN TOT
 499763409333682182,Lass mich bloß nicht hängen ...
