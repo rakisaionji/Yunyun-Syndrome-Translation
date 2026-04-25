@@ -15,14 +15,14 @@
 706156462379008,Language(仮テキスト)
 706397228011520,Close(仮テキスト)
 372908906425516032,Socials
-372908906425516033,Dream Log
+372908906425516033,Diary
 372908906425516034,Room Search
 372908906425516035,Health
-372908906425516036,TODO
-372908906425516037,MyPicture
+372908906425516036,To Do
+372908906425516037,My Pictures
 372908906429710336,Settings
 372908906429710337,ZIP
-372908906429710338,Trashcan
+372908906429710338,Trash
 372910093082198016,Denpa Transmissions
 372922115467411456,Qtie
 372922115467411457,Yunyun
@@ -37,9 +37,9 @@
 372929733640486915,FULL COMBO
 372929733640486916,RATE 95% OR UP
 372929733640486917,⇅SORT
-372929733640486918,Artist : {name}
-372929733640486919,Comp. : {name}
-372929733640486920,Lyrics : {name}
+372929733640486918,Vocals: {name}
+372929733640486919,Comp.: {name}
+372929733640486920,Lyrics: {name}
 372936789667774464,⇅SORT
 372936789697134592,{name} UP
 375435576814501888,Qtie
@@ -60,12 +60,12 @@
 384746919073841152,EXTRA
 385428742204456960,HIGH SCORE
 385428742242205696,RANK
-385439829188575232,Arr. : {name}
+385439829188575232,Arr.: {name}
 385849607983366144,E#R&%O#R
 385849608025309184,>Yunyun\nHNNNGH! NEED MOAR DENPA STAT!
 385849608025309185,">Yunyun\nWhoa, ya broke it! Go check out LOAD DREAM!"
 385884829454073856,E#R&%O#R
-385903467410128896,EVENT LIST
+385903467410128896,OP MOVIE
 385903467410128897,GALLERY
 385903467410128898,CREDITS
 385903467410128899,>Yunyun\nA special page? Poggers!
@@ -73,8 +73,8 @@
 385903467426906113,MEMORY {num}
 385903467426906114,▼DATE\n /{MM}/{dd}{yyyy}\n {time}
 385930878222761984,EPISODE: {text}
-387668255198838784,Beatmap : {name}
-391392601318785024,Yunyun Wiki\n pediQ
+387668255198838784,Beatmap: {name}
+391392601318785024,Yunyun Wiki\npediQ
 400535952903274496,>Yunyun\nGotta get more hype! Gotta get more denpa!
 400535952945217536,>Yunyun\nI have to deliver these feels to Qtie!
 400535952945217537,>Yunyun\nYunyuuun!
@@ -88,11 +88,11 @@
 402250473019703297,Yunyun\nLet's boogie to the rhythm!
 402250473019703298,Yunyun\nCustomize the keys!
 402250473019703299,Yunyun\nIt's set to English right now!
-402250473019703300,OPTIONS
+402250473019703300,Options
 402250473019703301,Screen
-402250473019703302,WINDOWED
-402250473019703303,FULLSCREEN
-402250473019703304,BORDERLESS
+402250473019703302,Windowed
+402250473019703303,Fullscreen
+402250473019703304,Borderless
 402250473019703305,Resolution
 402250473019703306,3840 x 2160
 402250473019703307,2560 x 1440
@@ -105,7 +105,7 @@
 402250473019703314,60FPS
 402250473019703315,120FPS
 402250473019703316,Limitless
-402250473019703317,Text speed
+402250473019703317,Text Speed
 402250473019703318,Slow
 402250473019703319,Normal
 402250473019703320,Fast
@@ -117,22 +117,22 @@
 402250473019703326,Music
 402250473019703327,Event SFX
 402250473019703328,Rhythm Game
-402250473019703329,ON
-402250473019703330,OFF
-402250473019703331,LANE TYPE
-402250473019703332,WIDE
-402250473019703333,SLIM
-402250473019703334,CALIBRATION
-402250473019703335,MIRROR MODE
-402250473019703336,MULTI-LINES
-402250473019703337,CHARACTER DISPLAY
-402250473019703338,SHITPOST CARD EFFECT
+402250473019703329,On
+402250473019703330,Off
+402250473019703331,Lane Type
+402250473019703332,Wide
+402250473019703333,Slim
+402250473019703334,Calibration
+402250473019703335,Mirror Mode
+402250473019703336,Multi-lines
+402250473019703337,Character Display
+402250473019703338,Shitpost Card Effect
 402250473019703339,BACKGROUND\nBRIGHTNESS
 402250473019703340,Key Config
-402250473019703341,LANE 1
-402250473019703342,LANE 2
-402250473019703343,LANE 3
-402250473019703344,LANE 4
+402250473019703341,Lane 1
+402250473019703342,Lane 2
+402250473019703343,Lane 3
+402250473019703344,Lane 4
 402250473019703345,POST
 402250473019703346,Press the key you want to set for {lane}!
 402250473019703347,日本語
@@ -140,12 +140,12 @@
 402250473019703349,简体中文
 402250473019703350,繁體中文
 402250473019703351,한국어
-402254292080295936,DEFAULT
+402254292080295936,Default
 402257783737712640,Volume
 402258653271457792,0
 402258653275652096,Max
-402259728498065408,TUTORIAL / SETTINGS PREVIEW
-402260409682395136,NOTE SPEED
+402259728498065408,Tutorial / Settings Preview
+402260409682395136,Note Speed
 402262408679292928,Language
 402503633244160000,> Yunyun
 405441114889420800,DIFFICULTY
@@ -155,15 +155,15 @@
 408050705066262528,Items
 408094764975685632,SONG TITLE
 408795089361600512,RETRY
-408795089390960640,CONTINUE
-408795089390960641,
+408795089390960640,RETIRE
+408795089390960641,CONTINUE
 408810702364639232,1★☆☆☆☆
 408810702402387968,2★★☆☆☆
 408810702402387969,3★★★☆☆
 408810702402387970,4★★★★☆
 408810702402387971,5★★★★★
-410592432146776064,SONG TITLE
-410592432239050752,DEFAULT
+410592432146776064,Song Title
+410592432239050752,Default
 415542925398802432,Title: {title}\nSinger: {singer}\nLyrics: {lyricist}\nComp.: {composer}\nArr.: {arran}\nBeatmap: {score_editor}
 415579311279603712,Yunyun Syndrome!? Rhythm Psychosis Version {version}
 415610741573451776,ERROR FORM
@@ -187,7 +187,7 @@
 424005319695433730,Wanna overwrite your save?
 424005319695433731,1: The First Signal
 424008151483973632,Oops! You can't overwrite this save!
-424031540604993536,±TIMING ERROR DISPLAY
+424031540604993536,±Timing Error Display
 424352715050745856,SETTINGS
 424762825073917952,Keyboard
 425459214246379520,How did people react to Qtie's post?
@@ -206,8 +206,6 @@
 426159465114533896,Receive looots of signals and get back your dokis!
 426159465114533897,Aim for 50% YUNYUN!
 426159465114533898,Send out those sweet denpas!
-426159465114533899,Aim for 50% HYPE!
-426159465114533900,
 426204373489713152,Looks like she's too pooped to move.
 426943935656656896,SINGLE NOTES
 426943935690211328,Press the key when the note hits the judgement line!
@@ -224,8 +222,8 @@
 427623371884363784,■INCREASING HEALTH
 427623371884363785,You can increase DOKIDOKI by playing Denpa Transmissions.\nI'll explain how to boost your other stats later!
 427623371884363787,■SHITPOST CARDS
-427623371884363788,"Cards created from Qtie's shitposts!\nAfter combining three of them, you can post to the net!\nWhat you get depends on Qtie's DOKIDOKI, YUNYUN, and HYPE levels!"
-428239508699512832,TUTORIAL COMPLETTE
+427623371884363788,"Cards created from Qtie's shitposts!\nAfter combining three of them, you can post to the net!"
+428239508699512832,END TUTORIAL
 428239508741455872,ENTER
 428254632835448832,Wanna end the tutorial?
 430364152730648576,LOG
@@ -246,12 +244,12 @@
 430899870192271404,■SEARCH
 430899870192271405,"Once your DOKIDOKI Level is over 20%, you can explore! Click on everything that catches your eye!"
 430899870192271407,■SHITPOST CARDS
-430899870196465664,Qtie's health changes based on posted cards!\n- DOKIDOKI: Each card increases DOKIDOKI by 4%\n- YUNYUN: Each card increases YUNYUN by 4%\n- HYPE: Each card increases HYPE by 4%
-430899870196465666,■Shitpost Card Rarity
+430899870196465664,Qtie's health changes based on posted cards!\n- DOKIDOKI: Each Rarity increases DOKIDOKI by 2%\n- YUNYUN: Each Rarity increases YUNYUN by 2%\n- HYPE: Each Rarity increases HYPE by 2%
+430899870196465666,■SHITPOST CARD RARITY
 430899870196465667,"Each Shitpost Card has a rarity level! More stars, better results!"
-430899870196465669,■Conspiracy
-430899870196465670,"When Conspiracy's activated, you gain more Denpa! Let's go! 100% Denpa, woo!"
-430899870196465672,■Conspiracy Level
+430899870196465669,■CONSPIRACY
+430899870196465670,"When a Conspiracy's activated, you gain more Denpa! Let's go! 100% Denpa, woo!"
+430899870196465672,■CONSPIRACY LEVEL
 430899870196465673,You can level up the same Conspiracy twice!\nMaybe something cool will happen with a 5-star Conspiracy...?!
 430899870196465675,To your past self...
 430899870196465676,This is the first signal.
@@ -266,7 +264,7 @@
 430899870196465685,OMG Conspiracy!
 430899870196465686,The miracle of love!
 430899870196465687,Revolutionize with Yunyun Shitposts!
-430899870196465688,Yunyun Denpa Receivers!
+430899870196465688,Yunyun Denpa Antennas!
 430899870196465689,My simps make me invincible!
 430899870196465690,"Ooh, new lore drop!"
 430899870196465691,It's Patootie!
@@ -278,7 +276,7 @@
 430899870196465697,Not time to hit your goal yet.
 430899870196465698,"Night, night, Kurumi."
 430899870196465699,Is this the first signal?
-430899870196465700,Is this the first signal??
+430899870196465700,Is this the first signal?
 431218986526605312,Need a rhythm game tutorial?
 432448074771759104,MOMMY
 432475509521285120,(Daddy picked out this backpack with me. I was so happy when he said I looked cute.)
@@ -300,15 +298,15 @@
 432475509538062351,"(Abandon all hope, ye who enter here.)"
 432475509538062352,(Whose coat is this again...?)
 432475509538062353,(You must not burn down the toxic jungle!)
-432961279398936576,■Energy Drink
-432961279428296704,"Whaaat?! Drinking ZONe puts Qtie in the Zone?!\nWhile in the Zone, all Conspiracy Cards gained from Denpa Transmissions gain an extra star."
+432961279398936576,■ENERGY DRINK
+432961279428296704,"Whaaat?! Drinking ZONe puts Qtie in the Zone?!\nWhile in the Zone, all ███████████████ gained from Denpa Transmissions gain █████████████."
 432961279436685313,ZONe
 432987649965457408,rimdelacent
 432988311977623552,Keyboard unlocked!
 432992895437537280,(A contract Mommy made me sign so I could stop being so stupid. She even made me sign with my blood.)
 432998098089967616,Denpa Transmission restored!
 432998098089967617,An image got restored!
-432998098089967618,The Recycle Bin is empty!
+432998098089967618,The Trash is empty!
 433074816867794944,Normal Keyboard
 433074816901349376,The keyboard that Daddy used!
 433074816901349377,Awesome Keeb
@@ -316,7 +314,7 @@
 433303487230672896,(Another day of bedrotting...\nIf only I had more dokidokis in my kokoro...)
 433427943441727488,#???
 433702239711952896,Confirm
-433702239821004800,Equipment
+433702239821004800,Equip
 435459201915060224,Not enough DOKIDOKI to call Mommy!
 435459201957003264,Wanna ask Mommy to come home?
 435459201957003265,...Did I annoy her?
@@ -329,7 +327,7 @@
 435459201957003272,"Sorry, Mommy. I know you're busy and I still contacted you. But, uhh... It's been a while and I miss you! I haven't seen you in a long time. How are you? I'm sure you're fine. But, like, have you been eating and stuff? I just need energy drinks to live, so... Oh! Wait, there aren't any left in the fridge. Sorry about being a picky eater. I could never grow out of it even though you kept scolding me. I'm useless, I know. I feel bad about it FR FR. Sorry, I got off-track. I know that coming home is annoying. That your workplace (?) is far from home and that you're super busy. But I wanna see you. I know my studies aren't coming along and I'm not a good daughter. But I'd still love to see you, Mommy. Can you please?"
 435459201957003273,"Mommy, how are you? Thanks to Yunyun, I'm doing okay. IRL though, I'm all alone. When I think of people I'd like to see right now, your face is the only one that comes to mind. So I texted you! Annoying, I know. Seriously, if you can make some time, please come home and give me a hug. I feel like my dokidokis would fly off the charts if you did that. Sorry I'm being so selfish, but I hope you'll reply to this.\nAnd, um, if you really do come home... I'm super sorry, but can you buy some more cup noodles and energy drinks? That'd make me really happy. Sorry. I know I haven't been going to school or doing any work and... Sorry. Sorry for being such a useless NEET."
 435459201957003274,"Yunyuuun! Rim de Lacent! Qtie's been dokidoki-ing thanks to my love signals! How about you, Mommy? Can you feel the dokis at work? Are you tired? You're always working your butt off, so I'm gonna send you my love signals! Awesome, pretty, responsible... Gosh, you're just the bestest Mommy ever! I wuv you! I wuv you I wuv you I love you! So, relax once in a while and take a break! Not outside, but at home!\nI'm waiting for you at home too!\n(P.S. Your daughter is hungry for food and for love, and she's waiting for you to come home!)"
-435459201957003275,"HEY MOMMY! ( ´∀｀)σ)∀)\nWhatcha up to RN? (´・ω・)\nI'm...drumroll, please!\nMessing around on my PC! (；´Д｀)\n\nHey, Mommy...?\nAre you on a date with your BF right now? ( ﾟдﾟ )\nI bet it's a lot of fun, but I feel super abandoned! ;w; So I sent you this message LOL m9(Д)ﾌﾟｷﾞｬｰ\n\nTBH, I wanna do the whole ""I'm home!"" ""Welcome home!"" routine with you (〃▽〃)\nI know I'm being selfish, but I'd love to read a reply from you! (´・∀・｀)\n\nCan I ask you a favor if you come home? (；´∀｀)\nCould you buy some bread and cup noodles from the convenience store?\nEnergy drinks 4 lyfe, though! (ﾟ∀ﾟ)\nDW, I know I'm a NEET. A useless waste of space! (ヽ´ω`)\n\nBut you're the last person I want to be abandoned by."
+435459201957003275,"HEY MOMMY! ( ´∀｀)σ)∀)\nWhatcha up to RN? (´・ω・)\nI'm...drumroll, please!\nMessing around on my PC! (；´Д｀)\n\nHey, Mommy...?\nAre you on a date with your BF right now? ( ﾟдﾟ )\nI bet it's a lot of fun, but I feel super abandoned! ;w; So I sent you this message LOL m9(Д)\n\nTBH, I wanna do the whole ""I'm home!"" ""Welcome home!"" routine with you (〃▽〃)\nI know I'm being selfish, but I'd love to read a reply from you! (´・∀・｀)\n\nCan I ask you a favor if you come home? (；´∀｀)\nCould you buy some bread and cup noodles from the convenience store?\nEnergy drinks 4 lyfe, though! (ﾟ∀ﾟ)\nDW, I know I'm a NEET. A useless waste of space! (ヽ´ω`)\n\nBut you're the last person I want to be abandoned by."
 435459201957003276,"Hey, Mama (Mommy)... What kind of flowers bloom at work?\nHey, Mama (Mommy)... What kind of alcohol do you drink at work?\nHey, Mama (Mommy)... Does your body stop hurting at work?\nHey, Mama (Mommy)... At work, will we be together forever?\nHey, Mama (Mommy)...\n(Mommy, your generation listened to this, right? LMAO)"
 435459201957003277,"MOOOOMMYYYYY!\nYou'll come home, right?"
 435459201957003278,"Sorry for the sudden message! I just wanted to talk to you.\nI'm doing fine. Just living a quiet life without disturbing anybody, like what you told me to do. I'm thinking of studying harder. Staying a hikikomori will only cause you trouble, so I wanna clean up my act."
@@ -339,9 +337,9 @@
 435459201957003282,I love you.
 435469093350572032,I\nWANNA\nSEE\nYOU\nMOMMY\n!!\nI'm so hungry and lonely!
 435543370896670720,Read
-435902026695737344,Click the TAB key to change screens!
+435902026695737344,Hit the TAB key to change screens!
 436301150398087168,■CHANGING MODES
-436301150431641600,Chosen mode won't affect progress difficulty!\nNORMAL: Recommended!\nHARDCORE GAMER: A bit more difficult!\nTRYHARD:Even tougher!\nDEGENERATE: For the uber rhythm game heads!
+436301150431641600,Chosen mode won't affect progress difficulty!\nNORMAL: Recommended!\nHARDCORE GAMER: A bit more difficult!\nTRYHARD: Even tougher!\nDEGENERATE: For the uber rhythm game heads!
 436301150431641601,■NORMAL
 436301150431641602,Here are Normal's transmission times!\n- PERFECT: ±50\n- GREAT: ±101\n- GOOD: ±191
 436301150431641603,■HARDCORE GAMER
@@ -361,7 +359,7 @@
 436313355214553097,■MULTI-LINES
 436313355214553098,Press these notes simultaneously!
 436313355214553099,■SHITPOST CARD EFFECT
-436313355214553100,Turn off the Shitpost Card effect animations! 
+436313355214553100,Turn off the Shitpost Card effect animations!
 436322615243735040,■CHARACTER DISPLAY
 436322615264706560,"Sayonara, peeps!"
 436322615264706561,■SHITPOST CARD EFFECT
@@ -374,25 +372,25 @@
 436322615264706568,"Achievements apply to all dreams. The more you unlock, the higher your Denpa Level goes, so it's more efficient to play new songs!"
 436489289930539008,■MOMMY
 436489289964093440,"Makes Qtie call for Mommy.\nYou'll lose 50% DOKIDOKI, but she'll\nrestock the refrigerator!"
-436557321067462656,■Denpa Level
+436557321067462656,■DENPA LEVEL
 436557321121988608,The goal of this game is to reach 100%! We have to save Qtie and transmit Yunyun Signals!
 436636402375098368,■HEEERE'S MOMMY MODE
 436636402400264192,"Press TAB to switch to a screen\nthat is totally not sus at all! This way,\nMommy won't see you playing games!"
 437990325392408576,"Wanna start Yunyun Soul Integration Mode?\n(Lose 50% YUNYUN. For 15 minutes, Denpa Transmissions will\nplay and Conspiracies up to 4-stars will occur at random)"
-437990325430157312,Time Remaining
+437990325430157312,Remaining
 437990325430157313,Viral Conspiracies
 437990325430157314,Wanna end Yunyun Soul Integration Mode?
 438030621417308160,Conspiracy Probability
 438030621417308161,■YUNYUN SOUL INTEGRATION MODE
 438030621417308162,"Drag Yunyun onto Qtie and drop her! This mode costs 50% YUNYUN to activate!\nFor 15 minutes, Qtie receives random Denpa Transmissions! During this time, up to 4-star Conspiracies may occur at random!"
 438203185234083840,Not enough YUNYUN!
-439051954611716096,LATENCY
+439051954611716096,Latency
 439051954645270528,■LATENCY
 439051954645270529,Adjust latency between song and note display!\nConvenient when using Bluetooth headphones!
 439204674949775360,Post
 440239443036766208,Pick three of Qtie's posts to upload!
 440239443074514944,PARAMETER UP
-440310121102475264,Finish
+440310121102475264,FINISH
 440355190618619904,Thanks for playing! Yunyun!\n
 440953566032723968,Keyboard SFX
 440953566074667008,Effect SFX
@@ -413,19 +411,19 @@
 442048202352525324,eugh
 442048202352525325,Rancid.
 442048202352525326,She’s a prophet FR
-442048202352525327,YUNYUN!!
+442048202352525327,QTIE IS GOD
 442048202352525328,"I luv Yunyun. Srsly, like. I’m so deadass. U noobs cant even imagine. I LUV her sooo much words alone SO don’t cut it. There’s like a 99% chance I’m codependent... like I care!!1! So don’t go reading so deep into what I say. Yunyun is just soo..."
 442048202356719616,Qtie the Denpa Antenna (lol)
-442048202356719617,"Checking out shitposts from SNS.\n\n“Freaky Shitposter” Qtie makes these wacko shitposts that are like,\nin binary code or something, and they predict earthquakes?!\nWhen did she drop the coded shitpost, and when did the earthquake hit?\n\n<color=#1D9BF0>qtube.be/fgjhk...</color>"
-442050459194261504,Emergency Alert. Magnitude 5 Earthquake in\nMachi Town. No Tsunami Risk.
+442048202356719617,"Checking out shitposts from SNS.\n\n“Freaky Shitposter” Qtie makes these wacko shitposts\nthat are like, in binary code or something, and they\npredict earthquakes?! When did she drop the coded\nshitpost, and when did the earthquake hit?\n\n<color=#1D9BF0>qtube.be/fgjhk...</color>"
+442050459194261504,Emergency Alert. Magnitude 5 Earthquake in\n×× Town. No Tsunami Risk.
 442050459194261505,"The JMA recorded a magnitude 5 earthquake\noriginating from central ××××× Town, ×××××\naround XPM today. Authorities are confirming just\nhow many were injured, and how much damage\nto the city’s infrastructure was done."
 443938154648600576,Yunyun Syndrome!? Rhythm Psychosis Demo Version {version}
 446052779343118336,30FPS
 446082796936658944,Lane BG Brightness
 446082796974407680,Cycle BG Brightness
-446086295816667136,■Lane BG Brightness
+446086295816667136,■LANE BG BRIGHTNESS
 446086295850221568,Make it as dark or as bright as you want!\nThis makes it easier to see the notes!
-446086295850221569,■Cycle BG Brightness
+446086295850221569,■CYCLE BG BRIGHTNESS
 446086295850221570,Make it as dark or as bright as you want!\nFor people who don't like the flashing!
 450611467881971712,Auto
 450624822927589376,Calibration
@@ -434,7 +432,7 @@
 450624822956949506,Lag Calibration: {time}
 450624822956949507,Done calibrating?
 451505832514977792,TRYHARD
-451505832586280960,[MONTHLY RANKING]
+451505832586280960,[MONTHLY RANKINGS]
 451505832586280961,UPDATE
 451505832586280963,DIFFICULTY
 451505832586280964,RANK
@@ -462,22 +460,242 @@
 451505832586280986,Solace
 451505832586280987,A Pause in Passing
 451506460008022016,SONG
-453614789639438336,Base Game
+453614789639438336,Base
 453614789735907328,DLC
 454781211610611712,■DEGENERATE
 454781211644166144,Here are Degenerate's transmission times!\n- PERFECT: ±21\n- GREAT: ±41\n- GOOD: ±101
-454781211644166145,■Monthly Rankings
-454786337998012416,Top scores on Denpa Transmissions!\nThese reset at the start of the month!\n(At around 6:00 PM JST!)
-461688025463816192,SCREEN SHAKE
+454781211644166145,■MONTHLY RANKINGS
+454786337998012416,"Top scores on Denpa Transmissions!\nThese reset at the start of the month!\n(The first reset is scheduled for June 1, 2026!)"
+461688025463816192,Screen Shake
 461692780747587584,■Screen Shake
 461692780781142016,Turn Screen Shake on or off!
 486178414132363264,Qtie on Faminiko Gamer
 486178414182694912,Yunyun's Popularity on the Rise!\nCreators And Voice Actors Break Down Her Appeal!\n\n<color=#1D9BF0>qnews.be/news/6699....</color>\n\nIs the online enigma Qtie on the creative team?\nWHO YOU addresses Qtie's TRUE identity!
-486179209334652928,Yunyun’s Creator Tells Us:\nWhat is the TRUTH Behind Yunyun?
-490310779050033152,SHITPOST UPLOAD
-490310779100364800,■Cancel Shitpost Upload!
+486179209334652928,Yunyun’s Creator:\nThe TRUTH Behind Yunyun!
+486669372439560192,> Yunyun\nQtie's kokoro shattered from the shock.
+486669372481503232,> Yunyun\nReality is filled with pain.
+486669372481503233,> Yunyun\nI have to revive Qtie's kokoro with my Denpa.
+486669372481503234,"> Yunyun\nQtie, qtie, qtie... Oh, qtie, qtie, qtie."
+486669372481503235,"> Yunyun\nDelude yourself, run to the fictional world if that's\nwhat you need. Anything, if it means you'll keep on living."
+486669372481503236,"> Yunyun\nI'm in. Just hold tight, Qtie."
+486669372481503237,> Yunyun\nYunyun is here to help Qtie's kokoro get back\nup and running!
+486669372481503238,> Yunyun\nHehehe~ Today is my birthday!
+486669372481503239,> Yunyun\nHAPPY BDAY MY QTIE-PIE!!!\nYUUUN<3
+486669372481503240,> Yunyun\nHappy New Years!
+486669372481503241,> Yunyun\nMerry Christmas!\nLet's PWN some normies!
+486669372481503242,> Yunyun\nWha? Why am I...?\nWhy am I here alone?
+486669372481503243,> Yunyun\nQtie promised...\nWe'd always be together...
+486669372481503244,"> Yunyun\nAh, now I see. This is...\nThe inside of Qtie's fractured mind."
+486669372481503245,> Yunyun\nI see them all. Qtie's memories of Yunyun.\nThe delusions in her mind.
+486669372481503246,> Yunyun\nThis is Yunyun Syndrome.
+486669372481503247,> Yunyun\nI could reconnect with Qtie.\nWe could reset with a new Denpa signal.
+486669372481503248,> Yunyun\nRim de Lacent.
+488711951800762368,> Yunyun\nThat's why I'm here.
+488711951834316800,"> Yunyun\nThat's why we chase after what happiness\nwe can get, in the fictional world."
+488711951834316801,> Yunyun\nHalfway there...
+488711951834316802,"> Yunyun\nYou're okay. You're okay, I promise. You'll be fine,\ncuz I'll be with you always, Qtie-pie."
+488711951834316803,> Yunyun\nA reality that makes Qtie suffer is a reality that\ndeserves to spin down the drain.
+488711951834316804,> Yunyun\nDenpa incoming.
+490310779050033152,Shitpost Upload
+490310779100364800,■SHITPOST UPLOAD
 490310779100364801,"Upload your shitpost, and debunk the conspiracy!"
-491313981358768128,■Cancel Shitpost Upload!
+490310779100364802,Heehehe! I get to see Mooommyyy!
+490310779100364803,"Which is actually...a bit scary, but she's all I’ve got."
+490310779100364804,I could really use a hug for once.
+491313981358768128,■SHITPOST UPLOAD
 491313981400711168,"Upload your shitpost, and debunk the conspiracy!\nDon't know what I'm yapping about? Keep on playing this dream!"
-492511546154582016,∞ ERROR
+491313981417488384,I'm INVINCIBLE in da Z0ne!
+491313981417488385,POWAAHH! MWAH <3 !
+491313981417488386,POWAAHH! I CRAVE that zone mineral!
+491313981417488387,LEZZ DO THIS!!111!1!!
+491313981417488388,Ugh YEESS!! Buzz buzz! What a head rush!
+491313981417488389,Let Yunyun take the wheel!
+491313981417488390,The power of YUN dominates those combos!
+491313981417488391,Yunyun possess sesh!!!
+491313981417488392,EZ MODE! YUUUN!
+491313981417488393,Time to add a dash of YUUUN to this shitpost!
+491313981417488394,I didn't get this ultra cute Sakana Yuuki keyboard\nto argue with TROLLZ!
+491313981417488395,New Denpa synth on the radar!!!
+491313981417488396,Fresh DOKIDOKIs incoming!
+491313981417488397,Moar Denpa makes me a happy YUN!
+491313981417488398,"Oh cringe, I forgot about this."
+491313981417488399,Don't make me remember...
+491313981417488400,How about we just have fun instead?
+491313981417488401,Talk about a five star cutie!
+491313981417488402,My PRECIOUS!
+491313981417488403,Much CUTE! SO YUN! Such WOW!
+491313981417488404,Tune in again soon YUUN~!
+491313981417488405,Hope your kokoro is stored up on doki dokis!
+491313981417488406,Thanks for being my little fantenna!
+491313981417488407,Come back sometime YUN!
 492511546183942144,0☆☆☆☆☆
+492511546183942145,■CONSPIRACY CONTROL GEASS
+492511546183942146,Control which conspiracies your little antennas\nbelieve in. Use 50% of your current HYPE to\nchoose the next viral conspiracy!
+494270830500544576,They're not earthlings?
+494270830500544577,population milestone?
+496371812697014272,Whoops! Here come the mushrooms!
+496399230371528704,START REALITY?
+496417239475585024,I can't grab it.
+496417239572054016,It doesn't work anymore.
+496417908630650880,∞ ERROR
+496681509798969344,Recovery
+496681509815746560,"Are you sure you want to reset Yunyun's Memories\nand all Denpa Levels?\n(High Scores, Achievements, Songs Unlocked,\nand Photos will not be reset.)"
+496681509815746561,> Yunyun\nRecovery? You mean reset\nthe world's Denpa levels to zero?
+496681509815746562,> Yunyun\nThat would reset Yunyun's memories too.
+496681509815746563,"> Yunyun\nI could do it all again, and never\neven know it wasn't the first time."
+496681509815746564,"> Yunyun\nAn endless cycle of doki doki\nwith Qtie... Sounds nice, actually."
+496795839752208384,Level 1
+496795839815122944,Level 2
+496795839815122945,Level MAX
+496795839831900164,Combine conspiracy cards to predict\nupcoming conspiracies and up your stats!
+496795839831900165,You can exercise your GEASS on your Denpa Antennas now! YUN pick and choose the next conspiracy to go viral!
+496795839831900166,"Use 50% of your HYPE to trigger your selected conspiracy?\nOnce you trigger it, your selection cannot be changed."
+496795839831900167,Conspiracy engaged!
+498294674869616640,XXX0_0216.txt
+498294674987057152,XXX4_0909.txt
+498294674987057153,XXX5_0106.txt
+498294674987057154,XXX5_0421.txt
+498294674987057155,XXX5_0303.txt
+498294674987057156,XXX5_0901.txt
+498294674987057157,XXX7_0715.txt
+498294674987057158,XXX7_0909.txt
+498294674987057159,XXX7_1224.txt
+498294674987057160,XXX8_0327.txt
+498294674987057161,XXX3_0413.txt
+498294674987057162,XXX4_1018.txt
+498294674987057163,XXX4_1129.txt
+499259063076552704,There's a new diary entry!
+499259063118495744,Enter the password!\nHint: It's Qtie's real name.
+499259063118495756,DIARY.ZIP
+499259063126884352,Start?
+499259063126884353,Yunyun Syndrome
+499259063126884354,IDGAF anymore.
+499259063126884355,Is this the first signal??
+499259063126884356,Is this the first signal??
+499259063131078656,縺阪?縺薙?縺ｮ縺薙?縺?
+499259063131078657,I feel so blessed!
+499259063131078658,"Happy, happy, happy! Happyhappyhappy!"
+499259063131078659,"Ah, I feel so floaty..."
+499259063131078660,Mmm... No more bad thoughts...
+499259063131078661,1 million Rim de Lacents of gratitude!
+499259063131078662,Top
+499259063131078663,××
+499259063131078664,××
+499259063131078665,Main
+499259063131078666,××
+499259063131078667,××
+499259063131078668,Patootie
+499259063131078669,@yunyuniloveyun
+499259063131078670,Yunyun I Love Yun<3
+499259063131078671,777
+499259063131078672,556
+499259063131078673,"1,000"
+499259063131078674,"One conspiracy anoints Qtie as a Yunyun Denpaoracle, whose shitposts contain ultimate truth. It alleges that\nshe used special steganography techniques to codify her recent post which predicted the earthquake, and that\nspectral expansion via FFT analysis revealed a cyclical pattern not present in normal posts.\n<color=#1D9BF0>Show More</color>"
+499259063131078675,Qtie Denpa Antenna Highlights
+499259063131078676,"1,000"
+499259063131078677,"3,614"
+499259063131078678,"4,256"
+499259063131078679,"New conspiracy theorists assert that Qtie is the new Messiah that will deliver Earth from misery via Yunyun shitposts. Proponents of this belief allege that she will defeat the DeepState, and become it anew.\nThey also maintain that Yunyun is a goddess who will revolutionize the world and free the masses.\n<color=#1D9BF0>Show More</color>"
+499259063131078680,Qtie Denpa Antenna Highlights
+499259063131078681,327
+499259063131078682,909
+499259063131078683,"7,015"
+499259063131078684,News of DeepState initiating countermeasures against the Qtie Denpa Antenna movement after identifying it as a substantial threat have gone viral.\nThe Qtie Denpa Antenna is a growing online group that claims to interpret Qtie's shitposts and reveal them as conspiracy theories.\n<color=#1D9BF0>Show More</color>
+499259063131078685,Qtie Denpa Antenna Highlights
+499259063131078931,Maximum Chaos
+499259063131078932,"A civil war is brewing between members of the Qtie Denpa Antenna. The point of contention seems to be their headcanons regarding the relationship between Qtie and Yunyun.\n\nThe group has been split into three factions: ""Team YunQ,"" ""Team QYun,"" and ""Team Vers."" Each faction has taken to social media and online forums to assert their stance, racking up days' worth of fierce arguing.\n\nOne member of Qtie Denpa Antenna says, ""This is all because Qtie rizzed too hard."""
+499259063131078934,"Qtie Denpa Antenna Embroiled in Civil war.\nAre You Team YunQ, Team QYun, or Team Vers?"
+499259063131078935,Anon
+499259063131078936,Anon
+499259063131078937,Anon
+499259063131078938,Anon
+499301735589904384,Whoa!\nLook at what just dropped!
+499349231708045312,High Scorer Keyboard
+499349231708045313,This keyboard can only be used by the highest of scorers!
+499349231712239616,Aluminum Style
+499349231712239617,Where's my tinfoil hat?
+499349231712239618,Shiny Style
+499349231712239619,My eyes!
+499349231712239620,Mushroom Style
+499349231712239621,You're such a fun guy!
+499763409287544832,Q † CHANNEL
+499763409333682176,Have a good sleeps!!!
+499763409333682177,Q.E.D!
+499763409333682178,Clearly Paranoid Qtie
+499763409333682179,IDGAF
+499763409333682180,Engage Link
+499763409333682181,YUN DIE
+499763409333682182,Don't leave me all alone...yu.un
+499763409333682183,Sleepy time now!
+499763409333682184,Yun are an idiot.
+499763409333682185,There is no next time.
+499763409333682186,It's pure chaos.
+499763409333682187,Everything will be yunified.
+499763409333682188,TOO KAWAII!
+499763409333682189,"Brb, ascending!"
+499763409333682190,The only time I've heard of anything that can get\nso mad it dies was that monkey from Gen 1!
+499763409333682191,Rim de Lacent.
+499763409333682192,Hikikomori plus the square root of cat ears is...\nLimitless power.
+499763409333682193,"I WILL defeat you, vile dolphin!"
+499763409333682194,Time to reset the timeline.
+499763409333682195,Baaaiiii!
+499763409333682196,Guess they're anti-family planning.
+499763409333682197,Aquarium Qtie
+499763409333682198,Look out for that fourth dimensional velocity.
+499763409333682199,The ones in Heaven and the ones in Hell are\ndead all the same.
+499763409333682200,Miracles and magic can only do so much.
+499763409333682201,Taxes don't go away just cuz you're broke.
+499763409333682202,Hikikomori of the DED!
+499763409333682203,Do NOT press the suspiciously candy like red button!
+499763409333682204,Time to sail to the New World!
+499763409333682205,Do androids dream of denpa NEETs?
+499763409333682206,The duel nature of light and darkness.
+499763409333682207,You just got UBERCHARGED!
+499763409333682208,You can tell a lot about someone just from their face!
+499763409333682209,GYAH! I rekt MYSELF!
+499763409333682210,Suffering From Worthlessness?
+499763409333682211,Qtie The Cuh-raaaaazy Denpa Beauty.
+499763409333682212,The Internet is no longer.
+499763409333682213,ERROR. RESTART GAME.
+499763409333682214,"I, a hikikomori otaku, command you!"
+499763409333682215,"SPIRAL, SUBJECTS!"
+499763409333682216,"SPIRAL, WORLD!"
+499763409333682217,Tinfoil Hat
+500487460083630080,<<Conspiracy Influence>>
+500491044795875328,Yunyun I Love Yun<3
+500813730281586688,KEY MEMORY 01
+500813730323529728,KEY MEMORY 02
+501085593167626240,END?
+501085593205374976,TRUE ENDING
+501085593205374977,BAD ENDING
+501085593205374978,IF? ENDING
+501793678827880455,This track hasn't been unlocked yet.
+501793678827880456,Unavailable
+501793678827880457,Store
+503028339398836224,Qtie Wiki\npediQ
+503028339482722304,Mommy is never coming back.
+503028339482722305,It's no use.
+503028339482722306,"No really, you can't use it."
+504049219386114048,ALL
+504424741601443840,This track hasn't been unlocked yet.
+504850194686443520,Part 1 of the story. The prologue.\n(The number of Conspiracies that can appear is limited.)
+504850194707415040,Part 2 of the story! The main part!\nAim for 100% denpa!\n(Generate lots of 5-star Conspiracies!)
+505542970822524928,■ENERGY DRINK
+505542970822524929,"Whaaat?! Drinking ZONe puts Qtie in the Zone?!\nWhile in the Zone, all Conspiracy Cards gained from Denpa Transmissions gain an extra star."
+506512495030206464,Rim de Lacent
+506932830615535616,> YUNYUN\n...
+506932830716198912,"Shall we export this to another dimension?\n*By proceeding, you agree to the Terms of Service."
+506985397403942912,Story Main Part!\n(Generate lots of 5-star Conspiracies!)
+508098362542817280,AVERAGE
+511019755735515136,You can rewatch the conspiracy episodes shown on SNS!
+511019755760680960,■ To Streamers and Recorders
+511019755760680961,"Due to certain visual effects, this game may automatically switch to windowed mode. To avoid capturing your desktop, we recommend <color=#f6669e>capturing only the game window</color>."
+511019755760680962,■ Photosensitive Seizure Warning
+511019755760680963,"This game contains flashing lights, strobe effects, and rapidly changing visuals. <color=#f6669e>If you feel unwell while playing, stop the game immediately</color> and rest."
+511637745984241664,"END? Watch ""Q † CHANNEL"" before you click!"
+511680602052919296,■HEEERE'S MOMMY MODE
+511680602090668032,"If some HARDCORE stuff plays,\nyou might just pick up some special signals, YUN?"
+512558277600641024,■HEEERE'S MOMMY MODE
+512558277600641025,"Press TAB to switch to a screen\nthat is totally not sus at all! This way,\nMommy won't see you playing games!"
+512823673373229056,Guide
+512823673406783488,Official Site

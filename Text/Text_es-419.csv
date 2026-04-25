@@ -15,10 +15,10 @@
 706156462379008,Idioma
 706397228011520,Cerrar
 372908906425516032,Redes sociales
-372908906425516033,Diario de sueños
+372908906425516033,Diario
 372908906425516034,Explorar cuarto
 372908906425516035,Salud
-372908906425516036,PENDIENTES
+372908906425516036,TODO
 372908906425516037,Mis imágenes
 372908906429710336,Configuración
 372908906429710337,ZIP
@@ -47,14 +47,14 @@
 375435576835473409,"Yunyun, te amo."
 375435576835473410,Seguidores
 375435576835473411,Siguiendo
-384731644312059904,secuencia de arranque:::INICIO
-384731644341420032,[RECIBIENDO SEÑAL DE ENTIDAD YUNYUN]
+384731644312059904,önyükleme dizisi:::BAŞLAT
+384731644341420032,[YUNYUN VARLIĞINDAN SİNYAL ALINIYOR]
 384731644341420033,....................
-384731644341420034,ERROR: SUPERPOSICIÓN DE IDENTIDAD DETECTADA
-384731644341420035,fusionando usuario con entidad
-384731644341420037,SINCRONIZACIÓN COMPLETA
-384731644341420038,BIENVENIDO A  Yunyun Syndrome!? Rhythm Psychosis
-384732430026833920,SISTEMA Q versión 0.88 \n©Alliance Arts Inc. / Desarrollado por WHO YOU
+384731644341420034,HATA: KİMLİK ÇAKIŞMASI TESPİT EDİLDİ
+384731644341420035,kullanıcı varlıkla birleştiriliyor
+384731644341420037,SENKRONİZASYON TAMAMLANDI
+384731644341420038,Yunyun Denpa Sendromu'na HOŞ GELDİNİZ
+384732430026833920,Q SİSTEMİ sürüm 0.88 \n©Alliance Arts Inc. / Geliştirici: WHO YOU
 384744829031186432,SALIR
 384746919015120896,CARGAR SUEÑO
 384746919073841152,EXTRA
@@ -65,7 +65,7 @@
 385849608025309184,> Yunyun\n¡Aaaah! ¡Te falta Denpa y es desesperante!
 385849608025309185,> Yunyun\n¡Waaah! ¡Se rompió!\n¡Revisa CARGAR SUEÑO!
 385884829454073856,ERRO#&R%@
-385903467410128896,EVENTOS
+385903467410128896,FILME DE ABERTURA
 385903467410128897,GALERÍA DE MÚSICA
 385903467410128898,CRÉDITOS
 385903467410128899,> Yunyun\n¡Es una Página especial!
@@ -94,12 +94,12 @@
 402250473019703303,PANTALLA COMPLETA
 402250473019703304,SIN BORDES
 402250473019703305,RESOLUCIÓN
-402250473019703306,3840 x 2160
-402250473019703307,2560 x 1440
-402250473019703308,1920 x 1080
-402250473019703309,1600 x 900
-402250473019703310,1440 x 900
-402250473019703311,1280 x 720
+402250473019703306,3840×2160
+402250473019703307,2560×1440
+402250473019703308,1920×1080
+402250473019703309,1600×900
+402250473019703310,1440×900
+402250473019703311,1280×720
 402250473019703312,Cuadros por segundo
 402250473019703313,V-Sync
 402250473019703314,60FPS
@@ -165,13 +165,13 @@
 410592432146776064,Título
 410592432239050752,Estándar
 415542925398802432,Título: {title}\nVoz: {singer}\nLetra: {lyricist}\nComp.: {composer}\nArr.: {arran}\nMapa de ritmo: {score_editor}
-415579311279603712,Yunyun Syndrome!? Rhythm Psychosis  Versión {version}
+415579311279603712,Yunyun Syndrome!? Rhythm Psychosis Versión {version}
 415610741573451776,ERROR DE DATOS
 415610741594423296,CONTACTO
 415610741594423297,TRANSMISIÓN DENPA
 415610741594423298,VOLVER
 417729278052040704,JAJAJAJA
-417806557235019776,TRAGAMONEDAS
+417806557235019776,SLOT
 417806557264379904,RECOM.
 420771583285690368,> Yunyun
 420771583327633408,¿Quieres restaurar los datos de la Basurero?
@@ -179,15 +179,15 @@
 420776507843182592,¡Ingresa la contraseña!\n¡Escribe la frase de Yunyun en letras!
 420947398027804672,Canción {id}
 421834168009392128,¿Saltar video?
-423178542169358336,1024 x 576
-423178542207107072,854 x 480
+423178542169358336,1024×576
+423178542207107072,854×480
 424005319653490688,DISCORD
 424005319695433728,¡Nivel Denpa incompleto!\n¡Necesitas el 100% para transmitir!
 424005319695433729,¿Cargar la partida?
 424005319695433730,¿Sobrescribir la partida?
 424005319695433731,01 La primera señal
 424008151483973632,No se puede sobrescribir esta partida.
-424031540604993536,±MOSTRAR ERROR DE SINCRONIZACIÓN
+424031540604993536,±MOSTRAR ERROR DE SINC.
 424352715050745856,AJUSTES
 424762825073917952,Teclado
 425459214246379520,¿Cómo interpretaron el texto de Q...?
@@ -196,18 +196,16 @@
 425459214279933954,¡Esa es la elección del mundo...!
 425459214279933955,¿Qué saldrá? ¿Qué saldrá?
 425459214279933956,¡Qué emoción...! ¡No puedo esperar!
-426159465076785152,"¡Presiona ""Canción Denpa""!"
+426159465076785152,"¡Presiona ""Canciones Denpa""!"
 426159465114533888,¡Yunyun! ¡Yunyun!
-426159465114533891,¡Alcanza 20% de Nivel de DOKIDOKI!
+426159465114533891,¡Alcanza 20% de Niv.DOKIDOKI!
 426159465114533892,¡Sintoniza muuucho Denpa y\nrecupera la DOKIDOKI!
-426159465114533893,¡Alcanza 40% de Nivel de DOKIDOKI!
+426159465114533893,¡Alcanza 40% de Niv.DOKIDOKI!
 426159465114533894,¡Sintoniza muuucho Denpa y\nrecupera la DOKIDOKI!
-426159465114533895,¡Alcanza 50% de Nivel de DOKIDOKI!
+426159465114533895,¡Alcanza 50% de Niv.DOKIDOKI!
 426159465114533896,¡Sintoniza muuucho Denpa y\nrecupera la DOKIDOKI!
-426159465114533897,¡Alcanza el 50% de Nivel YUNYUN!
+426159465114533897,¡Alcanza 50% de Niv.YUNYUN!
 426159465114533898,¡Envía palabras lindas por Denpa\ny a Yunyunizar!
-426159465114533899,¡Alcanza 50% de Nivel de Carisma!
-426159465114533900,
 426204373489713152,Parece que no tiene energía para moverse.
 426943935656656896,Notas simples
 426943935690211328,¡Presiona la tecla cuando las Notas toquen la Línea de juicio!
@@ -222,13 +220,13 @@
 427623371884363779,"¡Haz clic en una Canción Denpa,\nsigue el ritmo, entra en Sintonía\ny pon tu corazón a DOKIDOKI!"
 427623371884363780,Tutorial/Screenshot2
 427623371884363781,■Aumento de Nivel Denpa
-427623371884363782,"¡Las Canciones Denpa suben el Nivel Denpa! ¡Si consigues Logros, aumentará muchísimo! ¡Apunta al 100%!"
+427623371884363782,"¡Las Canciones Denpa suben el Nivel Denpa! \n¡Si consigues Logros, aumentará muchísimo! \n¡Apunta al 100%!"
 427623371884363783,Tutorial/Screenshot1
 427623371884363784,■Aumento de Salud
 427623371884363785,Puedes aumentar el DOKIDOKI jugando canciones Denpa. ¡Más adelante te explicaré cómo mejorar tus otras estadísticas!
 427623371884363786,Tutorial/Screenshot2
 427623371884363787,■CARTA MANIFESTADA
-427623371884363788,"¡Son los textos de Q convertidos en cartas!\n¡Combina 3 y publícalos en internet!\n¡La probabilidad de obtenerlas depende del Nivel de DOKIDOKI,\nNivel YUNYUN y Nivel de CARISMA de Q!"
+427623371884363788,¡Son los textos de Q convertidos en cartas! \n¡Combina 3 y publícalos en internet! 
 427623371884363789,Tutorial/Screenshot2
 428239508699512832,FIN DEL TUTORIAL
 428239508741455872,Enter
@@ -240,29 +238,29 @@
 430514124142837760,Cargando
 430531574318137344,¡Se acabó el tiempo de la demo!
 430754866958336000,¡Contraseña incorrecta!
-430899870125162496,■PENDIENTES
+430899870125162496,■TODO
 430899870192271360,¡Aquí verás tus objetivos actuales!
 430899870192271361,Tutorial/Screenshot3
 430899870192271362,■SALUD
 430899870192271363,¡Aquí puedes ver el estado de Q!
 430899870192271364,Tutorial/Screenshot4
 430899870192271365,■EXPLORAR CUARTO
-430899870192271366,¡Q puede hacer esto cuando el Dokidoki en su corazón la haga sentir mejor! ¡Quizás!
+430899870192271366,¡Q puede hacer esto cuando el DOKIDOKI en su corazón la haga sentir mejor! ¡Quizás!
 430899870192271367,Tutorial/Screenshot4
 430899870192271368,■CANCIONES DENPA
 430899870192271369,¡Sigue el ritmo de la Canción Denpa\ny consigue la Sintonía!
 430899870192271370,Tutorial/Screenshot1
 430899870192271404,■Explorar
-430899870192271405,¡Puedes Explorar si tienes un Nivel de DOKIDOKI del 20% o más! ¡Investiga y haz clic por todos lados!
+430899870192271405,¡Puedes Explorar si tienes un Nivel de DOKIDOKI del 20% o más! \n¡Investiga y haz clic por todos lados!
 430899870192271406,Tutorial/Screenshot3
 430899870192271407,■CARTA MANIFESTADA
-430899870196465664,¡La Salud cambia según el tipo de carta!\n・DIKIDOKI: +4% Nivel de Dokidoki por carta\n・YUNYUN: +4% Nivel Yunyun por carta\n・CARISMA: +4% Nivel de Carisma por carta
+430899870196465664,¡La Salud cambia según el tipo de carta!\n・DOKIDOKI: +2% Nivel de Dokidoki por Estrella\n・YUNYUN: +2% Nivel Yunyun por Estrella\n・CARISMA: +2% Nivel de Carisma por Estrella
 430899870196465665,Tutorial/Screenshot2
 430899870196465666,■Rareza de la Carta manifestada
 430899870196465667,"¡Cada Carta manifestada tiene un nivel de rareza!\n¡Cuantas más estrellas, mejores resultados!"
 430899870196465668,Tutorial/Screenshot2
 430899870196465669,■Conspiración
-430899870196465670,"¡Cuando se activa una Teoría conspirativa, sube el Nivel Denpa! ¡Vamos por ese 100% de Nivel Denpa!"
+430899870196465670,"¡Cuando se activa una Teoría conspirativa, \nsube el Nivel Denpa! \n¡Vamos por ese 100% de Nivel Denpa!"
 430899870196465671,Tutorial/Screenshot2
 430899870196465672,■Nivel de Teoría conspirativa
 430899870196465673,¡Puedes subir de nivel la misma Conspiración dos veces!\n¿Quizás algo genial pase con una Conspiración de 5 estrellas…?
@@ -292,35 +290,35 @@
 430899870196465697,Aún no es momento de alcanzar tu objetivo.
 430899870196465698,Kurusu se va a dormir.
 430899870196465699,¿La primera Denpa?
-430899870196465700,¿¿La primera Denpa??
+430899870196465700,¿La primera Denpa?
 431218986526605312,¿Quieres jugar el tutorial del juego de ritmo?
 432448074771759104,MAMÁ
-432475509521285120,(La mochila que elegí con Papá. Me puse muy feliz cuando me dijo que me veía linda...)
-432475509538062336,(Una figura hecha por fans que compré en un evento. Ojalá saquen una oficial algún día.)
-432475509538062337,(Lo haré por mi cuenta. Lo haré por mi cuenta. Lo haré por mi cuenta. Promesa a Mamá. Carta de disculpa.)
-432475509538062338,(El televisor grande que estaba en la habitación de papá. La estética retro tiene su encanto.)
-432475509538062339,(Una foto del viaje de esquí que hice con mamá después de que papá se fue.)
-432475509538062340,(Mochila escolar. Basurero. Me robaron mis cosas y me la dejaron hecha un asco.)
-432475509538062341,"(Póster de regalo de la revista cuando salió la OVA 2 de ""Execution Angel † Guiltina"". Ya reparé donde lo rompió Mamá.)"
-432475509538062342,"(Un peluche que encontré en una vitrina de alquiler. Estoy bastante seguro de que es hecha por fans. De todos modos, no es oficial.)"
-432475509538062343,"(Una funda de almohada para abrazar de Yunyun. Solo existen 30 en el mundo; qué suerte, la gané en una subasta.)"
-432475509538062344,"(Basura. Mamá se enoja si ensucio el cuarto, y como no logro levantarme temprano, se sigue acumulando...)"
-432475509538062345,(Mi laptop viejita. Ahí estoy escribiendo una novela y el lore ya está brutal.)
-432475509538062346,"Figuras prize. Me encanta jugar a la garra, así que tengo un montón.)"
-432475509538062347,(Afuera da a un callejón del centro. No distingo si es luz del sol o de las lámparas...)
+432475509521285120,(La mochila que elegí con Papá. \nMe puse muy feliz cuando me dijo que me veía linda...)
+432475509538062336,(Una figura hecha por fans que compré en un evento. \nOjalá saquen una oficial algún día.)
+432475509538062337,(Lo haré por mi cuenta. Lo haré por mi cuenta. \nLo haré por mi cuenta. Promesa a Mamá. Carta de disculpa.)
+432475509538062338,(El televisor grande que estaba en la habitación de papá. \nLa estética retro tiene su encanto.)
+432475509538062339,(Una foto del viaje de esquí que hice con mamá \ndespués de que papá se fue.)
+432475509538062340,(Mochila escolar. Basurero. \nMe robaron mis cosas y me la dejaron hecha un asco.)
+432475509538062341,"(Póster de regalo de la revista cuando salió la \nOVA 2 de ""Execution Angel † Guiltina"". \nYa reparé donde lo rompió Mamá.)"
+432475509538062342,"(Un peluche que encontré en una vitrina de alquiler. \nEstoy bastante seguro de que es hecha por fans. \nDe todos modos, no es oficial.)"
+432475509538062343,"(Una funda de almohada para abrazar de Yunyun. \nSolo existen 30 en el mundo; \nqué suerte, la gané en una subasta.)"
+432475509538062344,"(Basura. Mamá se enoja si ensucio el cuarto,\n y como no logro levantarme temprano, \nse sigue acumulando...)"
+432475509538062345,(Mi laptop viejita. Ahí estoy escribiendo una novela\n y el lore ya está brutal.)
+432475509538062346,"Figuras prize. Me encanta jugar a la garra, \nasí que tengo un montón.)"
+432475509538062347,(Afuera da a un callejón del centro. \nNo distingo si es luz del sol o de las lámparas...)
 432475509538062348,(¡Soy fan de los mariscos...!)
-432475509538062349,"(Caja mágica para comer caliente aunque no esté Mamá. En el lore, a Yunyun también le gustan los microondas.)"
-432475509538062350,(Prueba de que Mamá estuvo aquí. A veces me despierto y veo cosas movidas.)
+432475509538062349,"(Caja mágica para comer caliente aunque no esté Mamá. \nEn el lore, a Yunyun también le gustan los microondas.)"
+432475509538062350,(Prueba de que Mamá estuvo aquí. \nA veces me despierto y veo cosas movidas.)
 432475509538062351,"(Abandonad toda esperanza, quienes aquí entráis.)"
 432475509538062352,(¿De quién era este abrigo...?)
 432475509538062353,(Alto ahí. No quemes la zona contaminada...)
 432961279398936576,■Bebida energética
-432961279428296704,"¡Beber ZONe pone a Q en la Zona!\nMientras está en la Zona, todas las Cartas Conspiración que obtengas de las Canciones Denpa ganan una estrella extra."
+432961279428296704,"¡Beber ZONe pone a Q en la Zona!\nMientras está en la Zona, todas las █████\n████████████ que obtengas de las Canciones Denpa ganan\n█████████████████."
 432961279436685312,Tutorial/Screenshot2
 432961279436685313,ZONe
 432987649965457408,rimdelacent
 432988311977623552,¡Teclado desbloqueado!
-432992895437537280,(Tengo que dejar de ser una estúpida... El juramento con Mamá. Qué miedo me dio cuando me hizo sellarlo con sangre.)
+432992895437537280,(Tengo que dejar de ser una estúpida... \nEl juramento con Mamá. Qué miedo me dio cuando \nme hizo sellarlo con sangre.)
 432998098089967616,¡La canción Denpa ha sido restaurada!
 432998098089967617,¡Se restauró una imagen!
 432998098089967618,¡El Basurero está vacía!
@@ -328,22 +326,22 @@
 433074816901349376,¡Parece el teclado que usaba mi papá!
 433074816901349377,Teclado de pelos
 433074816901349378,¡Puede reproducir Canciones en MODO AUTOMÁTICOMENTE!\n(No afecta la puntuación ni los logros).
-433303487230672896,(No tengo fuerzas para moverme. Me falta Doki-doki en mi corazón….)
+433303487230672896,(No tengo fuerzas para moverme. \nMe falta DOKIDOKI en mi corazón….)
 433427943441727488,#???
-433702239711952896,Confirmar
+433702239711952896,Accepto
 433702239821004800,Equipo
-435459201915060224,¡No hay suficiente Nivel de emoción para contactar a Mamá!
+435459201915060224,¡No hay suficiente Nivel de DOKIDOKI para contactar a Mamá!
 435459201957003264,¿Contactar a Mamá para pedirle que vuelva a casa?
 435459201957003265,¿Habré hecho enojar a Mamá...?
 435459201957003266,¡Ah! Mamá...
 435459201957003267,"¡Uy, está furiosísima...!"
 435459201957003268,¡GYAAA! ¡Perdón! ¡Perdón!\n¡Me esforzaré por ser una adulta de bien!
 435459201957003269,¡GYAAAAA!
-435459201957003270,"El refrigerador lleno, pero el corazón vacío…"
+435459201957003270,"El refrigerador está lleno, pero mi corazón está vacío de DOKIDOKI…"
 435459201957003271,"Jejeje. Pero,\nla verdad es que quiero ver a Mamá."
-435459201957003272,"Perdón, mamá. Sé que estás ocupada y aun así te escribí. Pero… ya pasó bastante tiempo y te extraño. Hace mucho que no te veo. ¿Cómo estás? Seguro estás bien. Pero, no sé, ¿has estado comiendo bien y todo eso? Yo básicamente vivo a base de bebidas energéticas, así que… Ah, espera, ya no queda ninguna en el refri. Perdón por ser tan mañosa para comer. Nunca se me quitó, aunque siempre me retabas por eso. Soy un desastre, lo sé. De verdad me siento mal por eso. Perdón, me fui por las ramas. Sé que volver a casa es molesto. Que tu trabajo queda lejos y que estás súper ocupada. Pero quiero verte. Sé que mis estudios no van bien y que no soy una buena hija… aun así, me encantaría verte, mamá. ¿Podrías, por favor?"
-435459201957003273,"Mamá, ¿cómo estás? Yo estoy bien gracias a Yunyun. Pero en la realidad estoy sola y solo pienso en ti. Por eso te escribí. Soy una molestia, ¿verdad? Pero de verdad quiero que vuelvas, aunque sea un rato. Si me abrazas, siento que mi Nivel de emoción subirá muchísimo. Perdón por ser egoísta. Ojalá me respondas.\nY, si llegas a venir... perdón, pero ¿podrías traerme fideos instantáneos y bebidas energéticas? Me haría muy feliz. No voy a la escuela ni trabajo... Perdón. Soy una inútil mantenida."
-435459201957003274,"¡Yunyuuun! ¡Rim de Lacent! ¡El corazón de Q late a mil gracias a mis ondas de amor! ¿Y tú, Mamá? ¿Sientes la emoción en el trabajo? ¿Estás cansada? ¡Te envío mis ondas de amor porque trabajas muy duro! Eres increíble, hermosa y responsable, ¡mi orgullo! ¡Te quiero! ¡Te quiero! ¡Te amo! Así que no te esfuerces de más y descansa, ¿sí? No afuera, ¡sino en casa!\n¡Yo también estoy en casa!\n(¡Tu hija está hambrienta de comida y amor, esperando que vuelvas!)"
+435459201957003272,"Perdón, mamá. Sé que estás ocupada y aun así te escribí. \nPero… ya pasó bastante tiempo y te extraño. Hace mucho que no te veo. \n¿Cómo estás? Seguro estás bien. Pero, no sé, ¿has estado comiendo bien y todo eso? \nYo básicamente vivo a base de bebidas energéticas, \nasí que… Ah, espera, ya no queda ninguna en el refri. \nPerdón por ser tan mañosa para comer. \nNunca se me quitó, aunque siempre me retabas por eso. \nSoy un desastre, lo sé. De verdad me siento mal por eso. Perdón, me fui por las ramas.\n Sé que volver a casa es molesto. \nQue tu trabajo queda lejos y que estás súper ocupada. \nPero quiero verte. Sé que mis estudios no van bien y que no soy una buena hija… \naun así, me encantaría verte, mamá. ¿Podrías, por favor?"
+435459201957003273,"Mamá, ¿cómo estás? Yo estoy bien gracias a Yunyun. \nPero en la realidad estoy sola y solo pienso en ti. \nPor eso te escribí. Soy una molestia, ¿verdad? Pero de verdad quiero que vuelvas, aunque sea un rato. \nSi me abrazas, siento que mi Nivel de DOKIDOKI subirá muchísimo. \nPerdón por ser egoísta. Ojalá me respondas.\nY, si llegas a venir... perdón, pero \n¿podrías traerme fideos instantáneos y bebidas energéticas? \nMe haría muy feliz. No voy a la escuela ni trabajo... \nPerdón. Soy una inútil mantenida."
+435459201957003274,"¡Yunyuuun! ¡Rim de Lacent! ¡El corazón de Q late con DOKIDOKI, gracias a mis ondas de amor! \n¿Y tú, Mamá? ¿Sientes la emoción en el trabajo? ¿Estás cansada? \n¡Te envío mis ondas de amor porque trabajas muy duro! \nEres increíble, hermosa y responsable, ¡mi orgullo! ¡Te quiero! ¡Te quiero! ¡Te amo! \nAsí que no te esfuerces de más y descansa, ¿sí? No afuera, ¡sino en casa!\n¡Yo también estoy en casa!\n(¡Tu hija está hambrienta de comida y amor, esperando que vuelvas!)"
 435459201957003275,"¡MAMÁ! ( ´∀｀)σ)∀) \n¿Qué andas haciendo ahorita? (´・ω・) \nYo estoy… redoble de tambores, por favor\n ¡hueveando en la PC! (；´Д｀)\nOye, mamá… \n¿Estás en una cita con tu novio ahora mismo? ( ﾟдﾟ ) \nSeguro la estás pasando genial, pero yo me siento súper abandonada ;w; Así que te mandé este mensaje LOL m9(Д)Jajaja\n\nLa verdad, quiero hacer contigo lo de “¡Ya llegué!” “¡Bienvenida a casa!” (〃▽〃) \nSé que soy egoísta, pero me encantaría leer una respuesta tuya (´・∀・｀)\n¿Puedo pedirte un favor si vienes a casa? (；´∀｀) \n¿Podrías comprar pan y sopas instantáneas en la tienda? Aunque las bebidas energéticas son vida (ﾟ∀ﾟ)\n\nUna inútil que no sirve para nada (ヽ´ω`)\nPero eres la última persona de la que quiero sentirme abandonada."
 435459201957003276,"Oye... Madre (Mamá), en ese trabajo, ¿qué flores venden?\nOye... Madre (Mamá), en ese trabajo, ¿qué alcohol beben?\nOye... Madre (Mamá), en ese trabajo, ¿ya no te duele el cuerpo?\nOye... Madre (Mamá), en ese trabajo, ¿no podemos estar juntas?\nOye... Madre (Mamá)...\n(Mamá, tu generación escuchaba a este artista, ¿no? jejeje)"
 435459201957003277,¡Mamáaaaa!\n¿Vas a volver a casa?
@@ -367,7 +365,7 @@
 436313355214553088,¡Elige entre Modo Ancho y Modo Delgado!
 436313355214553089,■VELOCIDAD DE NOTAS
 436313355214553090,¡Cambia la velocidad de caída\nde las Notas!
-436313355214553091,■±MOSTRAR ERROR DE SINCRONIZACIÓN
+436313355214553091,■±MOSTRAR ERROR DE SINC.
 436313355214553092,¡Muestra el error de timing\nrespecto al ¡PERFECTO!!
 436313355214553093,■AJUSTE DE SINCRONIZACIÓN
 436313355214553094,"¡Ajusta la sincronización!\n\nSi te sale mucho error de +5.0,\n¡ponla en -5.0 para acercarte a 0!"
@@ -386,20 +384,20 @@
 436322615264706565,■CONFIG. TECLAS
 436322615264706566,¡Puedes subir o bajar el brillo! ¡Ajústalo para ver mejor las Notas!
 436322615264706567,■Logros
-436322615264706568,"Los logros se aplican a todos los sueños. Cuantos más desbloquees, más alto subirá tu nivel Denpa, ¡así que es más eficiente jugar nuevas canciones!"
+436322615264706568,"Los logros se aplican a todos los sueños. \nCuantos más desbloquees, más alto subirá tu nivel Denpa, \n¡así que es más eficiente jugar nuevas canciones!"
 436489289930539008,■MAMÁ
 436489289964093440,"Hace que Q llame a mamá.\nPerderás 50% de DOKIDOKI, ¡pero ella rellenará el refrigerador!"
 436557321067462656,■Nivel Denpa
-436557321121988608,¡La meta de 'Yunyun Denpa Syndrome' es llegar al 100%!\n\n¡Todo para enviarle una 'Transmisión Denpa de Yunyun' a Q!
+436557321121988608,¡La meta de 'Yunyun Syndrome' es llegar al 100%!\n\n¡Todo para enviarle una 'Transmisión Denpa de Yunyun' a Q!
 436636402375098368,"■MODO ¡MAMÁ, AQUÍ ESTÁS!"
 436636402400264192,"¡Presiona TAB para cambiar a una pantalla que no es sospechosa en absoluto!\n¡Así, mamá no te verá jugando!"
-437990325392408576,¿Iniciar el modo AUTO-FUSIÓN YUNYUN?\n(Nivel Yunyun -50%. Durante 25 min se reproducirán Canciones Denpa al azar\ny aparecerán Teorías conspirativas de hasta 4 estrellas).
+437990325392408576,¿Iniciar el modo AUTO-FUSIÓN YUNYUN?\n(Nivel Yunyun -50%. Durante 15 min se reproducirán Canciones Denpa al azar\ny aparecerán Teorías conspirativas de hasta 4 estrellas).
 437990325430157312,Tiempo restante
 437990325430157313,Teorías conspirativas generadas
 437990325430157314,¿Cancelar el Modo Fusión Yunyun?
 438030621417308160,Prob. Conspiración
 438030621417308161,■MODO DE AUTO-FUSIÓN YUNYUN
-438030621417308162,"¡Arrastra a Yunyun sobre Q y suéltala!\n¡Este modo costará 50% de YUNYUN para activarse!\nDurante 15 minutos, Q recibirá Transmisiones Denpa al azar.\n¡Durante este tiempo, también aparecerán Conspiraciones de hasta 4 estrellas de forma aleatoria!"
+438030621417308162,"¡Arrastra a Yunyun sobre Q y suéltala!\n¡Este modo costará 50% de YUNYUN para activarse!\nDurante 15 min, Q recibe Denpa al azar.\n¡También aparecen Conspiraciones de hasta 4 estrellas!"
 438203185234083840,¡Nivel Yunyun insuficiente!
 439051954611716096,CALIBRAR AUDIO
 439051954645270528,■CALIBRAR AUDIO
@@ -413,13 +411,13 @@
 440953566074667008,Efectos de sonido
 440953566074667009,Voz
 442048202323165184,¡Es un Manifiesto!
-442048202352525312,"Jajaja, se lo tomaron como Teoría conspirativa"
+442048202352525312,"Jajaja, se lo tomaron como \nTeoría conspirativa"
 442048202352525313,Profecía sísmica de Yunyun
 442048202352525314,Yunyun tiene\ncara de mensa
 442048202352525315,Yunyun ya fue
-442048202352525316,¿Qué onda con este alboroto? jajaja
+442048202352525316,¿Qué onda con \neste alboroto? jajaja
 442048202352525317,Qué miedo
-442048202352525318,¿Q está loca de verdad?
+442048202352525318,¿Q está loca\n de verdad?
 442048202352525319,Qué asco
 442048202352525320,Chequeo de datos
 442048202352525321,Yunyun jajaja
@@ -427,17 +425,17 @@
 442048202352525323,Reportado
 442048202352525324,Qué horror
 442048202352525325,Jajaja
-442048202352525326,¿Es una profeta de verdad?
-442048202352525327,Yunyun
+442048202352525326,¿Es una \nprofeta de verdad?
+442048202352525327,Q es Dios
 442048202352525328,Amo a Yunyun. Muchísimo. De verdad. Ni se imaginan cuánto. La amo más de lo que puedo decir. Es 99% probable que sea una obsesión enfermiza. Así que no le busquen explicaciones raras a mis sentimientos. Yunyun es...
 442048202356719616,Receptores de Denpas Q jajaja
 442048202356719617,Analicé en serio un Manifiesto que vi en redes sociales.\n\n【Manifiesto Misterioso】¿El Manifiesto de Q es un código especial\nque predice sismos según la frecuencia de 'Yun'?\n¿Qué pruebas hay de que el Manifiesto de Q sea un código y coincida con las fechas\nde los sismos?\n<color=#1D9BF0>qtube.be/fgjhk...</color>
-442050459194261504,"Alerta: Terremoto de magnitud 5 en XX, XX. No hay riesgo de tsunami.”"
+442050459194261504,Alerta: Terremoto de magnitud 5 en XX. No hay riesgo de tsunami.
 442050459194261505,"Según la Agencia Meteorológica, hoy alrededor de las hora XX:XX se\nregistró un terremoto con centro en la ciudad ×××××××, con una intensidad de 5 débil.\nSe está verificando la información sobre heridos y daños."
 443938154648600576,Yunyun Syndrome!? Rhythm Psychosis  Versión Demo {version}
 446052779343118336,30FPS
 446082796936658944,Brillo de carril
-446082796974407680,Brillo fondo giratorio
+446082796974407680,Brillo del \nfondo giratorio
 446086295816667136,■Brillo de carril
 446086295850221568,¡Puedes subir o bajar el brillo! ¡Ajústalo para ver mejor las Notas!
 446086295850221569,■Brillo fondo giratorio
@@ -466,33 +464,253 @@
 451505832586280975,KAKUSEI☆SYNDROME
 451505832586280976,Thanks for playing
 451505832586280977,EXC3PT!ON_H4NDL1NG
-451505832586280978,MUNDO PSEUDORRUIDO
+451505832586280978,NOISYVERSE
 451505832586280979,EMERGENCY
-451505832586280980,Desconectado
-451505832586280981,Lamento
+451505832586280980,Disconnected
+451505832586280981,Wail
 451505832586280982,P1XEL_HE4RT_MEM0RY_DVMP
-451505832586280983,Mi corazón
-451505832586280984,Vacío
-451505832586280985,LOCURAAAA
-451505832586280986,Consuelo
-451505832586280987,Pausa en el camino
+451505832586280983,My Heart
+451505832586280984,Hollow
+451505832586280985,MADDDD
+451505832586280986,Solace
+451505832586280987,A Pause in Passing
 451506460008022016,CANCIÓN
 453614789639438336,Base
 453614789735907328,DLC
 454781211610611712,■HARDCORE
 454781211644166144,¡Tiempos de Sintonía para HARDCORE!\n ・PERFECT: ±21\n ・GREAT: ±41\n ・GOOD: ±101
 454781211644166145,■Ranking mensual
-454786337998012416,"¡Ranking mensual de Transmisiones Denpa!\n¡Se reinicia al inicio del mes! (Alrededor de las 18:00, hora de Japón)."
+454786337998012416,¡Ranking mensual de Transmisiones Denpa!\n¡Se reinicia al inicio del mes! (El primer reinicio está programado para el 1 de junio de 2026).
 461688025463816192,Sacudida de pantalla
 461692780747587584,■SACUDIDA DE PANTALLA
 461692780781142016,¡Puedes activar o desactivar\nla sacudida de pantalla!
 486178414132363264,Q-Faminico Gamer
-486178414182694912,"¡Yunyun, el personaje que conquista internet!\nEl autor original y los actores de voz hablan sobre su encanto.\n\n<color=#1D9BF0>qnews.be/news/6699....</color>\n\n¿Será que la famosa Q no está relacionada con la obra original?\nSr. WHO YOU: ""La verdadera identidad de Q es..."""
+486178414182694912,"¡Yunyun, el personaje que conquista internet!\nEl autor original y los actores de voz hablan sobre su encanto.\n\n<color=#1D9BF0>qnews.be/news/6699....</color>\n¿Será que la famosa Q no está relacionada con la obra original?\nSr. WHO YOU: ""La verdadera identidad de Q es..."""
 486179209334652928,El creador de Yunyun habla:\n¿Cuál es La Verdad sobre Yunyun?
+486669372439560192,> Yunyun\nQ... tu corazoncito se rompió por el shock...
+486669372481503232,> Yunyun\nLa realidad está llena de cosas dolorosas...
+486669372481503233,> Yunyun\nPara hacer llegar el Denpa de Yunyun al corazón de Q...
+486669372481503234,"> Yunyun\nQ, Q, Q, Q, Q, Q..."
+486669372481503235,> Yunyun\nPuedes escapar al Delirio o a la ficción. A Yunyun le basta con que Q siga viva...
+486669372481503236,"> Yunyun\nSuperado el 100%. Espérame, Q."
+486669372481503237,> Yunyun\n¡Yunyun ha existido para ayudar al corazón de Q!
+486669372481503238,> Yunyun\nJejeje. Hoy es el cumpleaños de Yunyun.
+486669372481503239,> Yunyun\n¡Feliz cumpleaños! ¡Hoy es el cumpleaños de Q!
+486669372481503240,> Yunyun\n¡Feliz Año Nuevo!
+486669372481503241,> Yunyun\n¡Feliz Navidad! ¡Malditas parejas felices!
+486669372481503242,> Yunyun\n¿Por qué... solo Yunyun está aquí...?
+486669372481503243,> Yunyun\nHe prometido que estaremos juntas para siempre...
+486669372481503244,> Yunyun\nAh…Entonces este lugar… está dentro de la cabeza rota de Q…
+486669372481503245,"> Yunyun\nDesde el principio, todos los recuerdos de Yunyun…\nlas fantasías de Q sobre mí…"
+486669372481503246,"> Yunyun\n""Yunyun Syndrome""..."
+486669372481503247,"> Yunyun\nAsí, Yunyun podrá volver a conectar con Q y el Denpa… sin saber nada, como antes…"
+486669372481503248,> Yunyun\nRim de Lacent.
+488711951800762368,> Yunyun\nPor eso... Yunyun...
+488711951834316800,"> Yunyun\nPor eso quiero que sonrías en el mundo de la ficción, aunque sea un poco..."
+488711951834316801,> Yunyun\nSolo falta la mitad...
+488711951834316802,> Yunyun\nTodo estará bien. Te lo prometo. Yunyun nunca dejará sola a Q.
+488711951834316803,> Yunyun\n¡Que la realidad que entristece a Q se vuelva vueltas y vueltas!
+488711951834316804,> Yunyun\nTe enviaré el Denpa.
 490310779050033152,Cancelar publicación
 490310779100364800,■Cancelar publicación
 490310779100364801,¡Cancelar la publicación del misterioso documento y el surgimiento de teorías conspirativas!
+490310779100364802,Jejeje. ¡Podré ver a Mamá!
+490310779100364803,…Da miedo… pero mi Mamá siempre será solo mi Mamá…
+490310779100364804,"Extraño decir ""ya llegué"" y los abrazos..."
 491313981358768128,■Cancelar publicación
 491313981400711168,¡Cancelar la publicación del misterioso documento y el surgimiento de teorías conspirativas!\nManifiestada! ¿No sabes de qué hablo? ¡Sigue jugando este sueño!
-492511546154582016,∞  ERROR
+491313981417488384,¡¡Entrando al invencible Estado ZONe!!
+491313981417488385,¡Energía! ¡Inyección con un MUAC!
+491313981417488386,¡Energía! ¡GLU-GLU y qué vicio!
+491313981417488387,¡¡¡Vamos con todooooo!!!
+491313981417488388,"¡Jejeje, buenisimo! ¡¡Ya me siento a mil!!"
+491313981417488389,¡¡Fusión por Posesión!!
+491313981417488390,¡¡Poder Yun al máximo!!
+491313981417488391,¡¡MODO YUNYUN!!
+491313981417488392,¡¡MODO HIPERENFOQUE!!
+491313981417488393,¡A escribir teoría conspirativa con Yunyun!
+491313981417488394,¡El teclado (mi valor) que alzaste\n no es para insultar!
+491313981417488395,¡Siento una nueva denpa!
+491313981417488396,¡Sintonicé el DOKIDOKI!
+491313981417488397,¡Me alegra que sintonizaras la denpa!
+491313981417488398,¿En serio pasó eso?
+491313981417488399,"No quiero recordar el pasado, ¿sabes?"
+491313981417488400,"Si me divierto ahora, todo bien, ¿no?"
+491313981417488401,¡Son 5 estrellas!
+491313981417488402,¡Un cofre del tesoro!
+491313981417488403,"¡Dokidoki, Yunyun, Kyunkyun al corazón!"
+491313981417488404,¡Vuelve a sintonizar la denpa!
+491313981417488405,¿Tu corazón late por DOKIDOKI?
+491313981417488406,¡Me alegra que sintonizaras!
+491313981417488407,¡Hagamos el Yunyun otra vez!
 492511546183942144,0 ☆☆☆☆☆
+492511546183942145,■GEASS DEL CONTROL
+492511546183942146,"¡Controla los receptores de ondas Q con Denpa!\nTu CARISMA bajará un 50%,\n¡pero podrás fijar la teoría conspirativa creada!"
+494270830500544576,¿Será que no son terrícolas?
+494270830500544577,¿Has superado la población mundial?
+496371812697014272,¡Salieron hongos!
+496399230371528704,¿INICIAR LA REALIDAD?
+496417239475585024,No puedes agarrarlo ahora.
+496417239572054016,Esta función ya no se puede usar.
+496417908630650880,∞  ERROR
+496681509798969344,RECUPERACIÓN
+496681509815746560,"¿Reiniciar “Recuerdos de Yunyun” y el “Nivel Denpa”?\n(RÉCORD, LOGROS, CANCIÓN obtenida\ne Imágenes no se reiniciarán)"
+496681509815746561,> Yunyun\n'RECUPERACIÓN'... ¿Significa devolver el nivel de Denpa de este mundo?
+496681509815746562,> Yunyun\n¿Recuerdos... de Yunyun también…? 
+496681509815746563,"> Yunyun\nSi yo, que no sé nada, pudiera volver a sentir de nuevo DOKIDOKI con Q…"
+496681509815746564,> Yunyun\nQuizá sería un infierno eterno… de feliz.
+496795839752208384,NIVEL 1
+496795839815122944,NIVEL 2
+496795839815122945,NIVEL MÁXIMO
+496795839831900164,¡Predicción de la conspiración y los parámetros que subirán al combinar Cartas Manifestada!
+496795839831900165,"¡Puedes usar el ""Geass del control"" en los Receptores de Denpa Q! Si eliges una conspiración, podrás fijar cuál se genera."
+496795839831900166,"¿Consumir 50% de Nivel CARISMO para fijar la conspiración generada? (Si la fijas, no podrás cambiar el Post)."
+496795839831900167,¡Conspiración fijada!
+498294674869616640,XXX0_0216.txt
+498294674987057152,XXX4_0909.txt
+498294674987057153,XXX5_0106.txt
+498294674987057154,XXX5_0421.txt
+498294674987057155,XXX5_0303.txt
+498294674987057156,XXX5_0901.txt
+498294674987057157,XXX7_0715.txt
+498294674987057158,XXX7_0909.txt
+498294674987057159,XXX7_1224.txt
+498294674987057160,XXX8_0327.txt
+498294674987057161,XXX3_0413.txt
+498294674987057162,XXX4_1018.txt
+498294674987057163,XXX4_1129.txt
+499259063076552704,¡Diario añadido!
+499259063118495744,¡Ingresa la contraseña!\nEscribe el nombre real de Q.
+499259063118495756,DIARY.ZIP
+499259063126884352,¿INICIAR?
+499259063126884353,Yunyun Syndrome!? Rhythm Psychosis
+499259063126884354,¡Que se vaya todo al diablo!
+499259063126884355,¿¿La primera Denpa??
+499259063126884356,¿¿La primera Denpa??
+499259063131078656,#&R%@?%@?#&R%@?
+499259063131078657,¡Qué felicidaaaad!
+499259063131078658,"¡Feliz, feliz, Yunyun!"
+499259063131078659,¡Mi cabeza está Yunyunizandooo!
+499259063131078660,No puedo pensar en nada triiiste.
+499259063131078661,Un millón de Rim de Lacent en agradecimiento.
+499259063131078662,INICIO
+499259063131078663,××
+499259063131078664,××
+499259063131078665,PRINCIPAL
+499259063131078666,××
+499259063131078667,××
+499259063131078668,P
+499259063131078669,@yunyuniloveyun
+499259063131078670,Yunyun I Love yun♥
+499259063131078671,777
+499259063131078672,556
+499259063131078673,"1,000"
+499259063131078674,Se volvió viral la teoría de que Q es la profeta del Onda Yunyun y que sus manifiestos contienen mensajes ocultos.\nSe dice que están encriptados y que al analizar “Yun” con FFT aparece un patrón que no existe en textos normales.\n<color=#1D9BF0>Mostrar más...</color>
+499259063131078675,Resumen de Receptores de Denpa Q
+499259063131078676,"1,000"
+499259063131078677,"3,614"
+499259063131078678,"4,256"
+499259063131078679,"Se volvió viral la teoría de que Q es la “libertadora del mundo” y lidera una revolución ligada a Yunyun.\n\nSegún esta teoría, Q sería una destructora del “Estado profundo”, y Yunyun la diosa de la revolución que liberará a la gente.\n<color=#1D9BF0>Mostrar más...</color>"
+499259063131078680,Resumen de Receptores de Denpa Q
+499259063131078681,327
+499259063131078682,909
+499259063131078683,"7,015"
+499259063131078684,Se volvió viral la teoría de que el “Estado profundo” considera a los Receptores de Denpa Q una amenaza y planea acciones contra Q.\n\nEste grupo interpreta los manifiestos de Q como teorías conspirativas y su influencia en internet sigue creciendo.\n<color=#1D9BF0>Mostrar más...</color>
+499259063131078685,Resumen de Receptores de Denpa Q
+499259063131078931,Un mundo en el caos absoluto
+499259063131078932,"Las disputas en la comunidad de Receptores de Denpa Q se han intensificado por la relación entre Q y Yunyun. El grupo ahora está dividido en tres facciones: “Team Yun-Q”, “Team Q-Yun” y “Team Versátil”.\nLos debates en redes y foros se han vuelto constantes. Un miembro afirma que todo se debe al aumento del carisma de Q."
+499259063131078934,"Estalla guerra de facciones entre los Receptores de “Ondas” y “Denpa”: Team Yun-Q, Team Q-Yun y Team Versátil en conflicto"
+499259063131078935,Anónimo
+499259063131078936,Anónimo
+499259063131078937,Anónimo
+499259063131078938,Anónimo
+499301735589904384,¡Ay!\n¡Se me cayó!
+499349231708045312,Teclado Pro-Gamer
+499349231708045313,¡Un teclado exclusivo para pro-gamers!
+499349231712239616,Estilo Aluminio
+499349231712239617,¡Te vas a quedar con un gorro de aluminio!
+499349231712239618,Estilo RELUCIENTE
+499349231712239619,¡Te volverás RELUCIENTE!
+499349231712239620,Estilo Hongo
+499349231712239621,¡Te crecerán hongos!
+499763409287544832,Canal Q
+499763409333682176,"Buenas noches, Yunyun"
+499763409333682177,Q.E.D.
+499763409333682178,Q es claramente paranoica
+499763409333682179,¡Al diablo con todo!
+499763409333682180,Anillo de compromiso
+499763409333682181,YUN MUERE
+499763409333682182,¡No me dejes tirada...!
+499763409333682183,¡Vete a dormir!
+499763409333682184,Yun es una idiota
+499763409333682185,No habrá próxima vez
+499763409333682186,Es el caos total
+499763409333682187,Todo se volverá a Yun
+499763409333682188,Qué ternura
+499763409333682189,Ascensión
+499763409333682190,"“Morir de furia” solo lo veo en manga ""Sangokushi""."
+499763409333682191,Rim de Lacent
+499763409333682192,HIKIKOMORI + √NEKOMIMI = 0
+499763409333682193,Cómo eliminarte a ti (delfín)
+499763409333682194,Corrigiendo la línea temporal
+499763409333682195,Adiós...
+499763409333682196,El plan antifamilia
+499763409333682197,Q en la pecera
+499763409333682198,Cuidado con la Velocidad 4D
+499763409333682199,"Cielo o infierno, igual estás muerto"
+499763409333682200,Milagros y magia tienen límites
+499763409333682201,Ni la bancarrota borra los impuestos
+499763409333682202,HIKIKOMORI OF THE DEAD
+499763409333682203,No toques botones raros
+499763409333682204,Desde el nuevo mundo
+499763409333682205,¿Sueñan los androides con la chica hikikomori?
+499763409333682206,Inversión de luz y oscuridad
+499763409333682207,DEAD OR ALIVE Generador Humano
+499763409333682208,Dicen que la cara refleja la personalidad
+499763409333682209,"¡Ay Dios, me maté sola!"
+499763409333682210,"Indiferencia, Castigo, Caída"
+499763409333682211,"¡Q, la linda chica Denpa delirante!"
+499763409333682212,El fin del internet
+499763409333682213,"Error, Juego, Reinicio"
+499763409333682214,¡Una Otaku hikikomori te ordena!
+499763409333682215,¡Da vueltas y vueltas!
+499763409333682216,¡Una Otaku fan de Yunyun lo graba!
+499763409333682217,Gorro de Aluminio
+500487460083630080,<<Influencia de la conspiración>>
+500491044795875328,Yunyun I Love yun♥
+500813730281586688,MEMORIA CHIAVE 01
+500813730323529728,MEMORIA CHIAVE 02
+501085593167626240,END?
+501085593205374976,TRUE END
+501085593205374977,BAD END
+501085593205374978,IF END
+501793678827880455,Esta canción aún no está desbloqueada.
+501793678827880456,No comprado
+501793678827880457,Tienda
+503028339398836224,Wiki de Q\npediQ
+503028339482722304,Mamá ya no va a venir.
+503028339482722305,Parece que no se puede usar ahora.
+503028339482722306,No se puede usar.
+504049219386114048,TODO
+504424741601443840,Esta canción aún no está desbloqueada.
+504850194686443520,Parte 1 de la historia. El prólogo.\n(El número de Conspiraciones que pueden aparecer es limitado.)
+504850194707415040,¡Parte 2 de la historia! ¡La parte principal!\n¡Apunta al 100% de Nivel Denpa!\n(¡Genera muchas Conspiraciones 5 estrellas!)
+505542970822524928,■Bebida energética
+505542970822524929,"¡Beber ZONe pone a Q en la Zona!\nMientras está en la Zona, todas las Cartas \nConspiración que obtengas de las Canciones Denpa ganan una estrella extra."
+506512495030206464,Rim de Lacent
+506932830615535616,> Yunyun\n...
+506932830716198912,"¿Quieres exportar esto a la otra dimensión?\n*Al continuar, aceptas los Términos de uso."
+506985397403942912,¡La parte principal de la historia!\n(¡Genera muchas Conspiraciones 5 estrellas!)
+508098362542817280,AVERAGE
+511019755735515136,¡Puedes volver a ver los episodios sobre conspiraciones publicados en redes sociales!
+511019755760680960,■ Para streamers y quienes graben
+511019755760680961,"Por motivos de la puesta en escena, este juego puede cambiar automáticamente al modo ventana. Dado que el escritorio podría quedar visible, recomendamos <color=#f6669e>capturar únicamente la ventana del juego</color>."
+511019755760680962,■ Advertencia de crisis de fotosensibilidad
+511019755760680963,"Este juego contiene parpadeos, destellos y efectos de transición rápida. <color=#f6669e>Si te sientes mal mientras juegas, detén el juego de inmediato</color> y descansa."
+511637745984241664,¡Mira END? ‘Canal Q’ antes de hacer clic!
+511680602052919296,"■MODO ¡MAMÁ, AQUÍ ESTÁS!"
+511680602090668032,"¡Si aparece una escena HARDCORE,\ntal vez puedas recibir ondas muy especiales, YUN?"
+512558277600641024,"■MODO ¡MAMÁ, AQUÍ ESTÁS!"
+512558277600641025,"¡Presiona TAB para cambiar a una pantalla que no es sospechosa en absoluto!\n¡Así, mamá no te verá jugando!"
+512823673373229056,Guía
+512823673406783488,Sitio oficial

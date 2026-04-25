@@ -1,7 +1,7 @@
 359374716964864,ANA MENÜ
 359790565429248,YENİ DÜŞ
 697230144606208,Menü
-697443559182336,Ana Ekran
+697443559182336,Ana Menü
 697599742480384,Oyna
 699032378314752,Oyun Dışı
 701075566399488,Menü
@@ -15,10 +15,10 @@
 706156462379008,Dil
 706397228011520,Kapat
 372908906425516032,Sosyal Medya
-372908906425516033,Düş Günlüğü
+372908906425516033,Günlük
 372908906425516034,Odayı Araştır
-372908906425516035,SAĞLIK
-372908906425516036,YAPILACAKLAR
+372908906425516035,Sağlık
+372908906425516036,TODO
 372908906425516037,Resimlerim
 372908906429710336,Ayarlar
 372908906429710337,ZIP
@@ -26,48 +26,48 @@
 372910093082198016,Denpa Şarkısı
 372922115467411456,Q
 372922115467411457,Yunyun
-372922115467411458,HEYECAN SEVİYE
-372922115467411459,YUNYUN SEVİYE
-372922115467411460,KARİZMA SEVİYE
+372922115467411458,HEYECAN
+372922115467411459,YUNYUN
+372922115467411460,KARİZMA
 372929733636292608,NORMAL
 372929733636292609,BOMBA
 372929733640486912,HAYATSIZ
-372929733640486913,İLK TAMAM
-372929733640486914,A VE ÜZERİ
+372929733640486913,TUR TAMAM
+372929733640486914,A+ SEVİYE
 372929733640486915,FULL COMBO
 372929733640486916,%95 VE ÜZERİ
 372929733640486917,⇅Sırala
 372929733640486918,Vokal: {name}
-372929733640486919,Bestecı: {name}
+372929733640486919,Besteci: {name}
 372929733640486920,Sözler: {name}
 372936789667774464,⇅Sırala
 372936789697134592,{name} UP
 375435576814501888,Q
 375435576835473408,@yunyuniloveyou
-375435576835473409,Yunyun Seni Seviyorum.
+375435576835473409,Yunyun Aşkı
 375435576835473410,Takipçi
 375435576835473411,Takip Edilen
-384731644312059904,önyükleme dizisi:::BAŞLAT
+384731644312059904,ön yükleme dizisi:::BAŞLAT
 384731644341420032,[YUNYUN VARLIĞINDAN SİNYAL ALINIYOR]
 384731644341420033,....................
 384731644341420034,HATA: KİMLİK ÇAKIŞMASI TESPİT EDİLDİ
 384731644341420035,kullanıcı varlıkla birleştiriliyor
 384731644341420037,SENKRONİZASYON TAMAMLANDI
-384731644341420038, Yunyun Syndrome!? Rhythm Psychosis HOŞ GELDİNİZ
+384731644341420038,Yunyun Syndrome!? Rhythm Psychosis'e HOŞ GELDİNİZ
 384732430026833920,Q SİSTEMİ sürüm 0.88 \n©Alliance Arts Inc. / Geliştirici: WHO YOU
 384744829031186432,ÇIKIŞ
 384746919015120896,DÜŞÜ YÜKLE
 384746919073841152,EKSTRA
 385428742204456960,YÜKSEK SKOR
-385428742242205696,SIRAMALA
-385439829188575232,Düzenleme: {name}
+385428742242205696,SIRALAMA
+385439829188575232,Arr. : {name}
 385849607983366144,HATA#&%?!
 385849608025309184,> Yunyun\nHaa! Denpa seviyesi feci düşük!
 385849608025309185,> Yunyun\nEyvah! Bozuldu bu!\nDÜŞÜ YÜKLE'ye bir bak!!
 385884829454073856,HATA#&%?!
-385903467410128896,OLAY LİSTESİ
+385903467410128896,AÇILIŞ JENERİĞİ
 385903467410128897,MÜZİK GALERİSİ
-385903467410128898,KREDİLER
+385903467410128898,KÜNYE
 385903467410128899,> Yunyun\nÖzel bir sayfa!
 385903467426906112,OTO KAYIT
 385903467426906113,BELLEK {num}
@@ -89,11 +89,11 @@
 402250473019703298,> Yunyun\nTuşları Ayarla!
 402250473019703299,> Yunyun\nTürkçedesin!
 402250473019703300,SİSTEM
-402250473019703301,GÖRÜNTÜ
+402250473019703301,Görüntü
 402250473019703302,PENCERE
 402250473019703303,TAM EKRAN
 402250473019703304,ÇERÇEVESİZ
-402250473019703305,ÇÖZÜNÜRLÜK
+402250473019703305,Çözünürlük
 402250473019703306,3840×2160
 402250473019703307,2560×1440
 402250473019703308,1920×1080
@@ -109,13 +109,13 @@
 402250473019703318,Yavaş
 402250473019703319,Normal
 402250473019703320,Hızlı
-402250473019703321,Maks
+402250473019703321,MAX
 402250473019703322,Ana Ses
 402250473019703323,Denpa Şarkısı
-402250473019703324,Sistem Efekt Seslerı
+402250473019703324,Sistem Efekt Sesleri
 402250473019703325,Seslendirme
 402250473019703326,Müzik
-402250473019703327,Etkinlik Efektlerı
+402250473019703327,Etkinlik Efektleri
 402250473019703328,Ritim Oyunu
 402250473019703329,AÇIK
 402250473019703330,KAPALI
@@ -124,15 +124,15 @@
 402250473019703333,DAR
 402250473019703334,VURUŞ ZAMANLAMASI AYARI
 402250473019703335,AYNA MODU
-402250473019703336,Eşzamanlı Vuruş Çizgileri
+402250473019703336,EŞZAMANLI VURUŞ ÇİZGİLERİ
 402250473019703337,KARAKTER GÖSTERİMİ
 402250473019703338,MANİFESTO KARTI EFEKTİ!
 402250473019703339,ARKA PLAN PARLAKLIĞI
 402250473019703340,Tuş Ayarları
-402250473019703341,ŞERİT 1
-402250473019703342,ŞERİT 2
-402250473019703343,ŞERİT 3
-402250473019703344,ŞERİT 4
+402250473019703341,Şerit 1
+402250473019703342,Şerit 2
+402250473019703343,Şerit 3
+402250473019703344,Şerit 4
 402250473019703345,POST
 402250473019703346,{lane} için istediğin tuşa bas!
 402250473019703347,日本語
@@ -141,9 +141,9 @@
 402250473019703350,繁體中文
 402250473019703351,한국어
 402254292080295936,VARSAYILAN
-402257783737712640,Ses
+402257783737712640,SES
 402258653271457792,0
-402258653275652096,MAKS
+402258653275652096,MAX
 402259728498065408,EĞİTİM / ÖNİZLEME
 402260409682395136,NOTA HIZI
 402262408679292928,Dil Ayarları
@@ -165,8 +165,8 @@
 410592432146776064,Şarkı Adı
 410592432239050752,Varsayılan
 415542925398802432,Şarkı Adı: {title}\nVokal: {singer}\nSözler: {lyricist}\nBesteci: {composer}\nDüzenleme: {arran}\nNota Editörü: {score_editor}
-415579311279603712,Yunyun Syndrome!? Rhythm Psychosis  Sürüm {version}
-415610741573451776,HATA BILDIR
+415579311279603712,Yunyun Syndrome!? Rhythm Psychosis Version {version}
+415610741573451776,HATA BİLDİR
 415610741594423296,İLETİŞİM
 415610741594423297,YUNYUN DENPA YAYINI
 415610741594423298,GERİ
@@ -196,7 +196,7 @@
 425459214279933954,Dünyanın seçimi bu...!
 425459214279933955,Bakalım bakalım ne çıkacak!
 425459214279933956,Kıpır kıpır... Heyecan dorukta!
-426159465076785152,Denpa Şarkısına bas!
+426159465076785152,Denpa Şarkısı'na bas!
 426159465114533888,Yunyun! Yunyun!
 426159465114533891,%20 Heyecan Seviyesini hedefle!
 426159465114533892,Çoook fazla Denpa sinyali al ve\nkalbinin heyecanını geri kazan!
@@ -206,12 +206,10 @@
 426159465114533896,Çoook fazla Denpa sinyali al ve\nkalbinin heyecanını geri kazan!
 426159465114533897,%50 Yunyun Seviyesini hedefle!
 426159465114533898,"Denpa ile sevimli sözler yolla,\nhadi Yunyunlayalım!"
-426159465114533899,%50 Karizma Seviyesini hedefle!
-426159465114533900,
 426204373489713152,"Enerjisi bitmiş, kımıldayamıyor gibi."
 426943935656656896,Tek Notalar
 426943935690211328,Notalar Vuruş Çizgisi'ne gelince tuşa bas!
-426943935690211329,UZUN NOTALAR
+426943935690211329,Uzun Notalar
 426943935690211330,Uzun Notalar Vuruş Çizgisi'ne gelince tuşa basılı tut!
 426943935690211331,Seri Notlar
 426943935690211332,Tuşlara art arda hızlıca bas!
@@ -224,11 +222,11 @@
 427623371884363781,■Denpa Seviyesi Artışı
 427623371884363782,Denpa Şarkıları ile Denpa Seviyesi yükselir! Başarımları açarsan fırlar! Hedefin %100 olsun!
 427623371884363783,Tutorial/Screenshot1
-427623371884363784,■SAĞLIK Artışı
+427623371884363784,■Sağlık Artışı
 427623371884363785,Denpa Şarkısı oynarsan Heyecan Seviyesi artar! Diğer parametreleri... sonra anlatırım!
 427623371884363786,Tutorial/Screenshot2
 427623371884363787,■Manifesto Kartı
-427623371884363788,"Q'nun yazılarından oluşan kartlar! 3 tanesini birleştirip internete gönder! Q'nun Heyecan, Yunyun ve Karizma Seviyesi oranlarına göre düşme ihtimali değişir!"
+427623371884363788,Q'nun yazılarından oluşan kartlar! 3 tanesini birleştirip internete gönder!
 427623371884363789,Tutorial/Screenshot2
 428239508699512832,EĞİTİM TAMAMLANDI
 428239508741455872,ENTER
@@ -240,7 +238,7 @@
 430514124142837760,Yükleniyor
 430531574318137344,Demo süresi doldu.
 430754866958336000,Şifre yanlış!
-430899870125162496,■YAPILACAKLAR
+430899870125162496,■TODO
 430899870192271360,Sıradaki hedeflerini buradan gör!
 430899870192271361,Tutorial/Screenshot3
 430899870192271362,■SAĞLIK
@@ -256,10 +254,10 @@
 430899870192271405,Heyecan Seviyesi %20 üzerindeyken araştırabilirsin! Etrafı incele ve tıkla!
 430899870192271406,Tutorial/Screenshot3
 430899870192271407,■MANİFESTO KARTI
-430899870196465664,Gönderilen kart türüne göre SAĞLIK değişir!\n・Heyecan: Her kart için Heyecan Seviyesi %4 artar\n・Yunyun: Her kart için Yunyun Seviyesi %4 artar\n・Karizma: Her kart için Karizma Seviyesi %4 artar
+430899870196465664,Gönderilen kart türüne göre SAĞLIK değişir!\n・Heyecan: Her kart için Heyecan Seviyesi %2 artar\n・Yunyun: Her kart için Yunyun Seviyesi %2 artar\n・Karizma: Her kart için Karizma Seviyesi %2 artar
 430899870196465665,Tutorial/Screenshot2
 430899870196465666,■Manifesto Kartı Yıldızları
-430899870196465667,Manifesto Kartları 1'den 5'e kadar yıldıza sahiptir! Yıldızı yüksek kartlarla MUHTEŞEM sonuçlar alman kolaylaşır!
+430899870196465667,Manifesto kartları 1'den 5'e kadar yıldıza sahiptir! Yıldızı yüksek kartlarla MUHTEŞEM sonuçlar alman kolaylaşır!
 430899870196465668,Tutorial/Screenshot2
 430899870196465669,■Komplo Teorisi
 430899870196465670,Komplo Teorisi oluşunca Denpa Seviyesi fırlar! Hedef %100 Denpa Seviyesi!
@@ -272,7 +270,7 @@
 430899870196465677,Kalbim Küt Küt Yunyun!
 430899870196465678,Rim de Lacent!
 430899870196465679,Araştırma Vakti!
-430899870196465680,ANNECİĞİN GELDİ MODU!
+430899870196465680,ANNECİĞİM GELDİ MODU!
 430899870196465681,Anneciğim Baskınını Atlat!
 430899870196465682,Yakalandın!
 430899870196465683,Enerji yükleniyor!
@@ -284,9 +282,9 @@
 430899870196465689,Fanatiğin aşkı yenilmez!
 430899870196465690,Yeni bilgiler ifşa oldu!
 430899870196465691,P sahneye çıkıyor!
-430899870196465692,Kontrol etmek zamanı!
+430899870196465692,Kontrol etme zamanı!
 430899870196465693,Kişisel bilgiler yasaktır!
-430899870196465694,Denpa sanrılı ve güzel Q!
+430899870196465694,Denpa Sanrılı Güzel Kız Q!
 430899870196465695,P'nin Zehirli Sinyali!
 430899870196465696,Çok üzücü bir olay.
 430899870196465697,Henüz bitirme!
@@ -294,17 +292,17 @@
 430899870196465699,İlk Sinyal mi?
 430899870196465700,İlk Sinyal mi??
 431218986526605312,Ritim oyunu eğitimini yapalım mı?
-432448074771759104,ANNECİĞİM
+432448074771759104,Anneciğim
 432475509521285120,(Babacığımla seçtiğimiz okul çantası. Sevimli olduğunu söylediğinde ne sevinmiştim...)
 432475509538062336,(Etkinlikte satılan hayran yapımı figür. Umarım bir gün gerçeği çıkar.)
 432475509538062337,(Kendi isteğimle yapacağım. Kendi isteğimle yapacağım. Kendi isteğimle yapacağım. Anneciğime söz verdim. Özür dilerim.)
 432475509538062338,(Babacığımın odasındaki kocaman televizyon. Retro havası güzel sanki?)
-432475509538062339,(Babacığım gittikten sonra Anneciğimle baş başa çıktığımız kayak tatilinin fotoğrafı.)
-432475509538062340,"(Okul çantası. Çöp kutusu. İçindekiler çalıp, her şeyi pislettiler.)"
+432475509538062339,(Babacığım gittikten sonra anneciğimle baş başa çıktığımız kayak tatilinin fotoğrafı.)
+432475509538062340,"(Okul çantası. Çöp kutusu. İçindekileri çalıp, her şeyi pislettiler.)"
 432475509538062341,(İnfaz Meleği † Guiltina OVA 2. ciltle birlikte hediye dergi posteri. Anneciğimin yırttığı yerler onarıldı.)
 432475509538062342,"(Kiralık vitrinde bulduğum peluş. Resmi ürünlerde olmaması lazım, hayran yapımı mı acaba?)"
 432475509538062343,"(Dünyada sadece 30 tane olan sınırlı üretim Yunyun Dakimakura Kılıfı. Şansım tuttu, açık artırma sitesinde kaptım.)"
-432475509538062344,"(Çöp. Salonu kirletirsem Anneciğim kızıyor, sabahları da uyanamıyorum, o yüzden birikip duruyor...)"
+432475509538062344,"(Çöp. Salonu kirletirsem anneciğim kızıyor, sabahları da uyanamıyorum, o yüzden birikip duruyor...)"
 432475509538062345,(Eski dizüstü bilgisayar. Roman yazmaya çalışıyorum. Kurgusu bayağı iyi gidiyor olmalı!)
 432475509538062346,(Ödül figürleri. UFO makinesinden almayı sevdiğimden fark etmeden biriktiriyorum.)
 432475509538062347,(Dışarısı işlek caddenin bir ara sokağı. Güneş ışığı mı yoksa sokak lambası mı belli değil...)
@@ -313,9 +311,9 @@
 432475509538062350,(Anneciğimin izleri. Bazen uyuyup uyandığımda eşyaların yeri değişmiş oluyor.)
 432475509538062351,"(Buraya girenler, tüm umutlarınızı terk edin.)"
 432475509538062352,(Kimin paltosuydu bu ya...?)
-432475509538062353,(Dur bakalım. Çürük Deniz'e karışmayın...)
+432475509538062353,(Dur bakalım. Çürük denizine el sürme...)
 432961279398936576,■Enerji İçeceği
-432961279428296704,"Q ZONe içince, ZONe Moduna mı giriyor?! Denpa Şarkısı'ndan düşen 'Manifesto Kartı' yıldızları +1 artar!"
+432961279428296704,"Q ZONe içince, ZONe Moduna mı giriyor?! Denpa \nŞarkısı'ndan düşen '██████████████' yıldızları +█ \nartar!"
 432961279436685312,Tutorial/Screenshot2
 432961279436685313,ZONe
 432987649965457408,rimdelacent
@@ -332,20 +330,20 @@
 433427943441727488,#???
 433702239711952896,Onayla
 433702239821004800,Ekipman
-435459201915060224,Anneciğin'i aramak için Heyecan Seviyesi yetersiz!
-435459201957003264,Anneciğin'e eve dönmesi için mesaj atacan mı?
-435459201957003265,Anneciğim'i üzdüm mü acaba...?
+435459201915060224,Anneciğini aramak için Heyecan Seviyesi yetersiz!
+435459201957003264,Anneciğine eve dönmesi için mesaj atacak mısın?
+435459201957003265,Anneciğimi üzdüm mü acaba...?
 435459201957003266,Ah! Anneciğim...
 435459201957003267,"Oha, çok feci kızmış!!"
 435459201957003268,GYAAA! Özür dilerim! Çok özür dilerim!\nDüzgün bir yetişkin olmak için çok çalışacağım!!
 435459201957003269,GYAAAAA!!
 435459201957003270,Buzdolabı doldu ama karşılığında Heyecan Seviyesi düştü...
-435459201957003271,"Ehehe. Ama, aslında Anneciğim'i görmek istiyorum ya."
-435459201957003272,"Özür dilerim Anneciğim. Meşgulken rahatsız ettim. Ama ne diyeceğimi bilemedim... Seni görmeyeli çok oldu, özledim. Hiç görüşemiyoruz. Nasılsın? Sen kendine bakarsın ama yemek falan yiyor musun düzgünce? Ben enerji içeceğiyle idare ediyorum. Ah, sahi buzdolabında kalmamış galiba? Yemek seçtiğim için özür dilerim. Hep kızıyorsun ama hiç düzelmiyorum, cidden iflah olmazın tekiyim. Pişmanım. Gerçekten bak? Konu dağıldı yine. Eve gelmenin zahmetli olduğunu biliyorum, iş yerin (?) uzak, çok meşgulsün falan ama seni görmek istiyorum. Dersler pek ilerlemiyor, iyi bir çocuk muyum bilmiyorum ama seni görürsem çok mutlu olurum. Rica etsem gelir misin?"
+435459201957003271,"Ehehe. Ama, aslında anneciğimi görmek istiyorum ya."
+435459201957003272,"Özür dilerim anneciğim. Meşgulken rahatsız ettim. Ama ne diyeceğimi bilemedim... Seni görmeyeli çok oldu, özledim. Hiç görüşemiyoruz. Nasılsın? Sen kendine bakarsın ama yemek falan yiyor musun düzgünce? Ben enerji içeceğiyle idare ediyorum. Ah, sahi buzdolabında kalmamış galiba? Yemek seçtiğim için özür dilerim. Hep kızıyorsun ama hiç düzelmiyorum, cidden iflah olmazın tekiyim. Pişmanım. Gerçekten bak. Konu dağıldı yine. Eve gelmenin zahmetli olduğunu biliyorum, iş yerin (?) uzak, çok meşgulsün falan ama seni görmek istiyorum. Dersler pek ilerlemiyor, iyi bir çocuk muyum bilmiyorum ama seni görürsem çok mutlu olurum. Rica etsem gelir misin?"
 435459201957003273,"Anneciğim, nasılsın? Ben ""Yunyun"" sayesinde iyiyim. Ama gerçekte yapayalnızım ve aklıma sadece seni görmek geliyor. O yüzden mesaj attım. Yüzsüzlük ediyorum, biliyorum. Ama arada sırada da olsa gerçekten eve dönmeni istiyorum. Bana sarılırsan kalbim yerinden çıkacakmış gibi olur. Bencillik ettiğim için özür dilerim. Cevap verirsen sevinirim.\nBir de, eğer eve gelirsen... Çok özür dilerim ama hazır noodle ve enerji içeceği stoklayabilir misin? Çok makbule geçer. Okula gitmiyorum, çalışmıyorum ama yine de istiyorum... Özür dilerim. Ben sadece bir asalağım."
-435459201957003274,"Yunyuuun! Rim de Lacent! Q şu an Yunyun'un sevgi dalgalarıyla heyecandan yerinde duramıyor! Peki ya çalışan Anneciğim nasıl? Kalbin küt küt atıyor mu? Yorgun musun? Hep çok çalışan Anneciğim'e sevgi dalgaları gönderiyorum! Harikasın, güzelsin, beceriklisin ve benim gururumsun. Seviyorum! Seviyorum! Çok seviyorum! Aşığım sana! O yüzden kendini yorma ve arada sırada dinlen, tamam mı? Dışarıda değil, evde dinlenebilirsin! Evde ben de varım çünkü!\n(Kalbi ve karnı aç kızın eve dönmeni bekliyor!)"
+435459201957003274,"Yunyuuun! Rim de Lacent! Q şu an Yunyun'un sevgi dalgalarıyla heyecandan yerinde duramıyor! Peki ya çalışan anneciğim nasıl? Kalbin küt küt atıyor mu? Yorgun musun? Hep çok çalışan anneciğime sevgi dalgaları gönderiyorum! Harikasın, güzelsin, beceriklisin ve benim gururumsun. Seviyorum! Seviyorum! Çok seviyorum! Aşığım sana! O yüzden kendini yorma ve arada sırada dinlen, tamam mı? Dışarıda değil, evde dinlenebilirsin! Evde ben de varım çünkü!\n(Kalbi ve karnı aç kızın eve dönmeni bekliyor!)"
 435459201957003275,"ANNECİĞİM! ( ´∀｀)σ)∀)\nŞu an nerede ne yapıyorsun? (´・ω・)\nBen mi? Bilgisayarda yuvarlanıp duruyorum sadece (；´Д｀)\n\nHey, Anneciğim...\nYoksa sevgilinle randevuda mısın? ( ﾟдﾟ )\nÖyleyse eğlencelidir kesin ama ben terk edilmiş gibi hissediyorum, ağlayacağım (´・ω・｀) O yüzden dayanamayıp mesaj attım m9(Д)PUHAHA\n\nAslında, bana ""Ben geldim"" demeni, benim de sana ""Hoş geldin"" dememi istiyorum (〃▽〃)\nBencillik biliyorum ama\nsadece cevap versen de olur (´・∀・｀)\n\nEğer eve gelirsen bir ricam var (；´∀｀)\nMarketten biraz hamur işi veya hazır noodle alır mısın? Azıcık olsa da olur.\nAma en önemlisi enerji içeceği! (ﾟ∀ﾟ)\nOkula gitmiyorum, çalışmıyorum, işe yaramazın teki olduğumu biliyorum (ヽ´ω`)\n\nAma yine de bir tek senin beni gözden çıkarmanı istemiyorum."
-435459201957003276,Hey... Anne (Anneciğim)... O iş yerinde ne tür çiçekler satıyorsun?\nHey... Anne (Anneciğim)... O iş yerinde ne tür içkiler içiyorsun?\nHey... Anne (Anneciğim)... O iş yerinde canın artık yanmıyor mu?\nHey... Anne (Anneciğim)... O iş yerinde birlikte olamaz mıyız?\nHey... Anne (Anneciğim)...\n(Senin nesil bu sanatçıyı dinliyordu di mi? lol)
+435459201957003276,Hey... Anne (Anneciğim)... O iş yerinde ne tür çiçekler satıyorsun?\nHey... Anne (Anneciğim)... O iş yerinde ne tür içkiler içiyorsun?\nHey... Anne (Anneciğim)... O iş yerinde canın artık yanmıyor mu?\nHey... Anne (Anneciğim)... O iş yerinde birlikte olamaz mıyız?\nHey... Anne (Anneciğim)...\n(Senin neslin bu sanatçıyı dinliyordu di mi? lol)
 435459201957003277,Anneciğiiiim!\nEve gelir misin lütfeeen?
 435459201957003278,"Aniden yazdığım için özür dilerim. Sadece mesaj atmak istedim.\nBen iyiyim. Dediğin gibi sessizce, kimseye rahatsızlık vermeden yaşıyorum. Ders çalışıp elimden geleni yapmayı düşünüyorum. Böyle Hikikomori olarak kalıp sana yük olmak istemiyorum, düzgün biri olmak istiyorum."
 435459201957003279,"Anneciğim, ben tek başıma gayret ediyorum."
@@ -358,17 +356,17 @@
 436301150398087168,■MOD DEĞİŞTİRME
 436301150431641600,Mod seçimi oyunun gidişatını etkilemez! \n 【NORMAL】Önerilen mod\n 【BOMBA】Zorlu bir mod\n 【ÇATIRÇATIR】Daha da zorlu bir mod\n 【HAYATSIZ】Sadece en dayanıklar ayakta kalır
 436301150431641601,■NORMAL
-436301150431641602,NORMAL Sinyal zamanlaması!\n ・MÜKEMMEL: ±50\n ・HARİKA: ±101\n ・İYİ: ±191
+436301150431641602,NORMAL Sinyal zamanlaması!\n ・PERFECT: ±50\n ・GREAT: ±101\n ・GOOD: ±191
 436301150431641603,■BOMBA
-436301150431641604,BOMBA Sinyal zamanlaması!\n ・MÜKEMMEL: ±33\n ・HARİKA: ±66\n ・İYİ: ±151
+436301150431641604,BOMBA Sinyal zamanlaması!\n ・PERFECT: ±33\n ・GREAT: ±66\n ・GOOD: ±151
 436301150431641605,■ÇATIRÇATIR
-436301150431641606,ÇATIRÇATIR Sinyal zamanlaması!\n ・MÜKEMMEL: ±33\n ・HARİKA: ±66\n ・İYİ: ±101
+436301150431641606,ÇATIRÇATIR Sinyal zamanlaması!\n ・PERFECT: ±33\n ・GREAT: ±66\n ・GOOD: ±101
 436313355180998656,■ŞERİT TİPİ
-436313355214553088,Geniş Mod veya\nDar Mod seçebilirsin!
+436313355214553088,Geniş Mod veya Dar Mod seçebilirsin!
 436313355214553089,■NOTA HIZI
 436313355214553090,Düşen notaların hızı değiştir!
 436313355214553091,■±ZAMANLAMA HATASI
-436313355214553092,MÜKEMMEL vuruşa göre zamanlama hatasını gösterir!
+436313355214553092,PERFECT vuruşa göre zamanlama hatasını gösterir!
 436313355214553093,■VURUŞ ZAMANLAMASI AYARI
 436313355214553094,"Vuruş zamanlamasını ayarlar!\n\nMesela hata genelde +5.0 ise,\nzamanlamayı -5.0 yapıp 0'a yaklaştır!"
 436313355214553095,■AYNA MODU
@@ -388,12 +386,12 @@
 436322615264706567,■BAŞARIMLAR
 436322615264706568,Bunları kazanırsan Denpa Seviyesi artar! Tüm düşler için ortaktır. Yeni şarkılar çalmak en verimli yoldur!
 436489289930539008,■ANNECİĞİM
-436489289964093440,"Q, Anneciğim ile iletişime geçer. Heyecan Seviyesi %50 düşer ama karşılığında buzdolabının içi yenilenir!"
+436489289964093440,"Q, anneciği ile iletişime geçer. Heyecan Seviyesi %50 düşer ama karşılığında buzdolabının içi yenilenir!"
 436557321067462656,■Denpa Seviyesi
-436557321121988608,"%100'e ulaşmak,\nYunyun Denpa Sendromu'nun amacı!\n\nHer şey Q'ya 'YUNYUN DENPA YAYINI' yapmak için!"
-436636402375098368,■ANNECİĞİN GELDİ MODU!
+436557321121988608,"%100'e ulaşmak,\nYunyun sendromunun amacı!\n\nHer şey Q'ya 'YUNYUN DENPA YAYINI' yapmak için!"
+436636402375098368,■ANNECİĞİM GELDİ MODU!
 436636402400264192,"Tab tuşuna basınca çoook masum bir ekrana geçersin! Anneciğin görse bile oyun oynadığın anlaşılmaz, güvendesin!"
-437990325392408576,"YUNYUN OTO-FÜZYON başlatılsın mı?\n(Yunyun Seviyesi -%50. 25 dakika boyunca rastgele ""Denpa Şarkısı"" çalınır ve\n rastgele 4 yıldıza kadar Komplo Teorisi üretilir.)"
+437990325392408576,"YUNYUN OTO-FÜZYON başlatılsın mı?\n(Yunyun Seviyesi -%50. 15 dakika boyunca rastgele ""Denpa Şarkısı"" çalınır ve\n rastgele 4 yıldıza kadar komplo teorisi üretilir.)"
 437990325430157312,Bitişe kalan süre
 437990325430157313,Ortaya çıkan Komplo Teorileri
 437990325430157314,Yunyun Füzyon Modu kapatılsın mı?
@@ -403,10 +401,10 @@
 438203185234083840,Yunyun Seviyesi yetersiz!
 439051954611716096,SES SENKRONU
 439051954645270528,■SES SENKRONU
-439051954645270529,Denpa Şarkısı ile Notaların gösterim zamanlamasını kaydır! Bluetooth kulaklık kullanırken de çok işe yarar!
+439051954645270529,Denpa Şarkısı ile Notaların gösterim zamanlamasını \nkaydır! Bluetooth kulaklık kullanırken de çok işe yarar!
 439204674949775360,Gönder
 440239443036766208,Q'nun yazdıklarından 3 post seç!
-440239443074514944,STAT ARTIŞI
+440239443074514944,PARAMETRE ARTIŞI
 440310121102475264,BİTİR
 440355190618619904,Benimle oynadığın için mutluyum!!
 440953566032723968,Klavye Efektleri
@@ -419,7 +417,7 @@
 442048202352525315,Yunyun tarih oldu
 442048202352525316,Bu neyin coşkusu? haha
 442048202352525317,Tırstım
-442048202352525318,Q harbi mı?
+442048202352525318,Q harbi mi?
 442048202352525319,İğrenç
 442048202352525320,Kontrol etmek
 442048202352525321,Yunyun hahaha
@@ -428,29 +426,29 @@
 442048202352525324,Hih
 442048202352525325,Yarıldım
 442048202352525326,Harbiden kâhin mi?
-442048202352525327,Yunyun
+442048202352525327,Q tanrı
 442048202352525328,"Yunyun'u seviyorum. Cidden, hem de çok. Cidden. Sizin hayal bile edemeyeceğiniz kadar. Kelimelere dökemeyeceğim kadar çok seviyorum, %99 ihtimalle hastalıklı bir takıntım var. O yüzden hislerimi saçma sapan yorumlamayın. Yunyun..."
 442048202356719616,Q Sinyal Alıcıları lol
-442048202356719617,"Sosyal Medyada gördüğüm Manifestoyu ciddili inceledim.\n\n[Gizemli Manifesto] Q Manifestosu özel bir şifre mi,\n'Yun' sıklığıyla depremleri mi öngörüyor?!\nQ Manifestosunun şifre olduğuna dair kanıtlar ve deprem\ntarihleri neler?\n<color=#1D9BF0>qtube.be/fgjhk...</color>"
+442048202356719617,"Sosyal medyada gördüğüm manifestoyu ciddi bir şekilde inceledim.\n\n[Gizemli Manifesto] 'Q Manifestosu' özel bir şifre mi,\n'Yun' sıklığıyla depremleri mi öngörüyor?!\nQ manifestosunun şifre olduğuna dair kanıtlar ve deprem tarihleri neler?\n<color=#1D9BF0>qtube.be/fgjhk...</color>"
 442050459194261504,[Acil Deprem Bildirimi] XX İli XX Şehrinde 5 şiddetinde deprem. Tsunami riski yok.
-442050459194261505,"Meteoroloji Ajansı'na göre, bugün XX:XX sularında ×××××, ××××××× merkezli bir deprem meydana geldi. ×××××××'da 5 şiddetinde sarsıntı kaydedildi. Yaralı ve hasar bilgileri teyit ediliyor."
+442050459194261505,"Meteoroloji Ajansına göre, bugün XX:XX sularında Tokyo, Machida merkezli bir deprem meydana geldi. Machida'da 5 şiddetinde sarsıntı kaydedildi. Yaralı ve hasar bilgileri teyit ediliyor."
 443938154648600576,Yunyun Syndrome!? Rhythm Psychosis  Demo Sürüm {version}
 446052779343118336,30FPS
 446082796936658944,Şerit Parlaklığı
-446082796974407680,Dönen Parlaklığı
+446082796974407680,Dönen Parlak.
 446086295816667136,■ŞERİT PARLAKLIĞI
-446086295850221568,İstediğin kadar karart veya aydınlat! Notaları daha rahat görmek için ayarla!
-446086295850221569,■DÖNEN PARLAKLIĞI
+446086295850221568,İstediğin kadar karart veya aydınlat! Notaları daha \nrahat görmek için ayarla!
+446086295850221569,■EFEKT PARLAK.
 446086295850221570,İstediğin kadar karart veya aydınlat! Dönen efektlerin parlamasından rahatsız olanlar için!
 450611467881971712,OTOMATİK
-450624822927589376,Otomatik Ses Senkronası
+450624822927589376,OTOMATİK SES SENKRONİZASYONU
 450624822956949504,Ritme uyarak Enter'a bas!\nSon 4 vuruşun ortalamasıyla\nönerilen değer ayarlanacak!\n(Uygulamak için basılı tut!)
 450624822956949505,Uygula
 450624822956949506,Ses Senkronu (Ort.): {time}
 450624822956949507,Otomatik Ses Senkronu bitirilsin mi?
 451505832514977792,ÇATIRÇATIR
 451505832586280960,【AYLIK SIRALAMA】
-451505832586280961,GÜNCELLEME
+451505832586280961,GÜNCEL
 451505832586280963,ZORLUK
 451505832586280964,SIRA
 451505832586280965,KULLANICI ADI
@@ -466,33 +464,253 @@
 451505832586280975,KAKUSEI☆SYNDROME
 451505832586280976,Thanks for playing
 451505832586280977,EXC3PT!ON_H4NDL1NG
-451505832586280978,SÖZDE GÜRÜLTÜ DÜNYASI
+451505832586280978,NOISYVERSE
 451505832586280979,EMERGENCY
-451505832586280980,Bağlantı Kesildi
-451505832586280981,Feryat
+451505832586280980,Disconnected
+451505832586280981,Wail
 451505832586280982,P1XEL_HE4RT_MEM0RY_DVMP
-451505832586280983,Kalbim
-451505832586280984,Boşluk
-451505832586280985,DELİLİKKK
-451505832586280986,Teselli
-451505832586280987,Geçerken Bir Duraksama
+451505832586280983,My Heart
+451505832586280984,Hollow
+451505832586280985,MADDDD
+451505832586280986,Solace
+451505832586280987,A Pause in Passing
 451506460008022016,ŞARKI
 453614789639438336,Temel
 453614789735907328,DLC
 454781211610611712,■HAYATSIZ
-454781211644166144,HAYATSIZ Sinyal zamanlaması!\n ・MÜKEMMEL: ±21\n ・HARİKA: ±41\n ・İYİ: ±101
+454781211644166144,HAYATSIZ Sinyal zamanlaması!\n ・PERFECT: ±21\n ・GREAT: ±41\n ・GOOD: ±101
 454781211644166145,■Aylık Sıralama
-454786337998012416,Denpa Şarkısı skor sıralaması! Ay başında sıfırlanır! (Japonya saatiyle 18:00 civarı planlanıyor)
-461688025463816192,Ekran Sarsıntısı
+454786337998012416,Denpa Şarkısı skor sıralaması! Ay başında sıfırlanır! (İlk sıfırlama 1 Haziran 2026 olarak planlanıyor)
+461688025463816192,EKRAN SARSINTISI
 461692780747587584,■EKRAN SARSINTISI
 461692780781142016,Ekran sarsıntısını açıp kapatabilirsin!
 486178414132363264,Q-Faminico Oyuncusu
 486178414182694912,"İnternetin yükselen yıldızı Yunyun!\nYaratıcısı ve orijinal seslendirenleri büyüsünü anlatıyor!\n\n<color=#1D9BF0>qnews.be/news/6699....</color>\n\nGündemdeki Q aslında orijinal kadrodan mı?\nSn. WHO YOU: ""Açıkçası Q'nun gerçek kimliği..."""
-486179209334652928,"Yunyun'un yaratıcısı anlatıyor,\nYunyun'un Hakikati nedir?"
-490310779050033152,Manifestoyu iptal et!
-490310779100364800,■Manifestoyu iptal et!
-490310779100364801,Manifestonun yayınlanmasını ve komplo teorilerinin ortaya çıkmasını iptal edin!
-491313981358768128,■Manifestoyu iptal et!
-491313981400711168,Manifestonun yayınlanmasını ve komplo teorilerinin ortaya çıkmasını iptal edin!\nNeden bahsettiğimi anlamadın mı?\nBu düşde biraz daha ilerlemeyi dene!
-492511546154582016,∞ ERROR
+486179209334652928,"Yunyun'un yaratıcısı anlatıyor,\nYunyun'un hakikati nedir?"
+486669372439560192,> Yunyun\nQ şoktan... kalbi parçalandı...
+486669372481503232,> Yunyun\nGerçeklik acı şeylerle dolu...
+486669372481503233,> Yunyun\nQ'nun kalbine... Yunyun'un Denpa'sını ulaştırmak için...
+486669372481503234,"> Yunyun\nQ, Q, Q. Q, Q, Q..."
+486669372481503235,"> Yunyun\nHayallere kaçsan da, kurguya sığınsan da olur. Yunyun için, Q yaşadığı sürece..."
+486669372481503236,"> Yunyun\n%100 aşıldı. Bekle beni, Q."
+486669372481503237,"> Yunyun\nYunyun, Q'nun kalbine yardım etmek için var oldu!"
+486669372481503238,> Yunyun\nEhehe. Bugün Yunyun'un doğum günü.
+486669372481503239,> Yunyun\nİyi ki doğdun! Bugün Q'nun doğum günü!
+486669372481503240,> Yunyun\nMutlu yıllar!
+486669372481503241,> Yunyun\nMutlu Noeller! Normie'ler patlasın.
+486669372481503242,> Yunyun\nNeden sadece Yunyun burada...?
+486669372481503243,> Yunyun\nQ ile hep birlikte olmaya söz vermiştik...
+486669372481503244,> Yunyun\nBurası... demek öyle... Parçalanmış Q'nun... kafasının içi...
+486669372481503245,"> Yunyun\nBaştan beri hepsi, Yunyun'un anıları... Q'nun kafasının içinde gördüğü, Yunyun hayali..."
+486669372481503246,> Yunyun\nYunyun Denpa Sendromu...
+486669372481503247,"> Yunyun\nBöylece yine, hiçbir şeyden habersiz Yunyun olarak, Q ile Denpa bağlantısı kurabilirim..."
+486669372481503248,> Yunyun\nRim de Lacent.
+488711951800762368,> Yunyun\nBu yüzden... Yunyun...
+488711951834316800,"> Yunyun\nBu yüzden, kurgu dünyasında... birazcık da olsa gülümsemeni istiyorum..."
+488711951834316801,> Yunyun\nYarısı kaldı...
+488711951834316802,> Yunyun\nSorun yok. Kesinlikle sorun yok. Yunyun seni asla yalnız bırakmayacak.
+488711951834316803,> Yunyun\n--Q'yu üzen gerçeklik... fırfır olup gitsin.
+488711951834316804,> Yunyun\nDenpa'yı ulaştırıyorum.
+490310779050033152,GÖNDERİYİ İPTAL ET
+490310779100364800,■GÖNDERİYİ İPTAL ET
+490310779100364801,Gizemli belgenin yayınlanmasını ve komplo teorilerinin ortaya çıkmasını iptal edin!
+490310779100364802,Ehehe. Anneciğimi göreceğim...!
+490310779100364803,Korkuyorum ama... Anneciğim benim tek annem...
+490310779100364804,Ben geldim. demesini ve sarılmasını özledim...
+491313981358768128,■GÖNDERİYİ İPTAL ET
+491313981400711168,Manifesto paylaşımını ve\nortaya çıkan Komplo Teorilerini iptal eder!\nNe olduğunu anlamadın mı?\nBu rüyada biraz daha ilerle bakalım!
+491313981417488384,"İşte şimdi, yenilmez ZONe Modu'na!!"
+491313981417488385,Enerji! MUÇ ♡ diye enjekte!
+491313981417488386,Enerji! LIKIR ♡ diye tutuldum!
+491313981417488387,Coşuyoruzzzzz!!!!!
+491313981417488388,"Ehehe, işte bu, işte bu!! Güç dolup taşıyor!!"
+491313981417488389,Ruhsal Füzyon!!
+491313981417488390,Yun Gücü haddinden fazla!!
+491313981417488391,YUNYUN MODU!!
+491313981417488392,SÜPER-ODAK MODU!!
+491313981417488393,Yunyun ile Manifesto yazalım!!
+491313981417488394,"Kaldırdığın o klavye (cesaret), birbirini gömmek için değil!"
+491313981417488395,Yeni bir Denpa hissediyorum!!
+491313981417488396,Heyecan sinyalleri aldım!!
+491313981417488397,Denpa sinyalini aldığım için mutluyum!!
+491313981417488398,Öyle bir şey olmuş muydu?
+491313981417488399,Eskileri hatırlamak istemiyorum gibi?
+491313981417488400,"Şu an eğlenceliyse, yine de iyidir değil mi?"
+491313981417488401,Tam 5 yıldızlık!
+491313981417488402,Hazine sandığı!
+491313981417488403,"Güm güm, Yunyun, pır pır!"
+491313981417488404,Yine Denpa sinyali al!
+491313981417488405,Kalbin güm güm etti mi?
+491313981417488406,Sinyali aldığım için mutluyum!
+491313981417488407,Yine Yunyun'layalım!
 492511546183942144,0☆☆☆☆☆
+492511546183942145,■Komplo Kontrolü Geass'ı
+492511546183942146,Q Sinyal Alıcılarını Denpa ile kontrol edersin.\nKARİZMA SEVİYE %50 azalır ama\nortaya çıkan Komplo Teorilerini sabitleyebilirsin!
+494270830500544576,Dünyalı değil mi yoksa?
+494270830500544577,Dünya nüfusunu aşmadı mı?
+496371812697014272,Mantar çıkıverdi!
+496399230371528704,GERÇEKLİĞİ BAŞLAT?
+496417239475585024,Şu an seçilemiyor.
+496417239572054016,Artık kullanılamayan bir özellik.
+496417908630650880,∞ ERROR
+496681509798969344,KURTARMA
+496681509815746560,"Yunyun'un Anıları' ve 'Denpa Seviyesi'\nsıfırlansın mı?\n(SKOR, başarımlar, alınan şarkılar, Resimler\nsıfırlanmaz)"
+496681509815746561,"> Yunyun\n""YENİLENMESİ""... Bu dünyanın Denpa seviyesini başlangıç seviyesine geri döndürmek mi demek?"
+496681509815746562,> Yunyun\nBu... Yunyun'un anıları da mı...?
+496681509815746563,"> Yunyun\nHiçbir şey bilmeyen ben olarak,\nQ ile heyecanlanabileceksem..."
+496681509815746564,> Yunyun\n--Mutlu bir Aralıksız Cehennem olabilir.
+496795839752208384,SEVİYE 1
+496795839815122944,SEVİYE 2
+496795839815122945,SEVİYE UZMAN
+496795839831900164,Manifesto kartlarını birleştirince çıkacak komplo teorisi ve artacak parametre tahmini!
+496795839831900165,"Q sinyal alıcılarına ""Komplo Kontrolü Geass'ı"" kullanabilirsin! Komplo teorisini seçersen, çıkacak sonucu sabitleyebilirsin."
+496795839831900166,KARİZMA SEVİYE'nin %50'sini harcayarak çıkacak komplo teorisini sabitleyecek misin? (Sabitlersen POST değiştirilemez)
+496795839831900167,Komplo teorisi sabitlendi!
+498294674869616640,XXX0_0216.txt
+498294674987057152,XXX4_0909.txt
+498294674987057153,XXX5_0106.txt
+498294674987057154,XXX5_0421.txt
+498294674987057155,XXX5_0303.txt
+498294674987057156,XXX5_0901.txt
+498294674987057157,XXX7_0715.txt
+498294674987057158,XXX7_0909.txt
+498294674987057159,XXX7_1224.txt
+498294674987057160,XXX8_0327.txt
+498294674987057161,XXX3_0413.txt
+498294674987057162,XXX4_1018.txt
+498294674987057163,XXX4_1129.txt
+499259063076552704,Günlük eklendi!
+499259063118495744,Şifreyi gir!\nQ'nun gerçek adını Latin harfleriyle yaz.
+499259063118495756,DIARY.ZIP
+499259063126884352,BAŞLAT?
+499259063126884353,Yunyun Denpa Sendromu
+499259063126884354,Artık ne olursa olsun
+499259063126884355,İlk Sinyal mi??
+499259063126884356,İlk Sinyal mi??
+499259063131078656,HATA#&%?! HATA#&%?!
+499259063131078657,Çok mutluyum!!
+499259063131078658,Mutlu mutlu Yunyun...
+499259063131078659,Kafam Yunyun oluyor!!
+499259063131078660,Acı veren hiçbir şeyi düşünemiyorum.
+499259063131078661,Minnetle 1 milyon kez Rim de Lacent
+499259063131078662,ANA SAYFA
+499259063131078663,××
+499259063131078664,××
+499259063131078665,ANA
+499259063131078666,××
+499259063131078667,××
+499259063131078668,P
+499259063131078669,@yunyuniloveyun
+499259063131078670,Yunyun I Love yun♥
+499259063131078671,777
+499259063131078672,556
+499259063131078673,"1,000"
+499259063131078674,"Q'nun Yunyun Denpa'nın kahini olduğu ve manifestolarında hakikatin yazılı olduğu komplo teorisi gündemde.\nÖzel bir steganografi ile şifrelendiği, Yun'un frekansı dalga formuna dönüştürülüp FFT analizi ile spektrum çıkarıldığında, normal metinlerde bulunmayan periyodik bir motifin ortaya çıktığı söyleniyor.\n<color=#1D9BF0>Daha fazla göster</color>"
+499259063131078675,Q Sinyal Alıcısı Arşivi
+499259063131078676,"1,000"
+499259063131078677,"3,614"
+499259063131078678,"4,256"
+499259063131078679,"Q'nun dünyanın kurtarıcısı olduğu ve Yunyun manifestosu ile devrim yapmaya çalıştığı komplo teorisi gündemde.\n\nBu komplo teorisyenine göre:\n""O, derin devletin yok edicisi ve bir devrimci.\nYunyun insanları özgürleştirecek devrim tanrıçasıdır.""\n<color=#1D9BF0>Daha fazla göster</color>"
+499259063131078680,Q Sinyal Alıcısı Arşivi
+499259063131078681,327
+499259063131078682,909
+499259063131078683,"7,015"
+499259063131078684,"Derin devletin ""Q Sinyal Alıcıları""nı tehlikeli görüp Q'ya karşı önlem almayı düşünmeye başladığı komplo teorisi gündemde.\n\n""Q Sinyal Alıcıları"", Q manifestosunu çözümleyip komplo teorisi olarak yorumlayan bir gruptur ve internetteki etkileri her geçen gün artmaktadır.\n<color=#1D9BF0>Daha fazla göster</color>"
+499259063131078685,Q Sinyal Alıcısı Arşivi
+499259063131078931,Kaosun Zirvesindeki Dünya
+499259063131078932,"Q Sinyal Alıcısı adlı topluluk içinde grup çatışmaları şiddetleniyor. Olayların, Q ve Yunyun'un ilişkisine dair yorum farklılıklarından patlak verdiği söyleniyor.\nŞu anda topluluk ""Yun-Q'cular"", ""Q-Yun'cular"" ve ""Değişkenler"" olarak üç güce bölündü. Her grup sosyal medya ve forumlarda kendi iddialarını savunuyor ve her gün şiddetli klavye savaşları yaşanıyor.\nBir Q Sinyal Alıcısı, ""Her şey Q'nun karizmasının çok fazla artmasının sonucu."" diyerek duruma dikkat çekiyor."
+499259063131078934,"Sinyal Alıcısı Topluluğunda Grup Savaşı Patlak Verdi\nYun-Q'cular, Q-Yun'cular ve Değişkenler Karşı Karşıya"
+499259063131078935,Anonim
+499259063131078936,Anonim
+499259063131078937,Anonim
+499259063131078938,Anonim
+499301735589904384,Eyvah!\nDüşürdüm!
+499349231708045312,Ranker Klavyesi
+499349231708045313,Sadece ranker'ların kullanabileceği klavye!
+499349231712239616,Alüminyum Stili
+499349231712239617,Alüminyum Folyo Şapka oluyorsun!
+499349231712239618,PARIL PARIL Stil
+499349231712239619,PARIL PARIL oluyorsun!
+499349231712239620,Mantar Stili
+499349231712239621,Mantarlar fışkırıyor!
+499763409287544832,Q Kanalı
+499763409333682176,İyi geceler Yunyun
+499763409333682177,Q.E.D.
+499763409333682178,Q Açıkça Paranoyak
+499763409333682179,Artık ne olursa olsun
+499763409333682180,Nişan Yüzüğü
+499763409333682181,YUN GEBER
+499763409333682182,Beni boşlama sakın...
+499763409333682183,Çabuk uyu
+499763409333682184,Yun tam bir aptal
+499763409333682185,Bir dahakisi yok
+499763409333682186,Kaosun doruklarında
+499763409333682187,Her şey Yun'a dönüşür
+499763409333682188,Çok Tatlı
+499763409333682189,Yükseliş
+499763409333682190,Öfkeden ölmek sadece Sangokushi Enbu'da olur.
+499763409333682191,Rim de Lacent
+499763409333682192,HIKIKOMORI + √KEDİKULAK= 0
+499763409333682193,Seni (Dolfi'yi) Silme Yöntemi
+499763409333682194,Dünya Hattı'nı düzeltiyorum.
+499763409333682195,Elveda...
+499763409333682196,Aile Karşıtı Plan
+499763409333682197,Akvaryumdaki Q
+499763409333682198,4D Hızı'na dikkat et.
+499763409333682199,"Cennet de olsa cehennem de, ölü olduğun gerçeği değişmez."
+499763409333682200,"Mucizelerin de, büyünün de bir sınırı vardır."
+499763409333682201,İflas etsen bile vergiler silinmez.
+499763409333682202,HIKIKOMORI OF THE DEAD
+499763409333682203,Şüpheli düğmelere sakın basma.
+499763409333682204,Yeni Dünyadan
+499763409333682205,Androidler Hikikomori Kızın rüyasını mı görür?
+499763409333682206,Karanlık ve Işığın Tersyüz Oluşu.
+499763409333682207,DEAD OR ALIVE İnsan Jeneratörü
+499763409333682208,Karakter yüze yansırmış derler.
+499763409333682209,"Kyaa, kendi kendimi bitirdim!"
+499763409333682210,"Terk, Araf ve Kayıp; İhmalin B-D-Y'sidir."
+499763409333682211,Denpa Sanrılı Güzel Kız Q
+499763409333682212,İnternetin sonu.
+499763409333682213,Hata・Oyun・Sıfırlama.
+499763409333682214,Hikikomori-Otaku emrediyor!
+499763409333682215,Fırfır ol!
+499763409333682216,Yunyun-Fan-Otaku kazıyor!
+499763409333682217,Alüminyum Folyo Şapka
+500487460083630080,<<Komplo teorisinin etkisi>>
+500491044795875328,Yunyun I Love yun♥
+500813730281586688,TEMEL BELLEK 01
+500813730323529728,TEMEL BELLEK 02
+501085593167626240,SON?
+501085593205374976,GERÇEK SON
+501085593205374977,KÖTÜ SON
+501085593205374978,OLASI SON
+501793678827880455,Bu şarkı henüz açılmadı.
+501793678827880456,Satın alınmadı
+501793678827880457,Mağaza
+503028339398836224,Q-Wiki\npediQ
+503028339482722304,Anneciğim artık gelmeyecek.
+503028339482722305,Şu an kullanılamıyor gibi görünüyor.
+503028339482722306,Kullanılamıyor.
+504049219386114048,TÜMÜ
+504424741601443840,Bu şarkı henüz açılmadı.
+504850194686443520,Hikâyenin 1. bölümü. Giriş bölümü.\n(Ortaya çıkabilecek Komplo Teorisi sayısı sınırlıdır.)
+504850194707415040,Hikâyenin 2. bölümü! Ana kısım!\nDenpa Seviyesinde %100'ü hedefle!\n(Çok sayıda 5 yıldızlı Komplo Teorisi ortaya çıkar!)
+505542970822524928,■Enerji İçeceği
+505542970822524929,"Q ZONe içince, ZONe Moduna mı giriyor?! Denpa \nŞarkısı'ndan düşen 'Manifesto Kartı' yıldızları +1 \nartar!"
+506512495030206464,Rim de Lacent
+506932830615535616,> Yunyun\n...
+506932830716198912,Bunu başka bir boyuta dışa aktaralım mı?\n*Devam ederek Kullanım Koşulları'nı kabul etmiş olursunuz.
+506985397403942912,Ana kısım!\n(Çok sayıda 5 yıldızlı Komplo Teorisi ortaya çıkar!)
+508098362542817280,AVERAGE
+511019755735515136,Sosyal medyada gösterilen komplo teorisi bölümlerini tekrar izleyebilirsin!
+511019755760680960,■ Yayıncılara ve Kayıt Alanlara
+511019755760680961,"Bu oyun, sahneleme gereği otomatik olarak pencere moduna geçebilir. Masaüstünüzün görünme ihtimali olduğundan, <color=#f6669e>yalnızca oyun ekranını kaydetmenizi</color> öneririz."
+511019755760680962,■ Işığa Duyarlı Nöbetler Hakkında
+511019755760680963,"Bu oyun yanıp sönme, flaş ve hızlı geçişli efektler içerir. <color=#f6669e>Oyun sırasında kendinizi kötü hissederseniz, oyunu hemen bırakıp</color> dinlenin."
+511637745984241664,"END? Tıklamadan önce ""Q Kanalı""nı izle!"
+511680602052919296,■ANNECİĞİM GELDİ MODU!
+511680602090668032,"HARDCORE bir görüntü çıkarsa,\nözel dalgalar yakalayabilirsin belki, YUN?"
+512558277600641024,■ANNECİĞİM GELDİ MODU!
+512558277600641025,"Tab tuşuna basınca çoook masum bir ekrana geçersin! Anneciğin görse bile oyun oynadığın anlaşılmaz, güvendesin!"
+512823673373229056,Rehber
+512823673406783488,Resmi Site
