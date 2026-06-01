@@ -360,9 +360,9 @@
 436301150431641601,■NORMAL
 436301150431641602,Timing de réception pour NORMAL !\n ・PERFECT：±50\n ・GREAT：±101\n ・GOOD：±191
 436301150431641603,■À BLOC
-436301150431641604,Timing de réception pour À BLOC !\n ・PERFECT：±33\n ・GREAT：±66\n ・GOOD：±151
+436301150431641604,Timing de réception pour À BLOC !\n ・PERFECT：±50\n ・GREAT：±101\n ・GOOD：±191
 436301150431641605,■HARDCORE
-436301150431641606,Timing de réception pour HARDCORE !\n ・PERFECT：±33\n ・GREAT：±66\n ・GOOD：±101
+436301150431641606,Timing de réception pour HARDCORE !\n ・PERFECT：±50\n ・GREAT：±101\n ・GOOD：±191
 436313355180998656,■Type de Piste
 436313355214553088,Tu peux choisir entre Mode Large et Mode Étroit !
 436313355214553089,■Vitesse des Notes
@@ -482,7 +482,7 @@
 454781211610611712,■NO-LIFE
 454781211644166144,Timing de réception pour NO-LIFE !\n ・PERFECT：±21\n ・GREAT：±41\n ・GOOD：±101
 454781211644166145,■Classement Mensuel
-454786337998012416,C'est le classement des scores des Denpa Songs ! Remis à zéro au début du mois ! (La première réinitialisation est prévue le 1er juin 2026.)
+454786337998012416,C'est le classement des scores des Denpa Songs ! Remis à zéro au début du mois ! 
 461688025463816192,Secousses écran
 461692780747587584,■Secousses Écran
 461692780781142016,Tu peux activer ou désactiver les secousses de l'écran !
@@ -1118,7 +1118,7 @@
 501085593205374978,SI FIN
 501207988280918016,"800,813"
 501207988322861056,"369,369"
-501207988322861057,"Des Denpa pour l'Asservissement circulent à Akihabara. Ceux qui perdent leur Dokidoki subissent une Désotakisation.\nVous, Récepteurs de Denpa Yunyun ! Rassemblez-vous à Akihabara et marchez pour la Désesclavagisation !"
+501207988322861057,"Des Denpa pour l'Asservissement circulent à Akihabara. Ceux qui perdent leur Dokidoki subissent une Désotakisation.\nVous, Récepteurs de Denpa P! Rassemblez-vous à Akihabara et marchez pour la Désesclavagisation !"
 501207988322861058,P
 501207988322861059,××××
 501207988322861060,××××

@@ -65,7 +65,7 @@
 385849608025309184,> Yunyun\n¡Aaaah! ¡Te falta Denpa y es desesperante!
 385849608025309185,> Yunyun\n¡Waaah! ¡Se rompió!\n¡Revisa CARGAR SUEÑO!
 385884829454073856,ERRO#&R%@
-385903467410128896,FILME DE ABERTURA
+385903467410128896,VIDEO DE ABERTURA
 385903467410128897,GALERÍA DE MÚSICA
 385903467410128898,CRÉDITOS
 385903467410128899,> Yunyun\n¡Es una Página especial!
@@ -79,7 +79,7 @@
 400535952945217536,> Yunyun\n¡Tengo que pasarle estos sentimientos a Q…!
 400535952945217537,> Yunyun\n¡Yunyuuun!
 402137850064306176,VOLVER
-402152904314748928,Config. básica
+402152904314748928,Sistema
 402152904352497664,Juego de ritmo
 402152904352497665,Config. teclas
 402152904352497666,Idioma
@@ -166,7 +166,7 @@
 410592432239050752,Estándar
 415542925398802432,Título: {title}\nVoz: {singer}\nLetra: {lyricist}\nComp.: {composer}\nArr.: {arran}\nMapa de ritmo: {score_editor}
 415579311279603712,Yunyun Syndrome!? Rhythm Psychosis Versión {version}
-415610741573451776,ERROR DE DATOS
+415610741573451776,REPORTE DE ERROR
 415610741594423296,CONTACTO
 415610741594423297,TRANSMISIÓN DENPA
 415610741594423298,VOLVER
@@ -327,10 +327,10 @@
 433074816867794944,Teclado normal
 433074816901349376,¡Parece el teclado que usaba mi papá!
 433074816901349377,Teclado increíble
-433074816901349378,¡Puede reproducir Canciones en MODO AUTOMÁTICOMENTE!\n(No afecta la puntuación ni los logros).
+433074816901349378,¡Puede reproducir Canciones en MODO AUTOMÁTICAMENTE! (No afecta la puntuación ni los logros).
 433303487230672896,(No tengo fuerzas para moverme. \nMe falta DOKIDOKI en mi corazón….)
 433427943441727488,#???
-433702239711952896,Accepto
+433702239711952896,Acepto
 433702239821004800,Equipo
 435459201915060224,¡No hay suficiente Nivel de DOKIDOKI para contactar a Mamá!
 435459201957003264,¿Contactar a Mamá para pedirle que vuelva a casa?
@@ -360,9 +360,9 @@
 436301150431641601,■NORMAL
 436301150431641602,¡Tiempos de Sintonía para NORMAL!\n ・PERFECT: ±50\n ・GREAT: ±101\n ・GOOD: ±191
 436301150431641603,■DIFÍCIL
-436301150431641604,¡Tiempos de Sintonía para DIFÍCIL!\n ・PERFECT: ±33\n ・GREAT: ±66\n ・GOOD: ±151
+436301150431641604,¡Tiempos de Sintonía para DIFÍCIL!\n ・PERFECT: ±50\n ・GREAT: ±101\n ・GOOD: ±191
 436301150431641605,■EXTREMO
-436301150431641606,¡Tiempos de Sintonía para EXTREMO!\n ・PERFECT: ±33\n ・GREAT: ±66\n ・GOOD: ±101
+436301150431641606,¡Tiempos de Sintonía para EXTREMO!\n ・PERFECT: ±50\n ・GREAT: ±101\n ・GOOD: ±191
 436313355180998656,■TIPO DE CARRIL
 436313355214553088,¡Elige entre Modo Ancho y Modo Delgado!
 436313355214553089,■VELOCIDAD DE NOTAS
@@ -482,7 +482,7 @@
 454781211610611712,■HARDCORE
 454781211644166144,¡Tiempos de Sintonía para HARDCORE!\n ・PERFECT: ±21\n ・GREAT: ±41\n ・GOOD: ±101
 454781211644166145,■Ranking mensual
-454786337998012416,¡Ranking mensual de Transmisiones Denpa!\n¡Se reinicia al inicio del mes! (El primer reinicio está programado para el 1 de junio de 2026).
+454786337998012416,¡Ranking mensual de Transmisiones Denpa!\n¡Se reinicia al inicio del mes!
 461688025463816192,Sacudida de pantalla
 461692780747587584,■SACUDIDA DE PANTALLA
 461692780781142016,¡Puedes activar o desactivar\nla sacudida de pantalla!
@@ -507,19 +507,19 @@
 486669372481503246,"> Yunyun\n""Yunyun Syndrome""..."
 486669372481503247,"> Yunyun\nAsí, Yunyun podrá volver a conectar con Q y el Denpa… sin saber nada, como antes…"
 486669372481503248,> Yunyun\nRim de Lacent.
-486669372498280448,"6 de febrero de XXX0.\nPapá se divorció y se fue.\n\nDicen que fue culpa de una amiga de mamá.\n\nParece que jugará conmigo solo una vez cada tres meses, como siempre.\n\nMe hizo cariños y dijo: ""Papá siempre será el papá de Kurumi"".\n\nComo papá es papá, supongo que está claro.\n\nMi apellido cambia y desde hoy seré ""Kurumi Kurusu"".\n\nCuando se lo conté a mis amigas,\nYuri me puso de apodo ""Q"" por “vueltas y vueltas”. No entiendo muy bien.\n\nRei dijo que ""suena lindo"".\n\nSi suena lindo, ¿entonces está bien?"
+486669372498280448,"6 de febrero de XXX0. Papá se divorció y se fue de casa.\nDicen que fue culpa de una amiga de mamá.\nParece que solo jugará conmigo una vez cada tres meses, como siempre.\nMe dio cariño y dijo: “Papá siempre será el papá de Kurumi”.\nPapá es papá, así que supongo que está claro.\nMi apellido cambia y desde hoy seré “Kurumi Kurusu”.\n\nSe lo conté a mis amigas y Yuri me ha puesto el apodo de “Q”, porque dice que mi nombre suena como “Kuru-kuru”, girando sin parar, como un pensamiento que no deja de dar vueltas.\nY dice que “Q” suena más bonito que “K”. No lo entiendo muy bien, la verdad.\nRei dijo que “suena lindo”.\nSi suena lindo, ¿entonces está bien?"
 486669372498280449,"9 de septiembre de XXX4.\nEste año solo he visto a papá una vez.\nSiento que cuando entre a la secundaria, lo veré mucho, mucho menos.\n\n""Kurumi, tienes una hermanastra""\nEso dijo.\n\nY eso después de decir que siempre sería el papá de Kurumi.\nMentiroso.\n\nSolo tengo a mamá.\nSolo mamá es mi mamá."
 486669372498280450,"6 de enero de XXX5.\nMe mudo con mamá.\n\nParece que el dinero que nos da papá disminuyó.\nMamá se enojó y rompió mi taza.\n\nTambién me cambiaré a una escuela pública en el nuevo lugar.\n\nIré a una secundaria diferente a la de mis amigas,\ndiferente a la de Yuri y Rei."
 486669372498280451,"21 de abril de XXX5.\nEn esta ciudad, no solo la primaria,\ntambién la secundaria me hace doler el corazón.\n\nTengo miedo.\n\nPero tengo que esforzarme.\nNo quiero causarle problemas a mamá.\nElla trabaja hasta tarde para que todo salga bien."
 486669372498280452,"3 de marzo de XXX5.\n""A ti tampoco te amaba papá""\nMamá se rió al decir eso.\n\nEs cierto.\n\nSi yo fuera la “favorita” de papá,\nno nos habríamos separado y papá no se habría divorciado de mamá.\nNo habría bajado la pensión ni nada de eso.\n\nMamá. Papá.\n\nPerdón por no ser amada.\nPerdón por no ser una niña linda.\nPerdón por ser así."
 486669372498280453,"1 de septiembre de XXX5.\nYa no quiero salir de casa.\nDe todas formas, a nadie le importa si no voy a la escuela.\n\n¿Por qué?\n\nMe bastaría con ser “normal”.\nMe bastaría con no ser infeliz.\nNo me importa si no puedo ser feliz.\n\n¿Por qué nadie me deja tener siquiera eso?\n\nSolo quiero no sentir tristeza.\nSolo quiero no sentirme miserable.\n\nYa no sean crueles conmigo."
-486669372498280454,"15 de julio de XXX7.\nMamá ya no vuelve hasta la mañana, cada vez más seguido.\n\nOdio a los amigos de mamá.\n\nMamá, solo mamá, era mía.\n¿Por qué con esa gente…?"
+486669372498280454,"15 de julio de XXX7. Mamá ya no vuelve hasta la mañana, cada vez más seguido.\nOdio a los amigos de mamá.\nMamá… solo mamá era mía. ¿Por qué estás con ese tipo?"
 486669372498280455,"9 de septiembre de XXX7.\nEs mi cumpleaños y estuve sola toda la noche.\nMe dolía tanto que no pude dormir.\n\n¿Y si papá y mamá ya no me aman?\n¿Y si a mis padres no les importo?\n¿Y si me olvidan?\n\n¿Qué soy yo?\n¿Para qué nací?\n\nNo quería sentirme así.\n\nSi no era en serio,\nsi de todas formas me iban a dejar.\n\nNo hubieran fingido amarme.\n\nNo soy una mascota.\nEs cruel que solo me quieran cuando soy pequeña."
 486669372498280456,"24 de diciembre de XXX7.\nNavidad sola.\n(Aunque nunca me interesó la Navidad, la verdad).\n\nGracias a un personaje llamado “Yunyun”,\nme animé un poco.\n\nRim de Lacent.\nParece ser un anime de hace más de 10 años.\n\nSu honestidad me llega al alma.\nEl sol de la mañana me deslumbra."
 486669372498280457,27 de marzo de XXX8.\nNo quiero ir a la escuela.
-486669372498280458,"13 de abril de XXX3.\nSin darme cuenta, ya tengo 20 años.\nCada vez que mamá vuelve, ella… conmigo.\n\nClaro, es desagradable, ¿no? Una hija única así.\n\nQuiero olvidar todo lo feo.\nSolo quiero pensar en Yunyun.\n\nNo importa si no puedo ser feliz en la realidad.\nImaginación. Delirio.\n\nOjalá la felicidad del mundo de ficción\ndurara aunque fuera solo un segundo más."
+486669372498280458,"13 de abril de XXX3.\nSin darme cuenta, ya tengo 20 años.\nCada vez que mamá vuelve, ella… \n\nClaro, es desagradable, ¿no? Una hija única así.\n\nQuiero olvidar todo lo feo.\nSolo quiero pensar en Yunyun.\n\nNo importa si no puedo ser feliz en la realidad.\nImaginación. Delirio.\n\nOjalá la felicidad del mundo de ficción\ndurara aunque fuera solo un segundo más."
 486669372498280459,18 de octubre de XXX4.\nEstar en casa.\nNo trabajar.\nNo estudiar.\nEscapar siempre de la realidad.\nEstar aquí sin hacer nada.\n\nParece que mamá “odia” todo eso.\n\nPerdón por no poder ser un ser humano decente.\nPerdón por ser así.\n\nPerdón por no ser una niña linda ni una buena niña.\nPerdón. Perdón.
-486669372498280460,"29 de noviembre de XXX4.\nQuiero olvidar todo.\nQuiero volverme “vueltas y vueltas”.\n\nLa realidad, yo misma, todo.\nQuiero olvidar lo doloroso.\nQuiero volverme tonta.\nQuiero escapar.\n\nQuiero hacer… Rim de Lacent.\n\nYunyun, ayúdame."
+486669372498280460,"29 de noviembre de XXX4.\nQuiero olvidar todo.\nQuiero estar girando, sin pensar en nada.\n\nLa realidad, yo misma, todo.\nQuiero olvidar lo que duele.\nQuiero volverme tonta.\nQuiero escapar.\n\nQuiero hacer… Rim de Lacent.\n\nYunyun, ayúdame."
 488711951800762368,> Yunyun\nPor eso... Yunyun...
 488711951834316800,"> Yunyun\nPor eso quiero que sonrías en el mundo de la ficción, aunque sea un poco..."
 488711951834316801,> Yunyun\nSolo falta la mitad...
@@ -1118,7 +1118,7 @@
 501085593205374978,IF END
 501207988280918016,"800,813"
 501207988322861056,"369,369"
-501207988322861057,"En Akihabara fluyen Denpa para la esclavitud civil, y quienes pierden su DOKIDOKI sufren la “desotakización”.\n\n¡Receptores de Ondas Yunyun!\n¡Reúnanse ante Akihabara y marchen por la liberación!"
+501207988322861057,"En Akihabara fluyen Denpa para la esclavitud civil, y quienes pierden su DOKIDOKI sufren la “desotakización”.\n\n¡Receptores de Ondas P!\n¡Reúnanse ante Akihabara y marchen por la liberación!"
 501207988322861058,P
 501207988322861059,××××
 501207988322861060,××××

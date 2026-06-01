@@ -360,9 +360,9 @@
 436301150431641601,■NORMAL
 436301150431641602,Timing de Recepção do Normal!\n ・PERFECT: ±50\n ・GREAT: ±101\n ・GOOD: ±191
 436301150431641603,■A MIL
-436301150431641604,Timing de Recepção do A Mil!\n ・PERFECT: ±33\n ・GREAT: ±66\n ・GOOD: ±151
+436301150431641604,Timing de Recepção do A Mil!\n ・PERFECT: ±50\n ・GREAT: ±101\n ・GOOD: ±191
 436301150431641605,■NO LIMITE
-436301150431641606,Timing de Recepção do NO LIMITE!\n ・PERFECT: ±33\n ・GREAT: ±66\n ・GOOD: ±101
+436301150431641606,Timing de Recepção do NO LIMITE!\n ・PERFECT: ±50\n ・GREAT: ±101\n ・GOOD: ±191
 436313355180998656,■TIPO DE RAIA
 436313355214553088,Dá pra escolher entre\no modo Wide e o Slim!
 436313355214553089,■VELOC. DAS NOTAS
@@ -482,7 +482,7 @@
 454781211610611712,■HARDCORE
 454781211644166144,Timing de Recepção do HARDCORE!\n ・PERFECT: ±21\n ・GREAT: ±41\n ・GOOD: ±101
 454781211644166145,■RANKING MENSAL
-454786337998012416,É o ranking de pontuação das Músicas Denpa!\nReseta todo começo de mês!\n(O primeiro reset está previsto para 1º de junho de 2026)
+454786337998012416,É o ranking de pontuação das Músicas Denpa!\nReseta todo começo de mês!
 461688025463816192,Tremor da Tela
 461692780747587584,■Tremor da Tela
 461692780781142016,Dá pra ligar ou desligar o tremor da tela!
